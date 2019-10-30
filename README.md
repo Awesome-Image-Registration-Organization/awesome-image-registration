@@ -11,6 +11,28 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 ---
 
+[**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, data from different sensors, times, depths, or viewpoints.
+
+It is used in computer vision, medical imaging, military automatic target recognition, and compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from these different measurements. 
+
+
+
+This repository collects:
+- Books & Academic Papers 
+- Online Courses and Videos
+- Datasets
+- Open-source and Commercial Libraries/Toolkits
+- Key Conferences & Journals
+
+
+**More items will be added to the repository**.
+Please feel free to suggest other key resources by opening an issue report,
+submitting a pull request, or dropping me an email @ (im.young@foxmail.com).
+Enjoy reading!
+
+---
+
+
 ## 1. Books & Tutorials    
 ### 1.1. Books
 ### 1.2. Tutorials
