@@ -36,6 +36,12 @@ Enjoy reading!
 ## 1. Books & Tutorials    
 ### 1.1. Books
 ### 1.2. Tutorials
+- MICCAI2019: [learn2reg](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
+> Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimisation for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalisation and lack of inter-modality similarity measures. Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. We organise a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss knowhows, challenges and future opportunities in this area.
+- [kaggle:2016] [Image registration, the R way, (almost) from scratch](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
+> There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
+- [kaggle:2018] [X-Ray Patient Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
+> SimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.
 
 ## 2. Courses/Seminars/Videos
 
@@ -43,7 +49,13 @@ Enjoy reading!
 ### 3.1. 
 ### 3.2. 
 
-## 4. Datasets
+## 4. Datasets & Competitions
+### 4.1. Datasets
+- [kaggle:2018] [ct-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after)
+> The dataset is supposed to make it easier to see and explore different registration techniques in particular [VoxelMorph](https://github.com/voxelmorph/voxelmorph)
+
+### 4.2. Competitions
+
 
 ## 5. Papers
 ### 5.1. Overview & Survey Papers
@@ -54,3 +66,5 @@ Enjoy reading!
 ## 6. Key Conferences/Workshops/Journals
 ### 6.1. Conferences & Workshops
 ### 6.2. Journals
+
+
