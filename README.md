@@ -61,11 +61,11 @@ Enjoy reading!
 
 ##### 2019 
 
-[CuRIOUS:2019](https://curious2019.grand-challenge.org/)
+[CuRIOUS:2019](https://curious2019.grand-challenge.org/) | [Official solution](https://arxiv.org/ftp/arxiv/papers/1904/1904.10535.pdf)
 > 1 Register pre-operative MRI to iUS before tumor resection  
 > 2 Register iUS after tumor resection to iUS before tumor resection  
 
-[ANHIR:2019](https://anhir.grand-challenge.org/)
+[ANHIR:2019](https://anhir.grand-challenge.org/) | [Official solution](https://www.researchgate.net/publication/332428245_Automatic_Non-rigid_Histological_Image_Registration_challenge)
 > IEEE International Symposium on Biomedical Imaging (ISBI) 2019  
 > High-resolution (up to 40x magnification) whole-slide images of tissues (lesions, lung-lobes, mammary-glands) were acquired - the original size of our images is up to 100k x 200k pixels. The acquired images are organized in sets of consecutive sections where each slice was stained with a different dye and any two images within a set can be meaningfully registered.
 
