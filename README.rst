@@ -1,7 +1,3 @@
-.. role:: raw-html-m2r(raw)
-   :format: html
-
-
 image-registration-resources
 ============================
 
@@ -28,11 +24,11 @@ image registration related books, papers, videos, and toolboxes
    :alt: License
  
 
-Many thanks to `\ **yzhao062** <https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062>`_ `Anomaly Detection Learning Resources <https://github.com/yzhao062/anomaly-detection-resources>`_\ , and I modeled his style to make this depository. 
+Many thanks to  `\ yzhao062 <https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062>`_ `Anomaly Detection Learning Resources <https://github.com/yzhao062/anomaly-detection-resources>`_\ , and I modeled his style to make this depository. 
 
 ----
 
-`\ **Image registration** <https://en.wikipedia.org/wiki/Image_registration>`_ is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, data from different sensors, times, depths, or viewpoints.
+`\ Image registration <https://en.wikipedia.org/wiki/Image_registration>`_ is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, data from different sensors, times, depths, or viewpoints.
 
 It is used in computer vision, medical imaging, military automatic target recognition, and compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from these different measurements. 
 
