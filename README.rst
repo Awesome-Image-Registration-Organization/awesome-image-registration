@@ -53,6 +53,20 @@ Enjoy reading!
 
 1.1. Books
 ^^^^^^^^^^
+`Multiple view geometry in computer vision <https://www.robots.ox.ac.uk/~vgg/hzbook/>`_ 
+by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. 
+A **must-read** for people in the field of registration. `[E-book] <http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf>`_
+
+`Computer Vision: A Modern Approach <http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928>`_ 
+by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and graduate-level courses in computer vision found in departments of Computer Science, Computer Engineering and Electrical Engineering.
+
+`Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering <https://www.cis.upenn.edu/~jean/gbooks/geomath.html>`_ By **Jean Gallier and Jocelyn Quaintance**. The latest book from upenn about the algebra and optimization theory.
+
+`14 lectures on visual SLAM <https://github.com/gaoxiang12/slambook>`_ By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **SLAM**  `[github] <https://github.com/gaoxiang12/slambook>`_ `[Videos] <https://space.bilibili.com/38737757>`_
+
+`Three-Dimensional Computer vision-A Geometric Viewpoint <https://mitpress.mit.edu/books/three-dimensional-computer-vision>`_  Classical 3D computer vision textbook.
+
+`An invitation to 3D vision <https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf>`_ a self-contained introduction to the geometry of three-dimensional (3- D) vision.
 
 1.2. Tutorials
 ^^^^^^^^^^^^^^
