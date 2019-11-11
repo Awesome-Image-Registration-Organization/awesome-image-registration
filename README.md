@@ -44,21 +44,27 @@ Enjoy reading!
 
 [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) By **Jean Gallier and Jocelyn Quaintance**. The latest book from upenn about the algebra and optimization theory.
 
-[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **SLAM**  [[github\]](https://github.com/gaoxiang12/slambook) [[Videos\]](https://space.bilibili.com/38737757)
-
 [Three-Dimensional Computer vision-A Geometric Viewpoint](https://mitpress.mit.edu/books/three-dimensional-computer-vision)  Classical 3D computer vision textbook.
 
-[An invitation to 3D vision](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf) a self-contained introduction to the geometry of three-dimensional (3- D) vision.
+[An invitation to 3D vision](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf) a self-contained introduction to the geometry of three-dimensional (3-D) vision.
 
 #### Point Cloud
 
-点云数据配准及曲面细分技术 by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。 [[wiki\] ](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974)
+[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **SLAM**  [[github\]](https://github.com/gaoxiang12/slambook) [[Videos\]](https://space.bilibili.com/38737757)
 
+[点云数据配准及曲面细分技术](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974) by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。
 
+#### Remote Sensing
+
+[2-D and 3-D Image Registration: For Medical, Remote Sensing, and Industrial Applications](www.researchgate.net/profile/Rachakonda_Poojitha/post/How_to_reconstruct_a_3D_image_from_two_2D_images_of_the_same_scene_taken_from_the_same_camera/attachment/59d61d9d6cda7b8083a16a8f/AS%3A271832186327046%401441821251591/download/2-D+and+3-D+Image+Registration+for+Medical%2C+Remote+Sensing%2C+and+Industrial+Applications.pdf) by  A. A. Goshtasby, 2005.  
 
 
 
 ### 1.2. Tutorials
+
+#### Natural image
+
+
 
 #### Medical Image
 
@@ -70,6 +76,8 @@ Enjoy reading!
 > SimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.
 
 
+
+#### Remote Sensing
 
 
 
@@ -90,8 +98,60 @@ Enjoy reading!
 ## 2. Courses/Seminars/Videos
 
 ## 3. Toolbox 
-### 3.1. 
-### 3.2. 
+
+### Natural image
+
+
+
+### Medical Image
+
+[c++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.  
+
+[c++] [Python] [Java] [SimpleITK](http://www.simpleitk.org/): A simplified layer built on top of ITK.
+
+[c++] [ANTs](http://stnava.github.io/ANTs/): Advanced normalization tools for brain and image analysis.  Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc). Image  segmentation with priors & nonparametric, multivariate models.   
+
+[c++] [Elastix](http://elastix.isi.uu.nl/):  open source software, based on the well-known [Insight Segmentation and Registration Toolkit](http://www.itk.org) (ITK). The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  
+
+[C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [SimpleElastix](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
+
+[3D slicer](https://www.slicer.org/) :  an open source software platform for  medical image informatics, image processing, and three-dimensional  visualization. Built over two decades through support from the  National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to  physicians, researchers, and the general public.  
+
+
+
+**Github repository for medical image registration**
+
+[Keras] [VoxelMorph](https://github.com/voxelmorph/voxelmorph)
+
+[Keras] [FAIM](https://gihttps://github.com/dykuang/Medical-image-registrationthub.com/dykuang/Medical-image-registration)
+
+[Tensorflow] [Weakly-supervised CNN](https://github.com/YipengHu/label-reg) 
+
+[Tensorflow] [RegNet3D](https://github.com/hsokooti/RegNet) 
+
+[Tensorflow] [Recursive-Cascaded-Networks](https://github.com/microsoft/Recursive-Cascaded-Networks)  
+
+[Pytorch] [Probabilistic Dense Displacement Network](https://github.com/multimodallearning/pdd_net)
+
+[Pytorch] [Linear and Deformable Image Registration](https://github.com/shreshth211/image-registration-cnn)
+
+[Pytorch] [Inverse-Consistent Deep Networks](https://github.com/zhangjun001/ICNet) 
+
+[Pytorch] [Non-parametric image registration](https://github.com/uncbiag/registration) 
+
+[Pytorch] [One Shot Deformable Medical Image Registration](https://github.com/ToFec/OneShotImageRegistration)
+
+[Pytorch] [Image-and-Spatial Transformer Networks](https://github.com/biomedia-mira/istn)
+
+
+
+### Remote Sensing
+
+
+
+### Point Cloud
+
+
 
 ## 4. Datasets & Competitions
 ### 4.1. Datasets
