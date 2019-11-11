@@ -6,8 +6,13 @@ image registration related books, papers, videos, and toolboxes
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
 
-
 Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources), and I modeled his style to make this depository. 
+
+
+
+
+
+
 
 ---
 
@@ -25,6 +30,12 @@ This repository collects:
 - Key Conferences & Journals
 
 
+
+[toc]
+
+
+
+
 **More items will be added to the repository**.
 Please feel free to suggest other key resources by opening an issue report,
 submitting a pull request, or dropping me an email @ (im.young@foxmail.com).
@@ -36,9 +47,9 @@ Enjoy reading!
 ## 1. Books & Tutorials    
 ### 1.1. Books
 
-#### natural image
+#### Natural image
 
-[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [[E-book\]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple View Geometry in Computer Vision (Second Edition).pdf)
+[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [E-book](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 
 [Computer Vision: A Modern Approach](http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928) by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and  graduate-level courses in computer vision found in departments of  Computer Science, Computer Engineering and Electrical Engineering.
 
@@ -68,7 +79,7 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 #### Point Cloud
 
-[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **SLAM**  [[github\]](https://github.com/gaoxiang12/slambook) [[Videos\]](https://space.bilibili.com/38737757)
+[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **视觉SLAM十四讲**  视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 [[github\]](https://github.com/gaoxiang12/slambook) [[Videos\]](https://space.bilibili.com/38737757)
 
 [点云数据配准及曲面细分技术](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974) by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。
 
@@ -86,12 +97,20 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 #### Medical Image
 
+- [Medical Image Registration](https://github.com/natandrade/Tutorial-Medical-Image-Registration) 
+
 - MICCAI2019: [learn2reg](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
 > Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimisation for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalisation and lack of inter-modality similarity measures. Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. We organise a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss knowhows, challenges and future opportunities in this area.
 - [kaggle:2016] [Image registration, the R way, (almost) from scratch](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
 > There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
 - [kaggle:2018] [X-Ray Patient Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
 > SimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.
+
+- [MICCAI2019] [Autograd Image Registration Laboratory](https://github.com/airlab-unibas/MICCAITutorial2019)
+
+- [MIT] [HST.582J](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)  Biomedical Signal and Image Processing [PDF](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/lecture-notes/l16_reg1.pdf) 
+
+
 
 
 
@@ -111,15 +130,74 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 
 
+### 1.3. Blogs
 
+#### [图像配准指北](https://zhuanlan.zhihu.com/Image-Registration)
+
+> [图像配准综述](https://zhuanlan.zhihu.com/p/80985475) 
+>
+> [基于深度学习的医学图像配准综述](https://zhuanlan.zhihu.com/p/70820773) 
+>
+> [基于深度学习和图像引导的医学图像配准](https://zhuanlan.zhihu.com/p/82423947) 
+>
+> [图像配准：从SIFT到深度学习](https://zhuanlan.zhihu.com/p/75784915) 
+>
+> [点云配准综述](https://zhuanlan.zhihu.com/p/91275450) 
+
+[Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+
+
+
+
+
+---
 
 ## 2. Courses/Seminars/Videos
+
+### Courses
+
+[**16-822: Geometry-based Methods in Vision**](http://www.cs.cmu.edu/~hebert/geom.html)
+
+[VALSE 2018] [Talk: 2017以来的2D to 3D](https://zhuanlan.zhihu.com/p/38611920) by 吴毅红
+
+
+
+### Workshops
+
+WBIR-International Workshop on Biomedical Image Registration
+
+> [WBIR2018](https://wbir2018.nl/index.html)，Leiden, Netherlands
+>
+> WBIR2016, Las Vegas NV 
+> WBIR2014, London, UK  
+
+
+
+### Seminars
+
+
+
+### Videos
+
+- [Definition and Introduction to Image Registration Pre Processing Overview](https://www.youtube.com/watch?v=sGNFmAGqpZ8)
+
+-  [仿射变换与图像配准](https://www.bilibili.com/video/av52733294)（科普性视频， 比较简陋）
+
+
+
+---
 
 ## 3. Toolbox 
 
 ### Natural image
 
+[C++]  [Python] [OpenCV](https://opencv.org/): OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.
 
+[C++] [PCL: Point Cloud Library](http://pointclouds.org/). The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+
+[C++] [Ceres Solver](http://ceres-solver.org/index.html): Ceres Solver is an open source C++ library for modeling and solving  large, complicated optimization problems. It can be used to solve  Non-linear Least Squares problems with bounds constraints and general  unconstrained optimization problems.
+
+[C++] [Open3D](http://www.open3d.org/): Open3D is an open-source library that supports rapid development of  software that deals with 3D data. The Open3D frontend exposes a set of  carefully selected data structures and algorithms in both C++ and  Python. The backend is highly optimized and is set up for  parallelization.
 
 ### Medical Image
 
@@ -129,7 +207,7 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 [c++] [ANTs](http://stnava.github.io/ANTs/): Advanced normalization tools for brain and image analysis.  Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc). Image  segmentation with priors & nonparametric, multivariate models.   
 
-[c++] [Elastix](http://elastix.isi.uu.nl/):  open source software, based on the well-known [Insight Segmentation and Registration Toolkit](http://www.itk.org) (ITK). The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  
+[c++] [Elastix](http://elastix.isi.uu.nl/):  open source software, based on the well-known [Insight Segmentation and Registration Toolkit](http://www.itk.org) (ITK). The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf) 
 
 [C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [SimpleElastix](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
 
@@ -171,19 +249,51 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 
 
+---
+
 ## 4. Datasets & Competitions
 ### 4.1. Datasets
+
+#### Natural image
+
+[**Indoor LiDAR-RGBD Scan Dataset**](http://redwood-data.org/indoor_lidar_rgbd/index.html)
+
+[**ETH3D SLAM & Stereo Benchmarks**](https://www.eth3d.net/)
+
+[**EuRoC MAV Dataset**](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
+
+[**ViViD : Vision for Visibility Dataset**](https://sites.google.com/view/dgbicra2019-vivid)
+
+[**Apolloscape: Scene Parsing**]( http://apolloscape.auto/scene.html)
+
+[**KITTI Visual Odometry dataset**](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+
+[**NCLT Dataset**](http://robots.engin.umich.edu/nclt/)
+
+[**Oxford Robotcar Dataset**](https://robotcar-dataset.robots.ox.ac.uk/)
+
+
+
+#### Medical Image
+
 - [kaggle:2018] [ct-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after)
-> The dataset is supposed to make it easier to see and explore different registration techniques in particular [VoxelMorph](https://github.com/voxelmorph/voxelmorph)
+> The dataset is supposed to make it easier to see and explore different registration techniques in particular [VoxelMorph](https://github.com/voxelmorph/voxelmorph) 
+
+#### Remote Sensing
+
+
+
+#### Point Cloud
 
 ### 4.2. Competitions
 
 
-#### [**All Challenges**](https://grand-challenge.org/challenges/)
+#### [All Challenges](https://grand-challenge.org/challenges/)
 
 ##### 2019 
 
 [CuRIOUS:2019](https://curious2019.grand-challenge.org/) | [Official solution](https://arxiv.org/ftp/arxiv/papers/1904/1904.10535.pdf)
+
 > 1 Register pre-operative MRI to iUS before tumor resection  
 > 2 Register iUS after tumor resection to iUS before tumor resection  
 
@@ -204,14 +314,43 @@ A software guide for medical image segmentation and registration algorithm. by Z
 [EMPIRE10](http://empire10.isi.uu.nl/)
 
 
+
+---
+
+
 ## 5. Papers
 ### 5.1. Overview & Survey Papers
 ### 5.2. Key Algorithms
 ### 5.3. 
 
 
+
+
 ## 6. Key Conferences/Workshops/Journals
 ### 6.1. Conferences & Workshops
+
+[IEEE International Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com/)
+
+[IEEE International Conference on Computer Vision](http://iccv2019.thecvf.com/)
+
+[European Conference on Computer Vision](https://eccv2020.eu/)
+
+[IEEE International Conference on Robotics and Automation](https://www.icra2020.org/)
+
+[International Conference on 3D Vision](http://3dv19.gel.ulaval.ca/)
+
+[Winter Conference on Applications of Computer Vision](https://wacv20.wacv.net/)
+
+
+
 ### 6.2. Journals
+
+[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
+
+[International Journal of Computer Vision](https://link.springer.com/journal/11263)
+
+[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
+
+### 
 
 
