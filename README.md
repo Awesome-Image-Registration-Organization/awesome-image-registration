@@ -35,13 +35,57 @@ Enjoy reading!
 
 ## 1. Books & Tutorials    
 ### 1.1. Books
+
+#### natural image
+
+[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [[E-book\]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple View Geometry in Computer Vision (Second Edition).pdf)
+
+[Computer Vision: A Modern Approach](http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928) by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and  graduate-level courses in computer vision found in departments of  Computer Science, Computer Engineering and Electrical Engineering.
+
+[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) By **Jean Gallier and Jocelyn Quaintance**. The latest book from upenn about the algebra and optimization theory.
+
+[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **SLAM**  [[github\]](https://github.com/gaoxiang12/slambook) [[Videos\]](https://space.bilibili.com/38737757)
+
+[Three-Dimensional Computer vision-A Geometric Viewpoint](https://mitpress.mit.edu/books/three-dimensional-computer-vision)  Classical 3D computer vision textbook.
+
+[An invitation to 3D vision](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf) a self-contained introduction to the geometry of three-dimensional (3- D) vision.
+
+#### Point Cloud
+
+点云数据配准及曲面细分技术 by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。 [[wiki\] ](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974)
+
+
+
+
+
 ### 1.2. Tutorials
+
+#### Medical Image
+
 - MICCAI2019: [learn2reg](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
 > Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimisation for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalisation and lack of inter-modality similarity measures. Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. We organise a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss knowhows, challenges and future opportunities in this area.
 - [kaggle:2016] [Image registration, the R way, (almost) from scratch](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
 > There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
 - [kaggle:2018] [X-Ray Patient Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
 > SimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.
+
+
+
+
+
+#### Point Cloud
+
+- [点云配准算法说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/79755623)
+
+- [点云配准算法介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/88188532)
+
+- [机器学习方法处理三维点云](https://blog.csdn.net/u014636245/article/details/82755966)
+
+- [一个例子详细介绍点云配准的过程](https://www.zhihu.com/question/34170804/answer/121533317)
+
+
+
+
 
 ## 2. Courses/Seminars/Videos
 
