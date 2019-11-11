@@ -143,12 +143,24 @@ A software guide for medical image segmentation and registration algorithm. by Z
 > [图像配准：从SIFT到深度学习](https://zhuanlan.zhihu.com/p/75784915) 
 >
 > [点云配准综述](https://zhuanlan.zhihu.com/p/91275450) 
+>
+> **Image Registration @** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
+>
+> 
 
 [Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 
 
+#### 点云配准（！需要重新编辑）
 
+[点云配准算法的说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/797556232)
+
+[几种点云配准算法的方法的介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/881885323)
+
+[三维点云用机器学习的方法进行处理](https://blog.csdn.net/u014636245/article/details/827559664)
+
+[一个例子详细介绍了点云配准的过程](https://www.zhihu.com/question/34170804)
 
 ---
 
@@ -247,7 +259,22 @@ WBIR-International Workshop on Biomedical Image Registration
 
 ### Point Cloud
 
+#### MeshLab
 
+> 简介：是一款开源、可移植和可扩展的三维几何处理系统。主要用于处理和编辑3D三角网格，它提供了一组用于编辑、清理、修复、检查、渲染、纹理化和转换网格的工具。提供了处理由3D数字化工具/设备生成的原始数据以及3D打印功能，功能全面而且丰富。MeshLab支持多数市面上常见的操作系统，包括Windows、Linux及Mac OS X，支持输入/输出的文件格式有：STL 、OBJ 、 VRML2.0、U3D、X3D、COLLADA
+>  MeshLab可用于各种学术和研究环境，如微生物学、文化遗产及表面重建等。
+
+#### ICP开源库
+
+ [SLAM6D](http://slam6d.sourceforge.net/)
+
+ [Libicp](http://www.cvlibs.net/software/libicp/)
+
+[libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
+
+[g-icp](https://github.com/avsegal/gicp)
+
+[n-icp](http://jacoposerafin.com/nicp/)
 
 ---
 
@@ -274,16 +301,84 @@ WBIR-International Workshop on Biomedical Image Registration
 
 
 
-#### Medical Image
+#### Medical Image  (！该部分需要重新编辑)
 
 - [kaggle:2018] [ct-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after)
 > The dataset is supposed to make it easier to see and explore different registration techniques in particular [VoxelMorph](https://github.com/voxelmorph/voxelmorph) 
 
-#### Remote Sensing
+DIRLAB      10  4D Lung CT (.img)
+https://www.dir-lab.com/
+
+LPBA40     3D T1 BrainMR (.img+.hdr  .nii)
+https://resource.loni.usc.edu/resources/atlases-downloads/
+
+IBSR18     3D T1 BrainMR (.img+.hdr)
+https://www.nitrc.org/projects/ibsr/ 
+
+EMPIRE     30 4D Lung CT (.mhd+.raw) 
+http://empire10.isi.uu.nl/  
+
+LiTS         131 3D Liver CT (.nii )
+https://competitions.codalab.org/competitions/17094
+
+Openi, X-ray images
+https://openi.nlm.nih.gov/faq
+
+Popi-model,  6 4D-CT 
+https://www.creatis.insa-lyon.fr/rio/popi-model?action=show&redirect=popi
+
+NLST, National Lung Screening Trial (NLST), about lung cancer, CT images
+https://cdas.cancer.gov/nlst/ 
 
 
 
-#### Point Cloud
+#### Remote Sensing (！该部分需要重新编辑)
+
+
+
+#### Point Cloud(！该部分需要重新编辑)
+
+**The Stanford 3D Scanning Repository**（斯坦福大学的3d扫描存储库）
+
+http://graphics.stanford.edu/data/3Dscanrep/
+
+这应该是做点云数据最初大家用最多的数据集，其中包含最开始做配准的Bunny、Happy Buddha、Dragon等模型。
+
+
+
+**Shapenet**
+
+ShapeNet是一个丰富标注的大规模点云数据集，其中包含了55中常见的物品类别和513000个三维模型。
+
+The KITTI Vision Benchmark Suite
+
+链接：http://www.cvlibs.net/datasets/kitti/
+
+这个数据集来自德国卡尔斯鲁厄理工学院的一个项目，其中包含了利用KIT的无人车平台采集的大量城市环境的点云数据集（KITTI），这个数据集不仅有雷达、图像、GPS、INS的数据，而且有经过人工标记的分割跟踪结果，可以用来客观的评价大范围三维建模和精细分类的效果和性能。
+
+
+
+**Robotic 3D Scan Repository**
+
+链接：http://kos.informatik.uni-osnabrueck.de/3Dscans/
+
+这个数据集比较适合做SLAM研究，包含了大量的Riegl和Velodyne雷达数据
+
+**佐治亚理工大型几何模型数据集**
+
+链接：https://www.cc.gatech.edu/projects/large_models/
+
+**PASCAL3D+**
+
+链接：http://cvgl.stanford.edu/projects/pascal3d.html
+
+包含了12中刚体分类，每一类超过了3000个实例。并且包含了对应的imageNet中每一类的图像。
+
+**其他总结**
+
+链接：https://github.com/timzhang642/3D-Machine-Learning
+
+ 
 
 ### 4.2. Competitions
 
@@ -329,6 +424,28 @@ WBIR-International Workshop on Biomedical Image Registration
 ## 6. Key Conferences/Workshops/Journals
 ### 6.1. Conferences & Workshops
 
+**C.v. c.s Conference**  (！该部分需要重新编辑)
+
+CVPR
+
+ECCV
+
+ICCV
+
+NeurIPS
+
+AAAI
+
+ICML
+
+ICPR
+
+IJCNN
+
+ICIP
+
+IJCAI
+
 [IEEE International Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com/)
 
 [IEEE International Conference on Computer Vision](http://iccv2019.thecvf.com/)
@@ -343,6 +460,48 @@ WBIR-International Workshop on Biomedical Image Registration
 
 
 
+#### Biomedical image
+
+MICCAI, International Conference on Medical Image Computing and Computer Assisted Intervention
+
+IPMI, Information Processing in Medical Imaging
+
+ISBI，International Symposium on Biomedical Imaging 
+
+Medical Imaging SPIE
+
+
+
+#### Remote Sensing (！该部分需要重新编辑)
+
+REMOTE SENSING OF ENVIRONMENT( IF 6.457)，注重全球尺度或长时间尺度的遥感数据处理，极难
+
+ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING( IF5.994)，注重对摄影测量与遥感领域的贡献和算法的创新性，极难
+
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING( IF4.662)，注重算法的创新和论文结构的严谨性，很难
+
+International Journal of Applied Earth Observation and Geoinformation( IF4.003)，偏向于遥感数据在地学的大范围的应用
+
+IEEE Geoscience and Remote Sensing Letters ( IF2.892)，注重算法的创新，且全文要控制在双栏5页之内，较难
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing( IF2.777 )，偏向于创新方法在地学方面的应用
+
+Remote sensing ( IF3.406)，审稿周期短，发表相对容易，但是有降区的风险
+
+GIScience & Remote Sensing
+
+Photogrammetric engineering and remote sensing
+
+International journal of remote sensing
+
+Remote Sensing Letters
+
+Journal of Applied Remote Sensing
+
+#### Point Cloud(！该部分需要重新编辑)
+
+点云配准主要应用于工业制造业的逆向工程、古文物修复、医学三维图像构建等领域。研究内容是属于计算机视觉领域的研究范畴。国际上的会议如计算机视觉三大顶会ICCV、CVPR、ECCV等都会有相关技术，除此之外，还有ACCV、BMVC、SSVM等认可度也比较高。
+
 ### 6.2. Journals
 
 [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
@@ -351,6 +510,18 @@ WBIR-International Workshop on Biomedical Image Registration
 
 [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
 
-### 
+#### Biomedical image
+
+[TMI: IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+
+[MIA: Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
+
+[TIP: IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+
+[TBME: IEEE Transactions on Biomedical Engineering](https://tbme.embs.org/)
+
+#### **Point Cloud(！该部分需要重新编辑)**
+
+IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边有IJCV
 
 
