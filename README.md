@@ -115,7 +115,9 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 
 #### Remote Sensing
+- [Image Alignment and Stitching: A Tutorial](http://www.cs.toronto.edu/~kyros/courses/2530/papers/Lecture-14/Szeliski2006.pdf)
 
+- [Image Stitching](https://www.zhihu.com/question/34535199/answer/135169187)
 
 
 #### Point Cloud
@@ -255,6 +257,17 @@ WBIR-International Workshop on Biomedical Image Registration
 
 ### Remote Sensing
 
+[C++] [OTB](https://github.com/orfeotoolbox/OTB): Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
+
+[C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
+
+[Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral): Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery. 
+
+[C++] [enblend](https://sourceforge.net/projects/enblend/): Enblend blends away the seams in a panoramic image mosaic using a multi-resolution spline. Enfuse merges different exposures of the same scene to produce an image that looks much like a tone-mapped image.
+
+[C++] [maxflow](https://pub.ist.ac.at/~vnk/software.html): An implementation of the maxflow algorithm which can be used to detect the optimal seamline.
+
+[C++] [Matlab] [gco-v3.0](https://github.com/nsubtil/gco-v3.0): Multi-label optimization library by Olga Veksler and Andrew Delong.
 
 
 ### Point Cloud
@@ -332,7 +345,23 @@ https://cdas.cancer.gov/nlst/
 
 
 
-#### Remote Sensing (！该部分需要重新编辑)
+#### Remote Sensing 
+
+[ISPRS Benchmarks](https://www.isprs.org/education/benchmarks.aspx)
+
+[The Zurich Urban Micro Aerial Vehicle Dataset](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
+
+[Zurich Summer Dataset](https://sites.google.com/site/michelevolpiresearch/data/zurich-dataset)
+
+[Inria Aerial Image Labeling DataSet](https://project.inria.fr/aerialimagelabeling/)
+
+[LANDSAT](https://github.com/olivierhagolle/LANDSAT-Download)
+
+[NWPU-RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html)
+
+[DOTA](http://captain.whu.edu.cn/DOTAweb/index.html)
+
+[MUUFLGulfport](https://github.com/GatorSense/MUUFLGulfport)
 
 
 
