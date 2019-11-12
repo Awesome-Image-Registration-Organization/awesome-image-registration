@@ -501,31 +501,31 @@ Medical Imaging SPIE
 
 
 
-#### Remote Sensing (！该部分需要重新编辑)
+#### Remote Sensing
 
-REMOTE SENSING OF ENVIRONMENT( IF 6.457)，注重全球尺度或长时间尺度的遥感数据处理，极难
+[REMOTE SENSING OF ENVIRONMENT](https://www.journals.elsevier.com/remote-sensing-of-environment)
 
-ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING( IF5.994)，注重对摄影测量与遥感领域的贡献和算法的创新性，极难
+[ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/)
 
-IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING( IF4.662)，注重算法的创新和论文结构的严谨性，很难
+[IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 
-International Journal of Applied Earth Observation and Geoinformation( IF4.003)，偏向于遥感数据在地学的大范围的应用
+[International Journal of Applied Earth Observation and Geoinformation](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation/)
 
-IEEE Geoscience and Remote Sensing Letters ( IF2.892)，注重算法的创新，且全文要控制在双栏5页之内，较难
+[IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing( IF2.777 )，偏向于创新方法在地学方面的应用
+[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334)
 
-Remote sensing ( IF3.406)，审稿周期短，发表相对容易，但是有降区的风险
+[Remote sensing](https://www.mdpi.com/journal/remotesensing)
 
-GIScience & Remote Sensing
+[GIScience & Remote Sensing](http://www.bellpub.com/msrs/)
 
-Photogrammetric engineering and remote sensing
+[Photogrammetric engineering and remote sensing](https://www.sciencedirect.com/journal/photogrammetric-engineering-and-remote-sensing)
 
-International journal of remote sensing
+[International journal of remote sensing](https://www.researchgate.net/journal/0143-1161_International_Journal_of_Remote_Sensing)
 
-Remote Sensing Letters
+[Remote Sensing Letters](https://www.scimagojr.com/journalsearch.php?q=19700201680&tip=sid)
 
-Journal of Applied Remote Sensing
+[Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex)
 
 #### Point Cloud(！该部分需要重新编辑)
 
