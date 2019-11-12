@@ -503,6 +503,32 @@ Medical Imaging SPIE
 
 #### Remote Sensing
 
+
+
+#### Point Cloud(！该部分需要重新编辑)
+
+点云配准主要应用于工业制造业的逆向工程、古文物修复、医学三维图像构建等领域。研究内容是属于计算机视觉领域的研究范畴。国际上的会议如计算机视觉三大顶会ICCV、CVPR、ECCV等都会有相关技术，除此之外，还有ACCV、BMVC、SSVM等认可度也比较高。
+
+### 6.2. Journals
+
+[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
+
+[International Journal of Computer Vision](https://link.springer.com/journal/11263)
+
+[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
+
+#### Biomedical image
+
+[TMI: IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+
+[MIA: Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
+
+[TIP: IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+
+[TBME: IEEE Transactions on Biomedical Engineering](https://tbme.embs.org/)
+
+#### Remote Sensing
+
 [REMOTE SENSING OF ENVIRONMENT](https://www.journals.elsevier.com/remote-sensing-of-environment)
 
 [ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/)
@@ -527,27 +553,6 @@ Medical Imaging SPIE
 
 [Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex)
 
-#### Point Cloud(！该部分需要重新编辑)
-
-点云配准主要应用于工业制造业的逆向工程、古文物修复、医学三维图像构建等领域。研究内容是属于计算机视觉领域的研究范畴。国际上的会议如计算机视觉三大顶会ICCV、CVPR、ECCV等都会有相关技术，除此之外，还有ACCV、BMVC、SSVM等认可度也比较高。
-
-### 6.2. Journals
-
-[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
-
-[International Journal of Computer Vision](https://link.springer.com/journal/11263)
-
-[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)
-
-#### Biomedical image
-
-[TMI: IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
-
-[MIA: Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
-
-[TIP: IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
-
-[TBME: IEEE Transactions on Biomedical Engineering](https://tbme.embs.org/)
 
 #### **Point Cloud(！该部分需要重新编辑)**
 
