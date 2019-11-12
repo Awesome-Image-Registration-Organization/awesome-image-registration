@@ -347,21 +347,21 @@ https://cdas.cancer.gov/nlst/
 
 #### Remote Sensing 
 
-[ISPRS Benchmarks](https://www.isprs.org/education/benchmarks.aspx)
+[**ISPRS Benchmarks**](https://www.isprs.org/education/benchmarks.aspx)
 
-[The Zurich Urban Micro Aerial Vehicle Dataset](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
+[**The Zurich Urban Micro Aerial Vehicle Dataset**](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
 
-[Zurich Summer Dataset](https://sites.google.com/site/michelevolpiresearch/data/zurich-dataset)
+[**Zurich Summer Dataset**](https://sites.google.com/site/michelevolpiresearch/data/zurich-dataset)
 
-[Inria Aerial Image Labeling DataSet](https://project.inria.fr/aerialimagelabeling/)
+[**Inria Aerial Image Labeling DataSet**](https://project.inria.fr/aerialimagelabeling/)
 
-[LANDSAT](https://github.com/olivierhagolle/LANDSAT-Download)
+[**LANDSAT**](https://github.com/olivierhagolle/LANDSAT-Download)
 
-[NWPU-RESISC45](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html)
+[**NWPU-RESISC45**](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html)
 
-[DOTA](http://captain.whu.edu.cn/DOTAweb/index.html)
+[**DOTA**](http://captain.whu.edu.cn/DOTAweb/index.html)
 
-[MUUFLGulfport](https://github.com/GatorSense/MUUFLGulfport)
+[**MUUFLGulfport**](https://github.com/GatorSense/MUUFLGulfport)
 
 
 
