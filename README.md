@@ -1,4 +1,5 @@
 # image-registration-resources
+
 image registration related books, papers, videos, and toolboxes 
 
 [![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) 
@@ -6,7 +7,7 @@ image registration related books, papers, videos, and toolboxes
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
 
-Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources), and I modeled his style to make this depository. 
+Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources). I followed his style to make this depository. 
 
 
 
@@ -16,15 +17,16 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 ---
 
-[**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, data from different sensors, times, depths, or viewpoints.
+[**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
-It is used in computer vision, medical imaging, military automatic target recognition, and compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from these different measurements. 
+It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements. 
 
 
 
 This repository collects:
+
 - Books & Academic Papers 
-- Online Courses and Videos
+- On-line Courses and Videos
 - Datasets
 - Open-source and Commercial Libraries/Toolkits
 - Key Conferences & Journals
@@ -45,6 +47,7 @@ Enjoy reading!
 
 
 ## 1. Books & Tutorials    
+
 ### 1.1. Books
 
 #### Natural image
@@ -53,7 +56,7 @@ Enjoy reading!
 
 [Computer Vision: A Modern Approach](http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928) by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and  graduate-level courses in computer vision found in departments of  Computer Science, Computer Engineering and Electrical Engineering.
 
-[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) By **Jean Gallier and Jocelyn Quaintance**. The latest book from upenn about the algebra and optimization theory.
+[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance. The latest book from upenn about the algebra and optimization theory.
 
 [Three-Dimensional Computer vision-A Geometric Viewpoint](https://mitpress.mit.edu/books/three-dimensional-computer-vision)  Classical 3D computer vision textbook.
 
@@ -61,9 +64,10 @@ Enjoy reading!
 
 #### Medical Image
 
-A software guide for medical image segmentation and registration algorithm. by Zhenhuan Zhou, et.al   PartⅡ introduces the most basic network and architecture of medical registration algorithms(Chinese Version). 医学图像分割与配准(ITK实现分册)
+Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm. 医学图像分割与配准(ITK实现分册)**](https://vdisk.weibo.com/s/FQyto0RT-heb) 
+Part Ⅱ introduces the most basic network and architecture of medical registration algorithms **(Chinese Version)**.
 
-[2-D and 3-D Image Registration for Medical, Remote Sensing, and Industrial Applications](http://www.researchgate.net/profile/Rachakonda_Poojitha/post/How_to_reconstruct_a_3D_image_from_two_2D_images_of_the_same_scene_taken_from_the_same_camera/attachment/59d61d9d6cda7b8083a16a8f/AS%3A271832186327046%401441821251591/download/2-D+and+3-D+Image+Registration+for+Medical%2C+Remote+Sensing%2C+and+Industrial+Applications.pdf)   by A. Ardeshir Goshtasby
+[2-D and 3-D Image Registration for Medical, Remote Sensing, and Industrial Applications](http://www.researchgate.net/profile/Rachakonda_Poojitha/post/How_to_reconstruct_a_3D_image_from_two_2D_images_of_the_same_scene_taken_from_the_same_camera/attachment/59d61d9d6cda7b8083a16a8f/AS%3A271832186327046%401441821251591/download/2-D+and+3-D+Image+Registration+for+Medical%2C+Remote+Sensing%2C+and+Industrial+Applications.pdf) by A. Ardeshir Goshtasby
 
 [医学图像配准技术与应用](https://book.douban.com/subject/26411955/) by 吕晓琪    
 
@@ -109,18 +113,31 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 #### Medical Image
 
-- [Medical Image Registration](https://github.com/natandrade/Tutorial-Medical-Image-Registration) 
+- [**Medical Image Registration**](https://github.com/natandrade/Tutorial-Medical-Image-Registration) 
 
-- [MICCAI2019] [learn2reg](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
-> Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimisation for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalisation and lack of inter-modality similarity measures. Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. We organise a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss knowhows, challenges and future opportunities in this area.
-- [kaggle:2016] [Image registration, the R way, (almost) from scratch](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
+- [MICCAI2019] [**learn2reg**](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
+
+> Big thanks to [Yipeng Hu]( https://github.com/YipengHu ) organizing the excellent tutorial.
+>
+> **Description:**
+>
+> Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimization for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalization and lack of inter-modality similarity measures. 
+>
+> Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. 
+>
+> We organize a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss know-hows, challenges and future opportunities in this area.
+>
+> [kaggle:2016] [**Image registration, the R way, (almost) from scratch**](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
+
 > There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
-- [kaggle:2018] [X-Ray Patient Scan Registration](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
+
+- [kaggle:2018] [**X-Ray Patient Scan Registration**](https://www.kaggle.com/kmader/x-ray-patient-scan-registration)
+
 > SimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.
 
-- [MICCAI2019] [Autograd Image Registration Laboratory](https://github.com/airlab-unibas/MICCAITutorial2019)
+- [MICCAI2019] [**Autograd Image Registration Laboratory**](https://github.com/airlab-unibas/MICCAITutorial2019)
 
-- [MIT] [HST.582J](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)  Biomedical Signal and Image Processing [PDF](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/lecture-notes/l16_reg1.pdf) 
+- [MIT] [**HST.582J**](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)  Biomedical Signal and Image Processing [PDF](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/lecture-notes/l16_reg1.pdf) 
 
 
 
@@ -163,7 +180,7 @@ A software guide for medical image segmentation and registration algorithm. by Z
 >
 > [点云配准综述](https://zhuanlan.zhihu.com/p/91275450) 
 >
-> **Image Registration @** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
+> **图像配准会议介绍@** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
 >
 > 
 
@@ -195,10 +212,9 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 ### Workshops
 
-WBIR-International Workshop on Biomedical Image Registration
+WBIR - International Workshop on Biomedical Image Registration
 
-> [WBIR2018](https://wbir2018.nl/index.html)，Leiden, Netherlands
->
+> [WBIR2018,](https://wbir2018.nl/index.html) Leiden, Netherlands
 > WBIR2016, Las Vegas NV 
 > WBIR2014, London, UK  
 
@@ -212,7 +228,7 @@ WBIR-International Workshop on Biomedical Image Registration
 
 - [Definition and Introduction to Image Registration Pre Processing Overview](https://www.youtube.com/watch?v=sGNFmAGqpZ8)
 
--  [仿射变换与图像配准](https://www.bilibili.com/video/av52733294)（科普性视频， 比较简陋）
+- [仿射变换与图像配准](https://www.bilibili.com/video/av52733294)（科普性视频， 比较简陋）
 
 #### Remote Sensing
 - [Registration of images of different modalities in Remote Sensing](https://youtu.be/9pPwNN-7oWU)
@@ -235,43 +251,49 @@ WBIR-International Workshop on Biomedical Image Registration
 
 ### Medical Image
 
-[c++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.  
+[c++] [**ITK**](https://itk.org/): Segmentation & Registration Toolkit
 
-[c++] [Python] [Java] [SimpleITK](http://www.simpleitk.org/): A simplified layer built on top of ITK.
+An open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies. ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.  
 
-[c++] [ANTs](http://stnava.github.io/ANTs/): Advanced normalization tools for brain and image analysis.  Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc). Image  segmentation with priors & nonparametric, multivariate models.   
+[c++] [Python] [Java] [**SimpleITK**](http://www.simpleitk.org/): a simplified layer built on top of ITK.
 
-[c++] [Elastix](http://elastix.isi.uu.nl/):  open source software, based on the well-known [Insight Segmentation and Registration Toolkit](http://www.itk.org) (ITK). The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf) 
+[c++] [**ANTs**](http://stnava.github.io/ANTs/): Advanced Normalization Tools.  
 
-[C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [SimpleElastix](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
+Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc.). Image  segmentation with priors & nonparametric, multivariate models.   
 
-[3D slicer](https://www.slicer.org/) :  an open source software platform for  medical image informatics, image processing, and three-dimensional  visualization. Built over two decades through support from the  National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to  physicians, researchers, and the general public.  
+[c++] [**Elastix**](http://elastix.isi.uu.nl/):  open source software, based on the well-known [ITK](http://www.itk.org) . 
+
+The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf) 
+
+[C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [**SimpleElastix**](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
+
+[**3D slicer**](https://www.slicer.org/) :  an open source software platform for  medical image informatics, image processing, and three-dimensional  visualization. Built over two decades through support from the  National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to  physicians, researchers, and the general public.  
 
 
 
-**Github repository for medical image registration**
+**Github repository for deep learning medical image registration**:
 
-[Keras] [VoxelMorph](https://github.com/voxelmorph/voxelmorph)
+ [Keras] [**VoxelMorph**](https://github.com/voxelmorph/voxelmorph)
 
-[Keras] [FAIM](https://gihttps://github.com/dykuang/Medical-image-registrationthub.com/dykuang/Medical-image-registration)
+ [Keras] [**FAIM**]( https://github.com/dykuang/Medical-image-registration )
 
-[Tensorflow] [Weakly-supervised CNN](https://github.com/YipengHu/label-reg) 
+ [Tensorflow] [**Weakly-supervised CNN**](https://github.com/YipengHu/label-reg)
 
-[Tensorflow] [RegNet3D](https://github.com/hsokooti/RegNet) 
+ [Tensorflow] [**RegNet3D** ](https://github.com/hsokooti/RegNet)
 
-[Tensorflow] [Recursive-Cascaded-Networks](https://github.com/microsoft/Recursive-Cascaded-Networks)  
+ [Tensorflow] [**Recursive-Cascaded-Networks**](https://github.com/microsoft/Recursive-Cascaded-Networks) 
 
-[Pytorch] [Probabilistic Dense Displacement Network](https://github.com/multimodallearning/pdd_net)
+ [Pytorch] [**Probabilistic Dense Displacement Network**](https://github.com/multimodallearning/pdd_net)
 
-[Pytorch] [Linear and Deformable Image Registration](https://github.com/shreshth211/image-registration-cnn)
+ [Pytorch] [**Linear and Deformable Image Registration**](https://github.com/shreshth211/image-registration-cnn)
 
-[Pytorch] [Inverse-Consistent Deep Networks](https://github.com/zhangjun001/ICNet) 
+ [Pytorch] [**Inverse-Consistent Deep Networks**](https://github.com/zhangjun001/ICNet) 
 
-[Pytorch] [Non-parametric image registration](https://github.com/uncbiag/registration) 
+ [Pytorch] [**Non-parametric image registration**](https://github.com/uncbiag/registration) 
 
-[Pytorch] [One Shot Deformable Medical Image Registration](https://github.com/ToFec/OneShotImageRegistration)
+ [Pytorch] [**One Shot Deformable Medical Image Registration**](https://github.com/ToFec/OneShotImageRegistration)
 
-[Pytorch] [Image-and-Spatial Transformer Networks](https://github.com/biomedia-mira/istn)
+ [Pytorch] [**Image-and-Spatial Transformer Networks**](https://github.com/biomedia-mira/istn)
 
 
 
@@ -312,7 +334,7 @@ WBIR-International Workshop on Biomedical Image Registration
 #### MeshLab
 
 > 简介：是一款开源、可移植和可扩展的三维几何处理系统。主要用于处理和编辑3D三角网格，它提供了一组用于编辑、清理、修复、检查、渲染、纹理化和转换网格的工具。提供了处理由3D数字化工具/设备生成的原始数据以及3D打印功能，功能全面而且丰富。MeshLab支持多数市面上常见的操作系统，包括Windows、Linux及Mac OS X，支持输入/输出的文件格式有：STL 、OBJ 、 VRML2.0、U3D、X3D、COLLADA
->  MeshLab可用于各种学术和研究环境，如微生物学、文化遗产及表面重建等。
+> MeshLab可用于各种学术和研究环境，如微生物学、文化遗产及表面重建等。
 
 #### ICP开源库
 
@@ -329,6 +351,7 @@ WBIR-International Workshop on Biomedical Image Registration
 ---
 
 ## 4. Datasets & Competitions
+
 ### 4.1. Datasets
 
 #### Natural image
@@ -351,36 +374,25 @@ WBIR-International Workshop on Biomedical Image Registration
 
 
 
-#### Medical Image  (！该部分需要重新编辑)
+#### Medical Image 
 
-- [kaggle:2018] [ct-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after)
-> The dataset is supposed to make it easier to see and explore different registration techniques in particular [VoxelMorph](https://github.com/voxelmorph/voxelmorph) 
-
-DIRLAB      10  4D Lung CT (.img)
-https://www.dir-lab.com/
-
-LPBA40     3D T1 BrainMR (.img+.hdr  .nii)
-https://resource.loni.usc.edu/resources/atlases-downloads/
-
-IBSR18     3D T1 BrainMR (.img+.hdr)
-https://www.nitrc.org/projects/ibsr/ 
-
-EMPIRE     30 4D Lung CT (.mhd+.raw) 
-http://empire10.isi.uu.nl/  
-
-LiTS         131 3D Liver CT (.nii )
-https://competitions.codalab.org/competitions/17094
-
-Openi, X-ray images
-https://openi.nlm.nih.gov/faq
-
-Popi-model,  6 4D-CT 
-https://www.creatis.insa-lyon.fr/rio/popi-model?action=show&redirect=popi
-
-NLST, National Lung Screening Trial (NLST), about lung cancer, CT images
-https://cdas.cancer.gov/nlst/ 
-
-
+|                           Dataset                            | Number | Modality |  Region  |     Format      |
+| :----------------------------------------------------------: | :----: | :------: | :------: | :-------------: |
+|             [DIRLAB](https://www.dir-lab.com/ )              |   10   |  4D  CT  |   Lung   |      .img       |
+|                          [LPBA40]()                          |   40   | 3D  MRI  | T1 Brain | .img+.hdr  .nii |
+|        [IBSR18](https://www.nitrc.org/projects/ibsr/)        |   18   | 3D  MRI  | T1 Brain |    .img+.hdr    |
+|             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |  4D CT   |   Lung   |    .mhd+.raw    |
+|                          [LiTS]( )                           |  131   |  3D CT   |  Liver   |      .nii       |
+| [CT-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after) |        |          |          |                 |
+|            [Openi](https://openi.nlm.nih.gov/faq)            |        |  X-ray   |          |                 |
+| [POPI](https://www.creatis.insa-lyon.fr/rio/popi-model?action=show&redirect=popi) |   6    |  4D CT   |          |                 |
+|            [NLST](https://cdas.cancer.gov/nlst/)             |        |    CT    |   Lung   |                 |
+|  [ADNI](http://adni.loni.usc.edu/data-samples/access-data/)  |        |  3D MRI  |  Brain   |                 |
+|            [OASIS](http://www.oasis-brains.org/)             |        |  3D MRI  |  Brain   |                 |
+| [ABIDE](http://preprocessed-connectomes-project.org/abide/)  |        |  3D MRI  |  Brain   |                 |
+| [ADHD200](http://neurobureau.projects.nitrc.org/ADHD200/Introduction.html) |        |          |          |                 |
+|    [CUMC12](https://www.synapse.org/#!Synapse:syn3207203)    |   12   |  3D MRI  |  Brain   |    .img+.hdr    |
+|    [MGH10](https://www.synapse.org/#!Synapse:syn3207203)     |   10   |  3D MRI  |  Brain   |    .img+.hdr    |
 
 #### Remote Sensing 
 
@@ -461,6 +473,7 @@ The KITTI Vision Benchmark Suite
 > 2 Register iUS after tumor resection to iUS before tumor resection  
 
 [ANHIR:2019](https://anhir.grand-challenge.org/) | [Official solution](https://www.researchgate.net/publication/332428245_Automatic_Non-rigid_Histological_Image_Registration_challenge)
+
 > IEEE International Symposium on Biomedical Imaging (ISBI) 2019  
 > High-resolution (up to 40x magnification) whole-slide images of tissues (lesions, lung-lobes, mammary-glands) were acquired - the original size of our images is up to 100k x 200k pixels. The acquired images are organized in sets of consecutive sections where each slice was stained with a different dye and any two images within a set can be meaningfully registered.
 
@@ -482,61 +495,69 @@ The KITTI Vision Benchmark Suite
 
 
 ## 5. Papers
+
 ### 5.1. Overview & Survey Papers
+
+#### Medical Image
+
+[1]    A. Sotiras, et.al., [“Deformable medical image registration: A survey,”]( https://ieeexplore.ieee.org/document/6522524 ) 2013.
+
+[2]    N. J. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks : A review,” ]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
+
+[3]    G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
+
+[4]    M. Blendowski, et.al., [“Combining MRF-based deformable registration and deep binary 3D-CNN descriptors for large lung motion estimation in COPD patients,” ]( https://link.springer.com/article/10.1007/s11548-018-1888-2 )2019.
+
+
+
 ### 5.2. Key Algorithms
+
 ### 5.3. 
 
 
 
 
 ## 6. Key Conferences/Workshops/Journals
+
 ### 6.1. Conferences & Workshops
 
-**C.v. c.s Conference**  (！该部分需要重新编辑)
+[**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
 
-CVPR
+[**ICCV**](http://iccv2019.thecvf.com/): IEEE International Conference on Computer Vision
 
-ECCV
+[**ECCV**](https://eccv2020.eu/): European Conference on Computer Vision
 
-ICCV
+[**NeurIPS**]( https://nips.cc/): Conference on Neural Information Processing Systems
 
-NeurIPS
+[**AAAI**]( http://www.aaai.org/ ): Association for the Advancement of Artificial Intelligence
 
-AAAI
+[**ICML**]( https://icml.cc/): International Conference on Machine Learning
 
-ICML
+[**ICPR**]( https://www.icpr2020.it/): International Conference on Pattern Recognition
 
-ICPR
+[**IJCNN**]( https://www.ijcnn.org/): International Joint Conference on Neural Networks
 
-IJCNN
+[**ICIP**](http://2019.ieeeicip.org/):  IEEE International Conference on Image Processing 
 
-ICIP
+[**IJCAI**](https://www.ijcnn.org/): International Joint Conferences on Artificial Intelligence 
 
-IJCAI
+[**ICRA**](https://www.icra2020.org/): IEEE International Conference on Robotics and Automation
 
-[IEEE International Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com/)
+[**International Conference on 3D Vision**](http://3dv19.gel.ulaval.ca/)
 
-[IEEE International Conference on Computer Vision](http://iccv2019.thecvf.com/)
-
-[European Conference on Computer Vision](https://eccv2020.eu/)
-
-[IEEE International Conference on Robotics and Automation](https://www.icra2020.org/)
-
-[International Conference on 3D Vision](http://3dv19.gel.ulaval.ca/)
-
-[Winter Conference on Applications of Computer Vision](https://wacv20.wacv.net/)
+[**WACV**](https://wacv20.wacv.net/): Winter Conference on Applications of Computer Vision
 
 
 
 #### Biomedical image
 
-MICCAI, International Conference on Medical Image Computing and Computer Assisted Intervention
+[**MICCAI**]( http://www.miccai.org/ ): International Conference on Medical Image Computing and Computer Assisted Intervention
 
-IPMI, Information Processing in Medical Imaging
+[**IPMI**](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=77376): Information Processing in Medical Imaging
 
-ISBI，International Symposium on Biomedical Imaging 
+[**ISBI**]( http://2020.biomedicalimaging.org/): International Symposium on Biomedical Imaging 
 
-Medical Imaging SPIE
+[**Medical Imaging SPIE**](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1 )
 
 
 
@@ -558,13 +579,19 @@ Medical Imaging SPIE
 
 #### Biomedical image
 
-[TMI: IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+[**TMI**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42): IEEE Transactions on Medical Imaging
 
-[MIA: Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
+[**MIA**](https://www.journals.elsevier.com/medical-image-analysis/): Medical Image Analysis
 
-[TIP: IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+[**TIP**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83): IEEE Transactions on Image Processing
 
-[TBME: IEEE Transactions on Biomedical Engineering](https://tbme.embs.org/)
+[**TBME**](https://tbme.embs.org/): IEEE Transactions on Biomedical Engineering
+
+[**BOE**](https://www.osapublishing.org/boe/home.cfm): Biomedical Optics Express
+
+[**JHBHI**](https://jbhi.embs.org/): Journal of Biomedical and Health Informatics
+
+
 
 #### Remote Sensing
 
@@ -597,5 +624,4 @@ Medical Imaging SPIE
 #### **Point Cloud(！该部分需要重新编辑)**
 
 IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边有IJCV
-
 
