@@ -391,6 +391,7 @@ The software consists of a collection of algorithms that are commonly used to so
 | [ADHD200](http://neurobureau.projects.nitrc.org/ADHD200/Introduction.html) |        |          |          |                 |
 |    [CUMC12](https://www.synapse.org/#!Synapse:syn3207203)    |   12   |  3D MRI  |  Brain   |    .img+.hdr    |
 |    [MGH10](https://www.synapse.org/#!Synapse:syn3207203)     |   10   |  3D MRI  |  Brain   |    .img+.hdr    |
+|    [FIRE](https://www.ics.forth.gr/cvrl/fire/)     |   134   |  2D fundus |  Retina   |    .jpg    |
 
 #### Remote Sensing 
 
