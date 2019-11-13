@@ -90,7 +90,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 #### Remote Sensing
 
 
-[Image Registration for Remote Sensing](https://www.amazon.com/Registration-Remote-Sensing-Jacqueline-Moigne-ebook/dp/B005252MNG/ref=sr_1_2?keywords=remote+sensing+registration&qid=1573642719&s=books&sr=1-2)
+[Image Registration for Remote Sensing](https://www.amazon.com/Registration-Remote-Sensing-Jacqueline-Moigne-ebook/dp/B005252MNG/)
 
 [2-D and 3-D Image Registration: For Medical, Remote Sensing, and Industrial Applications](www.researchgate.net/profile/Rachakonda_Poojitha/post/How_to_reconstruct_a_3D_image_from_two_2D_images_of_the_same_scene_taken_from_the_same_camera/attachment/59d61d9d6cda7b8083a16a8f/AS%3A271832186327046%401441821251591/download/2-D+and+3-D+Image+Registration+for+Medical%2C+Remote+Sensing%2C+and+Industrial+Applications.pdf) by  A. A. Goshtasby, 2005.  
 
@@ -100,11 +100,11 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 [基于特征的航空遥感图像配准及部件检测技术](https://item.jd.com/12576983.html)
 
-[Introduction to Remote Sensing](https://www.amazon.com/Introduction-Remote-Sensing-Fifth-Campbell/dp/160918176X/ref=sr_1_2?keywords=remote+sensing&qid=1573643592&refinements=p_72%3A1250222011&rnid=1250219011&sr=8-2)
+[Introduction to Remote Sensing](https://www.amazon.com/Introduction-Remote-Sensing-Fifth-Campbell/dp/160918176X/)
 
-[Remote Sensing and Image Interpretation](https://www.amazon.com/Remote-Sensing-Interpretation-Thomas-Lillesand/dp/111834328X/ref=sr_1_1?keywords=remote+sensing&qid=1573643485&sr=8-1)
+[Remote Sensing and Image Interpretation](https://www.amazon.com/Remote-Sensing-Interpretation-Thomas-Lillesand/dp/111834328X/)
 
-[Remote Sensing: Models and Methods for Image Processing](https://www.amazon.com/Remote-Sensing-Models-Methods-Processing/dp/0123694078/ref=sr_1_13?keywords=remote+sensing&qid=1573643706&refinements=p_72%3A1250222011&rnid=1250219011&sr=8-13)
+[Remote Sensing: Models and Methods for Image Processing](https://www.amazon.com/Remote-Sensing-Models-Methods-Processing/dp/0123694078)
 ### 1.2. Tutorials
 
 #### Natural image
@@ -126,8 +126,8 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 > Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications. 
 >
 > We organize a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss know-hows, challenges and future opportunities in this area.
->
-> [kaggle:2016] [**Image registration, the R way, (almost) from scratch**](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
+
+- [kaggle:2016] [**Image registration, the R way, (almost) from scratch**](https://www.kaggle.com/vicensgaitan/image-registration-the-r-way)
 
 > There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
 
@@ -181,8 +181,6 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 > [点云配准综述](https://zhuanlan.zhihu.com/p/91275450) 
 >
 > **图像配准会议介绍@** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
->
-> 
 
 [Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
@@ -319,13 +317,13 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [APAP](https://cs.adelaide.edu.au/~tjchin/apap/)
 
-[AANAP](https://link.zhihu.com/?target=https%3A//github.com/YaqiLYU/AANAP)
+[AANAP](https://github.com/YaqiLYU/AANAP)
 
 [NISwGSP](https://github.com/firdauslubis88/NISwGSP)
 
-[SPHP](https://link.zhihu.com/?target=http%3A//www.cmlab.csie.ntu.edu.tw/~frank/SPH/cvpr14_SPHP_code.tar)
+[SPHP](https://www.cmlab.csie.ntu.edu.tw/~frank/SPH/cvpr14_SPHP_code.tar)
 
-[Parallax-tolerant image stitching](https://link.zhihu.com/?target=https%3A//github.com/gain2217/Robust_Elastic_Warping)
+[Parallax-tolerant image stitching](https://github.com/gain2217/Robust_Elastic_Warping)
 
 
 
@@ -338,9 +336,9 @@ The software consists of a collection of algorithms that are commonly used to so
 
 #### ICP开源库
 
- [SLAM6D](http://slam6d.sourceforge.net/)
+[SLAM6D](http://slam6d.sourceforge.net/)
 
- [Libicp](http://www.cvlibs.net/software/libicp/)
+[Libicp](http://www.cvlibs.net/software/libicp/)
 
 [libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
 
