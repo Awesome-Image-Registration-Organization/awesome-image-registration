@@ -85,10 +85,22 @@ A software guide for medical image segmentation and registration algorithm. by Z
 
 #### Remote Sensing
 
+
+[Image Registration for Remote Sensing](https://www.amazon.com/Registration-Remote-Sensing-Jacqueline-Moigne-ebook/dp/B005252MNG/ref=sr_1_2?keywords=remote+sensing+registration&qid=1573642719&s=books&sr=1-2)
+
 [2-D and 3-D Image Registration: For Medical, Remote Sensing, and Industrial Applications](www.researchgate.net/profile/Rachakonda_Poojitha/post/How_to_reconstruct_a_3D_image_from_two_2D_images_of_the_same_scene_taken_from_the_same_camera/attachment/59d61d9d6cda7b8083a16a8f/AS%3A271832186327046%401441821251591/download/2-D+and+3-D+Image+Registration+for+Medical%2C+Remote+Sensing%2C+and+Industrial+Applications.pdf) by  A. A. Goshtasby, 2005.  
 
+[航空遥感图像配准技术](https://book.douban.com/subject/26711943/)
 
+[基于特征的光学与SAR遥感图像配准](https://item.jd.com/12099246.html)
 
+[基于特征的航空遥感图像配准及部件检测技术](https://item.jd.com/12576983.html)
+
+[Introduction to Remote Sensing](https://www.amazon.com/Introduction-Remote-Sensing-Fifth-Campbell/dp/160918176X/ref=sr_1_2?keywords=remote+sensing&qid=1573643592&refinements=p_72%3A1250222011&rnid=1250219011&sr=8-2)
+
+[Remote Sensing and Image Interpretation](https://www.amazon.com/Remote-Sensing-Interpretation-Thomas-Lillesand/dp/111834328X/ref=sr_1_1?keywords=remote+sensing&qid=1573643485&sr=8-1)
+
+[Remote Sensing: Models and Methods for Image Processing](https://www.amazon.com/Remote-Sensing-Models-Methods-Processing/dp/0123694078/ref=sr_1_13?keywords=remote+sensing&qid=1573643706&refinements=p_72%3A1250222011&rnid=1250219011&sr=8-13)
 ### 1.2. Tutorials
 
 #### Natural image
@@ -117,9 +129,14 @@ A software guide for medical image segmentation and registration algorithm. by Z
 #### Remote Sensing
 - [Image Alignment and Stitching: A Tutorial](http://www.cs.toronto.edu/~kyros/courses/2530/papers/Lecture-14/Szeliski2006.pdf)
 
+- [Image Registration for Remote Sensing](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120008278.pdf)
+
 - [Image Stitching](https://www.zhihu.com/question/34535199/answer/135169187)
 
+- [The Remote Sensing Tutorial 1](https://www.ucl.ac.uk/EarthSci/people/lidunka/GEOL2014/Geophysics%2010%20-Remote%20sensing/Remote%20Sensing%20Tutorial%20Overview.htm)
 
+- [The Remote Sensing Tutorial 2](https://www.nrcan.gc.ca/maps-tools-publications/satellite-imagery-air-photos/tutorial-fundamentals-remote-sensing/9309)
+  
 #### Point Cloud
 
 - [点云配准算法说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/79755623)
@@ -197,6 +214,9 @@ WBIR-International Workshop on Biomedical Image Registration
 
 -  [仿射变换与图像配准](https://www.bilibili.com/video/av52733294)（科普性视频， 比较简陋）
 
+#### Remote Sensing
+- [Registration of images of different modalities in Remote Sensing](https://youtu.be/9pPwNN-7oWU)
+
 
 
 ---
@@ -259,15 +279,32 @@ WBIR-International Workshop on Biomedical Image Registration
 
 [C++] [OTB](https://github.com/orfeotoolbox/OTB): Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
 
+[C++] [Python] [OpenCV](https://github.com/opencv/opencv): OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+
 [C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
 
 [Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral): Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery. 
+
+**Post Processing Tools**
 
 [C++] [enblend](https://sourceforge.net/projects/enblend/): Enblend blends away the seams in a panoramic image mosaic using a multi-resolution spline. Enfuse merges different exposures of the same scene to produce an image that looks much like a tone-mapped image.
 
 [C++] [maxflow](https://pub.ist.ac.at/~vnk/software.html): An implementation of the maxflow algorithm which can be used to detect the optimal seamline.
 
 [C++] [Matlab] [gco-v3.0](https://github.com/nsubtil/gco-v3.0): Multi-label optimization library by Olga Veksler and Andrew Delong.
+
+**Source Code**
+
+[APAP](https://cs.adelaide.edu.au/~tjchin/apap/)
+
+[AANAP](https://link.zhihu.com/?target=https%3A//github.com/YaqiLYU/AANAP)
+
+[NISwGSP](https://github.com/firdauslubis88/NISwGSP)
+
+[SPHP](https://link.zhihu.com/?target=http%3A//www.cmlab.csie.ntu.edu.tw/~frank/SPH/cvpr14_SPHP_code.tar)
+
+[Parallax-tolerant image stitching](https://link.zhihu.com/?target=https%3A//github.com/gain2217/Robust_Elastic_Warping)
+
 
 
 ### Point Cloud
@@ -348,6 +385,8 @@ https://cdas.cancer.gov/nlst/
 #### Remote Sensing 
 
 [**ISPRS Benchmarks**](https://www.isprs.org/education/benchmarks.aspx)
+
+[**HPatches**](https://github.com/hpatches/hpatches-dataset): The HPatches dataset was used as the basis for the local descriptor evaluation challenge that was presented in the Local Features: State of the Art, Open Problems and Performance Evaluation workshop during ECCV 2016.
 
 [**The Zurich Urban Micro Aerial Vehicle Dataset**](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
 
@@ -503,7 +542,7 @@ Medical Imaging SPIE
 
 #### Remote Sensing
 
-
+[ISPRS-2020](http://www.isprs2020-nice.com/)
 
 #### Point Cloud(！该部分需要重新编辑)
 
@@ -529,11 +568,11 @@ Medical Imaging SPIE
 
 #### Remote Sensing
 
-[REMOTE SENSING OF ENVIRONMENT](https://www.journals.elsevier.com/remote-sensing-of-environment)
+[Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment)
 
-[ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/)
+[ISPRS Journal of Photogrammetry And Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/)
 
-[IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+[IEEE Transactions on Geoscience And Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 
 [International Journal of Applied Earth Observation and Geoinformation](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation/)
 
@@ -552,6 +591,7 @@ Medical Imaging SPIE
 [Remote Sensing Letters](https://www.scimagojr.com/journalsearch.php?q=19700201680&tip=sid)
 
 [Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex)
+
 
 
 #### **Point Cloud(！该部分需要重新编辑)**
