@@ -505,7 +505,7 @@ The KITTI Vision Benchmark Suite
 
 [3]    G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
 
-[4]    M. Blendowski, et.al., [“Combining MRF-based deformable registration and deep binary 3D-CNN descriptors for large lung motion estimation in COPD patients,” ]( https://link.springer.com/article/10.1007/s11548-018-1888-2 )2019.
+[4]    N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
 
 
 
