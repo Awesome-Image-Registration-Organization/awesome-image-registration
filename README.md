@@ -396,6 +396,9 @@ The software consists of a collection of algorithms that are commonly used to so
 |    [BFH](https://drive.google.com/open?id=17IiuM74HPj1fsWwkAfq-5Rc6r5vpxUJF)     |  92    |   CT |  Liver   |        |
 |    [SLIVER](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo)     |   20   |   CT |  Liver   |        |
 |    [LSPIG](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo)     |   17   |   CT |  Liver   |        |
+
+
+
 #### Remote Sensing 
 
 [**ISPRS Benchmarks**](https://www.isprs.org/education/benchmarks.aspx)
@@ -508,7 +511,7 @@ The KITTI Vision Benchmark Suite
 
 [3]    G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
 
-[4]    M. Blendowski, et.al., [“Combining MRF-based deformable registration and deep binary 3D-CNN descriptors for large lung motion estimation in COPD patients,” ]( https://link.springer.com/article/10.1007/s11548-018-1888-2 )2019.
+[4]    N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
 
 
 
