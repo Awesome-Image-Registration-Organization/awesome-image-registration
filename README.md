@@ -7,6 +7,10 @@ image registration related books, papers, videos, and toolboxes
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
 
+We have QQ Group [【配准萌新交流群】](https://jq.qq.com/?_wv=1027&k=5r40AsF) （群号 869211738）
+
+and Wechat Group 【配准交流群】（**已满员**） for comunications.
+
 Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources). I followed his style to make this depository. 
 
 
