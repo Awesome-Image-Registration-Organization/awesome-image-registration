@@ -27,9 +27,10 @@ A paper list of image registration.
 
 ##  Keywords 
 
- **`medi.`**: medical image |  **`nat.`**: natural image |  **`rs.`**: remote sensing   |  **`pc.`**: point cloud |
+ **`medi.`**: medical image |  **`nat.`**: natural image |  **`rs.`**: remote sensing   |  **`pc.`**: point cloud
 
  **`data.`**: dataset  |   **`dep.`**: deep learning
+
  **`oth.`**: other, including  correspondence, mapping, matching, alignment...
 
 Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
@@ -124,9 +125,13 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
+  
 
 
 
+
+
+---
 
 # Learning Resources
 
