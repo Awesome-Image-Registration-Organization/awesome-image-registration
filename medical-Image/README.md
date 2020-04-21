@@ -11,7 +11,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 Many thanks to **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,  **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     and  **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
 
-# **Content**
+# **Contents**
 1. [Paper Lists](#paper-lists)
 2. [Datasets & Competitions](#datasets--competitions)
 3. [Conferences/Workshops/Journals](#conferencesworkshopsjournals)

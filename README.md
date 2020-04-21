@@ -21,5 +21,5 @@ It is used in computer vision, medical imaging, military automatic target recogn
 - [<font size=4>Natural Image & Photogrammetry and Remote sensing</font>](./Natural-Image&Photogrammetry-and-RemoteSensing)
 ---
 
-# Fundamentals of Mathematics
+# Mathematics
 > balabala
