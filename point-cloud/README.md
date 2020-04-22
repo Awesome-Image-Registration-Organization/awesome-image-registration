@@ -11,20 +11,24 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 Many thanks to **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,  **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     and  **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
 
-# **Content**
+# **Contents**
 1. [Paper Lists](#paper-lists)
 2. [Datasets & Competitions](#datasets--competitions)
-3. [Conferences/Workshops/Journals](#conferencesworkshopsjournals)
-4. [Tools](#tools)
-5. [Books & Tutorials](#books--tutorials)
-6. [Courses](#courses)
+3. [Tools](#tools)
+4. [Books ](#books)
+5. [Courses & Tutorials](#courses)
+6. [Conferences/Workshops/Journals](#conferencesworkshopsjournals)
 7. [How to contact us](#how-to-contact-us)
+
+
+
+
 
 # **Paper Lists**
 
 A paper list of Medical Image registration. 
 
-##  Keywords 
+###  Keywords 
 
  **`medi.`**: medical image |  **`nat.`**: natural image |  **`rs.`**: remote sensing   |  **`pc.`**: point cloud
 
@@ -34,11 +38,9 @@ A paper list of Medical Image registration.
 
 Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
-## Overview & Survey Papers
 
-[[CVPR](https://arxiv.org/abs/1811.11397)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://ai4ce.github.io/DeepMapping/)] [**`pc.`**]
 
-[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**]
+## Recent Papers
 
 ## 2020
 
@@ -50,7 +52,20 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**]
 
-# **Datasets & Competitions**
+
+
+## Overview & Survey Papers
+
+
+
+
+
+
+
+
+
+# Datasets & Competitions
+
 ## Datasets
 |                           Dataset                            | Number | Modality  |     Region     |     Format      |
 | :----------------------------------------------------------: | :----: | :-------: | :------------: | :-------------: |
@@ -75,6 +90,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 | [SLIVER](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   20   |    CT     |     Liver      |                 |
 | [LSPIG](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   17   |    CT     |     Liver      |                 |
 |         [OAI](http://oai.epi-ucsf.org/datarelease/)          | 20000+ |  3D MRI   | Osteoarthritis |                 |
+
+
 
 ## Competitions
 
@@ -105,21 +122,11 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [EMPIRE10](http://empire10.isi.uu.nl/)
 
-# **Conferences/Workshops/Journals**
 
-## Journals
-[//]:可以的话对会议进行一些介绍，比如涉及的领域，IF等。
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
 
-- [International Journal of Computer Vision](https://link.springer.com/journal/11263)
 
-## Conferences/Workshops
 
-[//]:追踪最近的会议，罗列到这里
 
-- [**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
-
-- [**ICCV**](http://iccv2019.thecvf.com/): IEEE International Conference on Computer Vision
 
 # **Tools**
 ## Open source libraries
@@ -141,9 +148,15 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [**3D slicer**](https://www.slicer.org/) :  an open source software platform for  medical image informatics, image processing, and three-dimensional  visualization. Built over two decades through support from the  National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to  physicians, researchers, and the general public.  
 
----
 
-# **Books & Tutorials**    
+
+
+
+
+
+
+
+# Books
 
 ## Books
 
@@ -163,6 +176,24 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 [Deep Learning for Medical Image Analysis](https://www.elsevier.com/books/deep-learning-for-medical-image-analysis/zhou/978-0-12-810408-8) (part IV)
 
 
+
+
+
+
+
+
+
+# **Courses** & Tutorials
+
+## Courses
+
+- [16-822: Geometry-based Methods in Vision](http://www.cs.cmu.edu/~hebert/geom.html)
+- [VALSE 2018](https://zhuanlan.zhihu.com/p/38611920): 2017以来的2D to 3D 工作
+
+
+
+
+
 ## Tutorials
 
 - [**Medical Image Registration**](https://github.com/natandrade/Tutorial-Medical-Image-Registration) 
@@ -176,6 +207,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 - [MICCAI2019] [**Autograd Image Registration Laboratory**](https://github.com/airlab-unibas/MICCAITutorial2019)
 
 - [MIT] [**HST.582J**](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)  Biomedical Signal and Image Processing [PDF](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/lecture-notes/l16_reg1.pdf) 
+
 
 
 ## Blogs
@@ -196,13 +228,37 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 - [Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
-# **Courses**
 
-- [16-822: Geometry-based Methods in Vision](http://www.cs.cmu.edu/~hebert/geom.html)
-
-- [VALSE 2018](https://zhuanlan.zhihu.com/p/38611920): 2017以来的2D to 3D 工作
 
 ---
+
+
+
+
+
+# Conferences/Workshops/Journals
+
+## Journals
+
+[//]:可以的话对会议进行一些介绍，比如涉及的领域，IF等。
+
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
+
+- [International Journal of Computer Vision](https://link.springer.com/journal/11263)
+
+## Conferences/Workshops
+
+[//]:追踪最近的会议，罗列到这里
+
+- [**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
+
+- [**ICCV**](http://iccv2019.thecvf.com/): IEEE International Conference on Computer Vision
+
+
+
+
+
+
 
 # **How to contact us**
 
