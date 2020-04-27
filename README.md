@@ -17,8 +17,8 @@ It is used in computer vision, medical imaging, military automatic target recogn
 # Contents
 - [<font size=4>Medical Image</font>](./medical-image) <br/>
 - [<font size=4>Point Cloud</font>](./point-cloud) <br/>
-- [<font size=4>Natural Image & Photogrammetry and Remote sensing</font>](./natural-image&photogrammetry-and-remote sensing) <br/>
-- [<font size=4>2D-3D Matching</font>](./2D-3D-Matching) <br/>Registration of 2D images with 3D point clouds
+- [<font size=4>Natural Image, Photogrammetry and Remote sensing</font>](./natural-image-photogrammetry-and-remote sensing) <br/>
+- [<font size=4>2D-3D Matching</font>](./2D-3D-Matching)  Registration of 2D images with 3D point clouds
 - [<font size=4>Other</font>](./other)  other, including  correspondence, mapping, matching, alignment, photogrammetry...
 ---
 
