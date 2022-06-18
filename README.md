@@ -34,7 +34,12 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *Last updated: 2022/06/18*
 
-*2022/06/18* - update recent papers (2017-2021) about image registration from ICCV/CVPR/AAAI according to dblp search engine.
+*2022/06/18* - update recent papers (2017-2021) about image registration according to dblp search engine.
+
+- [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) 
+- [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A)
+- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)
+- [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A)
 
 *2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
@@ -116,6 +121,12 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/18031)] TAILOR: Teaching with Active and Incremental Learning for Object Registration.
 
+[[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/2b0f658cbffd284984fb11d90254081f-Abstract.html)] Accurate Point Cloud Registration with Robust Optimal Transport.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/2d3d9d5373f378108cdbd30a3c52bd3e-Abstract.html)] Shape Registration in the Time of Transformers.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/c85b2ea9a678e74fdc8bafe5d0707c31-Abstract.html)] CoFiNet: Reliable Coarse-to-fine Correspondences for Robust PointCloud Registration.
+
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
 
@@ -143,6 +154,10 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.html)] DeepFLASH: An Efficient Network for Learning-Based Medical Image Registration.
 
 [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Yao_Quasi-Newton_Solver_for_Robust_Non-Rigid_Registration_CVPR_2020_paper.html)] Quasi-Newton Solver for Robust Non-Rigid Registration.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/970af30e481057c48f87e101b61e6994-Abstract.html)] LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/d6428eecbe0f7dff83fc607c5044b2b9-Abstract.html)] CoMIR: Contrastive Multimodal Image Representation for Registration. 
 
 [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
@@ -187,6 +202,12 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ICCV](https://ieeexplore.ieee.org/document/9010680)] Recursive Cascaded Networks for Unsupervised Medical Image Registration.
 
 [[ICCV](https://ieeexplore.ieee.org/document/9008291)] Automatic and Robust Skull Registration Based on Discrete Uniformization.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2019/hash/56f9f88906aebf4ad985aaec7fa01313-Abstract.html)] Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2019/hash/dd03de08bfdff4d8ab01117276564cc7-Abstract.html)] Recurrent Registration Neural Networks for Deformable Image Registration.
+
+[[NeurIPS](https://proceedings.neurips.cc/paper/2019/hash/ebad33b3c9fa1d10327bb55f9e79e2f3-Abstract.html)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration.
 
 [[ICRA](https://arpg.colorado.edu/papers/hmrf_icp.pdf)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
 
