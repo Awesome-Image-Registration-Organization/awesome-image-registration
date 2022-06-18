@@ -36,10 +36,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *2022/06/18* - update recent papers (2017-2021) about image registration according to dblp search engine.
 
-- [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) 
-- [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A)
-- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)
-- [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A)
+- [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AECCV%3A)
+- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A)
 
 *2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
@@ -159,6 +157,16 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/d6428eecbe0f7dff83fc607c5044b2b9-Abstract.html)] CoMIR: Contrastive Multimodal Image Representation for Registration. 
 
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_45)] Deep Complementary Joint Model for Complex Scene Registration and Few-Shot Segmentation on Medical Images.
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_23)] Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration.
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_16)] JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-modal Image Alignment of Large-Scale Pathological CT Scans.
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_17)] A Closest Point Proposal for MCMC-based Probabilistic Surface Registration.
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_43)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration.
+
 [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
 
@@ -242,6 +250,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)] Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search. [**`pc.`**]
 
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf)] HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. [**`pc.`**]
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_4)] Robust Image Stitching with Multiple Registrations.
 
 [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460825)] Robust Generalized Point Cloud Registration Using Hybrid Mixture Model. [**`pc.`**]
 
