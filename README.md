@@ -18,7 +18,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 A paper list of image registration. 
 
-##  Keywords 
+###  Keywords 
 
  **`medi.`**: medical image |  **`nat.`**: natural image |  **`rs.`**: remote sensing   |  **`pc.`**: point cloud
 
@@ -30,9 +30,11 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
-## Update log
+### Update log
 
 *Last updated: 2022/06/18*
+
+*2022/06/18* - update all of recent papers (2017-2021) about image registration from CVPR according to [dblp](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) search engine.
 
 *2022/06/18* - update all of recent papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
@@ -40,7 +42,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
-### 2022
+## 2022
 
 [[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [**`pc.`**]
 
@@ -54,7 +56,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
-### 2021
+## 2021
 
 [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)] [**`pc.`**]
 
@@ -71,6 +73,18 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)] UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. [**`pc.`**]
 
 [[CVPR](https://arxiv.org/pdf/2008.09527.pdf)] PointNetLK Revisited. [[code](https://github.com/Lilac-Lee/PointNetLK_Revisited)] [**`pc.`**]
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Ali_RPSRNet_End-to-End_Trainable_Rigid_Point_Set_Registration_Network_Using_Barnes-Hut_CVPR_2021_paper.html)] RPSRNet: End-to-End Trainable Rigid Point Set Registration Network Using Barnes-Hut 2D-Tree Representation
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Camera-Space_Hand_Mesh_Recovery_via_Semantic_Aggregation_and_Adaptive_2D-1D_CVPR_2021_paper.html)] Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Feng_Recurrent_Multi-View_Alignment_Network_for_Unsupervised_Surface_Registration_CVPR_2021_paper.html)] Recurrent Multi-View Alignment Network for Unsupervised Surface Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.html)] Spatiotemporal Registration for Event-Based Visual Odometry.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Safadi_Learning-Based_Image_Registration_With_Meta-Regularization_CVPR_2021_paper.html)] Learning-Based Image Registration With Meta-Regularization. 
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Locally_Aware_Piecewise_Transformation_Fields_for_3D_Human_Mesh_Registration_CVPR_2021_paper.html)] Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration.
 
 [[ICCV](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. [[code](https://ispc-group.github.io/hregnet?utm_source=catalyzex.com)] [**`pc.`**]
 
@@ -96,11 +110,11 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_PCAM_Product_of_Cross-Attention_Matrices_for_Rigid_Registration_of_Point_ICCV_2021_paper.pdf)] PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds. [**`pc.`**]
 
+[[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
 
 
-
-### 2020
+## 2020
 
 [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [**`pc.`**]
 
@@ -110,11 +124,25 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR oral](https://arxiv.org/abs/2004.11540)] Deep Global Registration. [**`pc.`**]
 
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.html)] Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Eisenberger_Smooth_Shells_Multi-Scale_Shape_Registration_With_Functional_Maps_CVPR_2020_paper.html)] Smooth Shells: Multi-Scale Shape Registration With Functional Maps.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.html)] Global Optimality for Point Set Registration Using Semidefinite Programming.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Mok_Fast_Symmetric_Diffeomorphic_Image_Registration_with_Convolutional_Neural_Networks_CVPR_2020_paper.html)] Fast Symmetric Diffeomorphic Image Registration with Convolutional Neural Networks.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.html)] 3DRegNet: A Deep Neural Network for 3D Point Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.html)] DeepFLASH: An Efficient Network for Learning-Based Medical Image Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Yao_Quasi-Newton_Solver_for_Robust_Non-Rigid_Registration_CVPR_2020_paper.html)] Quasi-Newton Solver for Robust Non-Rigid Registration.
+
 [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
 
 
-### 2019
+## 2019
 
 [[CVPR](https://arxiv.org/abs/1811.11397)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://ai4ce.github.io/DeepMapping/)] [**`pc.`**]
 
@@ -127,6 +155,16 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**]
 
 [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration. [**`pc.`**]
+
+[[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Liao_Multiview_2D3D_Rigid_Registration_via_a_Point-Of-Interest_Network_for_Tracking_CVPR_2019_paper.html)] Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation.
+
+[[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.html)] Metric Learning for Image Registration.
+
+[[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.html)] Networks for Joint Affine and Non-Parametric Image Registration.
+
+[CVPR] 
+
+
 
 [[ICCV](https://arxiv.org/abs/1905.04153v2)] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. [**`pc.`**]
 
@@ -146,13 +184,21 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
-### 2018
+## 2018
 
 [[3DV](https://arxiv.org/abs/1808.00671)] PCN: Point Completion Network. [[tensorflow](https://github.com/TonythePlaneswalker/pcn)] [**`pc.`** ] 🔥
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf)] Density Adaptive Point Set Registration. [[code](https://github.com/felja633/DARE)] [**`pc.`**]
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vongkulbhisal_Inverse_Composition_Discriminative_CVPR_2018_paper.pdf)] Inverse Composition Discriminative Optimization for Point Cloud Registration. [**`pc.`**]
+
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html)] An Unsupervised Learning Model for Deformable Medical Image Registration.
+
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/html/Dong_Supervision-by-Registration_An_Unsupervised_CVPR_2018_paper.html)] Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors.
+
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/html/Jiang_CNN_Driven_Sparse_CVPR_2018_paper.html)] CNN Driven Sparse Multi-Level B-Spline Image Registration.
+
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/html/Raposo_3D_Registration_of_CVPR_2018_paper.html)] 3D Registration of Curves and Surfaces Using Local Differential Information.
 
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)] Learning and Matching Multi-View Descriptors for Registration of Point Clouds. [**`pc.`**]
 
@@ -174,13 +220,23 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 
 
-### 2017
+## 2017
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [**`pc.`** **`data.`** ] 🔥 ⭐
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Vongkulbhisal_Discriminative_Optimization_Theory_CVPR_2017_paper.pdf)] Discriminative Optimization: Theory and Applications to Point Cloud Registration. [**`pc.`**]
 
-[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Elbaz_3D_Point_Cloud_CVPR_2017_paper.pdf)] 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [[git](https://github.com/gilbaz/LORAX)] [**`pc.`**]
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Elbaz_3D_Point_Cloud_CVPR_2017_paper.pdf)] 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [[code](https://github.com/gilbaz/LORAX)] [**`pc.`**]
+
+[[CVPR](https://ieeexplore.ieee.org/document/8100078)] Convex Global 3D Registration with Lagrangian Duality.
+
+[[CVPR](https://ieeexplore.ieee.org/document/8099746)] Group-Wise Point-Set Registration Based on Rényi's Second Order Entropy.
+
+[[CVPR](https://ieeexplore.ieee.org/document/8100188)] Fine-to-Coarse Global Registration of RGB-D Scans.
+
+[[CVPR](https://ieeexplore.ieee.org/document/8099652)] Joint Registration and Representation Learning for Unconstrained Face Identification.
+
+[[CVPR](https://ieeexplore.ieee.org/document/8099970)] A General Framework for Curve and Surface Comparison and Registration with Oriented Varifolds.
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Park_Colored_Point_Cloud_ICCV_2017_paper.pdf)] Colored Point Cloud Registration Revisited. [**`pc.`**]
 
@@ -202,13 +258,13 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 
 
-This resources collect:
+**This resources collect:**
 
-- Books & Academic Papers 
-- Datasets
-- Open-source and Commercial Libraries/Toolkits
-- On-line Courses and Videos
-- Key Conferences & Journals
+- **Books & Academic Papers** 
+- **Datasets**
+- **Open-source and Commercial Libraries/Toolkits**
+- **On-line Courses and Videos**
+- **Key Conferences & Journals**
 
 
 
@@ -220,13 +276,13 @@ This resources collect:
 
 #### Medical Image
 
-[1]    A. Sotiras, et.al., [“Deformable medical image registration: A survey,”]( https://ieeexplore.ieee.org/document/6522524 ) 2013.
+1. A. Sotiras, et.al., [“Deformable medical image registration: A survey,”]( https://ieeexplore.ieee.org/document/6522524 ) 2013.
 
-[2]    N. J. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks : A review,” ]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
+2. N. J. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks : A review,” ]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
+3. G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
 
-[3]    G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
+4. N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
 
-[4]    N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
 
 
 
@@ -858,3 +914,5 @@ Many thanks ❤️ to the other awesome list:
 - **[NUAAXQ](https://github.com/NUAAXQ)**   [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
 - **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     
 - **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
+- [**youngfish42**](https://github.com/youngfish42)   [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)  
+- [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
