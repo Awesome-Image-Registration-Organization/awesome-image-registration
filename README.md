@@ -34,6 +34,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *Last updated: 2022/06/18*
 
+*2022/06/18* - update all of recent papers (2017-2021) about image registration from ICCV according to [dblp](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) search engine.
+
 *2022/06/18* - update all of recent papers (2017-2021) about image registration from CVPR according to [dblp](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) search engine.
 
 *2022/06/18* - update all of recent papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
@@ -49,8 +51,6 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
 
 [[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**]
-
-
 
 
 
@@ -110,6 +110,10 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_PCAM_Product_of_Cross-Attention_Matrices_for_Rigid_Registration_of_Point_ICCV_2021_paper.pdf)] PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds. [**`pc.`**]
 
+[[ICCV](https://ieeexplore.ieee.org/document/9711216)] Generative Adversarial Registration for Improved Conditional Deformable Templates.
+
+[[ICCV](https://ieeexplore.ieee.org/document/9710911)] Deep Hough Voting for Robust Global Registration.
+
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
 
@@ -162,11 +166,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/html/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.html)] Networks for Joint Affine and Non-Parametric Image Registration.
 
-[CVPR] 
-
-
-
-[[ICCV](https://arxiv.org/abs/1905.04153v2)] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. [**`pc.`**]
+[[ICCV](https://arxiv.org/abs/1905.04153v2)] DeepVCP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. [**`pc.`**]
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Golyanik_Accelerated_Gravitational_Point_Set_Alignment_With_Altered_Physical_Laws_ICCV_2019_paper.pdf)] Accelerated Gravitational Point Set Alignment with Altered Physical Laws. [**`pc.`**]
 
@@ -175,6 +175,16 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Prokudin_Efficient_Learning_on_Point_Clouds_With_Basis_Point_Sets_ICCV_2019_paper.pdf)] Efficient Learning on Point Clouds with Basis Point Sets. [[code](https://github.com/sergeyprokudin/bps)] [ **`pc.`**]
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)] Robust Variational Bayesian Point Set Registration. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/9008111)] Efficient and Robust Registration on the 3D Special Euclidean Group.
+
+[[ICCV](https://ieeexplore.ieee.org/document/9010695)] Linearly Converging Quasi Branch and Bound Algorithms for Global Rigid Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/9008309)] A Deep Step Pattern Representation for Multimodal Retinal Image Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/9010680)] Recursive Cascaded Networks for Unsupervised Medical Image Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/9008291)] Automatic and Robust Skull Registration Based on Discrete Uniformization.
 
 [[ICRA](https://arpg.colorado.edu/papers/hmrf_icp.pdf)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
 
@@ -239,6 +249,16 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[CVPR](https://ieeexplore.ieee.org/document/8099970)] A General Framework for Curve and Surface Comparison and Registration with Oriented Varifolds.
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2017/papers/Park_Colored_Point_Cloud_ICCV_2017_paper.pdf)] Colored Point Cloud Registration Revisited. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/8237364)] Local-to-Global Point Cloud Registration Using a Dictionary of Viewpoint Descriptors.
+
+[[ICCV](https://ieeexplore.ieee.org/document/8237289)] Joint Layout Estimation and Global Multi-view Registration for Indoor Reconstruction.
+
+[[ICCV](https://ieeexplore.ieee.org/document/8237718)] Deep Free-Form Deformation Network for Object-Mask Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/8237553)] Point Set Registration with Global-Local Correspondence and Transformation Estimation.
+
+[[ICCV](https://ieeexplore.ieee.org/document/8237369)] Surface Registration via Foliation.
 
 [[ICRA](https://ieeexplore.ieee.org/document/7989664)] Using 2 point+normal sets for fast registration of point clouds with small overlap. [**`pc.`**]
 
@@ -911,8 +931,8 @@ Enjoy reading!
 Many thanks ❤️ to the other awesome list:
 
 - **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,
-- **[NUAAXQ](https://github.com/NUAAXQ)**   [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
+- **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
 - **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     
-- **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
-- [**youngfish42**](https://github.com/youngfish42)   [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)  
-- [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+- **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
+- [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)  
+- [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
