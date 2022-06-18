@@ -127,6 +127,20 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2983935)] Supervision by Registration and Triangulation for Landmark Detection.
+
+[TPAMI] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.
+
+[TPAMI] 
+
+[TPAMI] 
+
+[TPAMI] 
+
+[TPAMI] 
+
+
+
 
 
 ## 2020
@@ -798,11 +812,15 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 ### Workshops
 
-WBIR - International Workshop on Biomedical Image Registration
+[WBIR - International Workshop on Biomedical Image Registration](https://dblp.org/db/conf/wbir/index.html)
 
-> [WBIR2018,](https://wbir2018.nl/index.html) Leiden, Netherlands
-> WBIR2016, Las Vegas NV 
-> WBIR2014, London, UK  
+> [WBIR 2020](https://wbir2020.org/): Portorož, Slovenia
+>
+> [WBIR 2018](https://wbir2018.nl/index.html): Leiden, Netherlands
+>
+> [WBIR 2016](http://wbir2016.doc.ic.ac.uk/): Las Vegas NV 
+>
+> [WBIR 2014](http://wbir2014.cs.ucl.ac.uk/): London, UK  
 
 
 
