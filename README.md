@@ -53,7 +53,13 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**]
 
+[[MIA](https://doi.org/10.1016/j.media.2021.102265)] Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [**`medi.`**]
 
+[[MIA](https://doi.org/10.1016/j.media.2021.102292)] Deformable MR-CT image registration using an unsupervised, dual-channel network for neurosurgical guidance. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2022.102379)] Dual-stream pyramid registration network. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2022.102383)] Atlas-ISTN: Joint segmentation, registration and atlas construction with image-and-spatial transformer networks. [**`medi.`**]
 
 
 
