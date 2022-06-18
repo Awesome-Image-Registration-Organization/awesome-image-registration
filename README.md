@@ -34,13 +34,11 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *Last updated: 2022/06/18*
 
-*2022/06/18* - update all of recent papers (2017-2021) about image registration from ICCV according to [dblp](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) search engine.
+*2022/06/18* - update recent papers (2017-2021) about image registration from ICCV/CVPR/AAAI according to dblp search engine.
 
-*2022/06/18* - update all of recent papers (2017-2021) about image registration from CVPR according to [dblp](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) search engine.
+*2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
-*2022/06/18* - update all of recent papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
-
-*2020/04/20* - update all of recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
+*2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
 
 
@@ -113,6 +111,10 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ICCV](https://ieeexplore.ieee.org/document/9711216)] Generative Adversarial Registration for Improved Conditional Deformable Templates.
 
 [[ICCV](https://ieeexplore.ieee.org/document/9710911)] Deep Hough Voting for Robust Global Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16116)] Low-Rank Registration Based Manifolds for Convection-Dominated PDEs.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/18031)] TAILOR: Teaching with Active and Incremental Learning for Object Registration.
 
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
@@ -210,6 +212,8 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/html/Raposo_3D_Registration_of_CVPR_2018_paper.html)] 3D Registration of Curves and Surfaces Using Local Differential Information.
 
+[[AAAI](https://web.archive.org/web/*/https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16085)] Dilated FCN for Multi-Agent 2D/3D Medical Image Registration.
+
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)] Learning and Matching Multi-View Descriptors for Registration of Point Clouds. [**`pc.`**]
 
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [[tensorflow](https://github.com/yewzijian/3DFeatNet)] [**`pc.`**]
@@ -259,6 +263,10 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ICCV](https://ieeexplore.ieee.org/document/8237553)] Point Set Registration with Global-Local Correspondence and Transformation Estimation.
 
 [[ICCV](https://ieeexplore.ieee.org/document/8237369)] Surface Registration via Foliation.
+
+[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14751)] An Artificial Agent for Robust Image Registration.
+
+[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14188)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization.
 
 [[ICRA](https://ieeexplore.ieee.org/document/7989664)] Using 2 point+normal sets for fast registration of point clouds with small overlap. [**`pc.`**]
 
