@@ -2,10 +2,7 @@
 
 image registration related books, papers, videos, and toolboxes 
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration) 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers)  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
@@ -19,11 +16,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 # Paper Lists
 
-Many thanks to **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,  **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     and  **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
-
 A paper list of image registration. 
-
-
 
 ##  Keywords 
 
@@ -39,15 +32,85 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## Update log
 
-*Last updated: 2020/04/20*
+*Last updated: 2022/06/18*
+
+*2022/06/18* - update all of recent papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
 *2020/04/20* - update all of recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
+
+
+
+### 2022
+
+[[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**]
+
+
+
+
+
+
+
+### 2021
+
+[[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)] [**`pc.`**]
+
+[[CVPR](https://github.com/QingyongHu/SpinNet)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[pytorch](https://github.com/QingyongHu/SpinNet)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/abs/2103.04256)] Robust Point Cloud Registration Framework Based on Deep Graph Matching. [[code](https://github.com/fukexue/RGM)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/abs/2103.05465)] PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency. [**`pc.`**]
+
+[[CVPR](https://arxiv.org/abs/2103.15231)] ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning.[**`pc.`**]
+
+[[CVPR](https://arxiv.org/abs/2104.03501)] DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [[code](https://github.com/lijx10/DeepI2P)] [**`pc.`**]
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)] UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. [**`pc.`**]
+
+[[CVPR](https://arxiv.org/pdf/2008.09527.pdf)] PointNetLK Revisited. [[code](https://github.com/Lilac-Lee/PointNetLK_Revisited)] [**`pc.`**]
+
+[[ICCV](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. [[code](https://ispc-group.github.io/hregnet?utm_source=catalyzex.com)] [**`pc.`**]
+
+[[ICCV oral](https://arxiv.org/abs/2108.03257)] (Just) A Spoonful of Refinements Helps the Registration Error Go Down. [**`pc.`**]
+
+[[ICCV](https://arxiv.org/abs/2108.11682)] A Robust Loss for Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://arxiv.org/abs/2109.04310)] Deep Hough Voting for Robust Global Registration. [**`pc.`**]
+
+[[ICCV](https://arxiv.org/abs/2109.06619)] Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration.[**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_LSG-CPD_Coherent_Point_Drift_With_Local_Surface_Geometry_for_Point_ICCV_2021_paper.pdf)] LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration.[[code](https://github.com/ChirikjianLab/LSG-CPD)] [**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)] OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration.[[code](https://github.com/megvii-research/OMNet)] [**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_DeepPRO_Deep_Partial_Point_Cloud_Registration_of_Objects_ICCV_2021_paper.pdf)] DeepPRO: Deep Partial Point Cloud Registration of Objects. [**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Feature Interactive Representation for Point Cloud Registration.[[code](https://github.com/Ghostish/BAT)] [**`pc.`**]
+
+[[ICCV](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022/blob/master/openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Provably Approximated Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_PCAM_Product_of_Cross-Attention_Matrices_for_Rigid_Registration_of_Point_ICCV_2021_paper.pdf)] PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds. [**`pc.`**]
+
+
 
 
 
 ### 2020
 
 [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [**`pc.`**]
+
+[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. [[code](https://github.com/itailang/SampleNet)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [[code](https://github.com/XiaoshuiHuang/fmr)]  [**`pc.`**]
+
+[[CVPR oral](https://arxiv.org/abs/2004.11540)] Deep Global Registration. [**`pc.`**]
+
+[[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
 
 
@@ -782,3 +845,16 @@ and Wechat Group 【配准交流群】（**已满员**） for comunications.
 Please feel free to suggest other key resources by opening an issue report,
 submitting a pull request, or dropping me an email @ (im.young@foxmail.com).
 Enjoy reading!
+
+
+
+
+
+## Acknowledgments
+
+Many thanks ❤️ to the other awesome list:
+
+- **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,
+- **[NUAAXQ](https://github.com/NUAAXQ)**   [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
+- **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     
+- **[Amusi](https://github.com/amusi)** [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
