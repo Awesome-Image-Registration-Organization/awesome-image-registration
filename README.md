@@ -142,9 +142,47 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [TPAMI] 
 
-[TPAMI] 
+[[MIA](https://doi.org/10.1016/j.media.2021.101983)] A hybrid, image-based and biomechanics-based registration approach to markerless intraoperative nodule localization during video-assisted thoracoscopic surgery. [**`medi.`**]
 
-[TPAMI] 
+[[MIA](https://doi.org/10.1016/j.media.2021.102231)] Real-time multimodal image registration with partial intraoperative point-set data. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102157)] Leveraging unsupervised image registration for discovery of landmark shape descriptor. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101822)] Weakly-supervised learning of multi-modal features for regularised iterative descent in 3D image registration. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102228)] Shape registration with learned deformations for 3D shape reconstruction from sparse and incomplete point clouds. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101941)] Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101815)] A novel approach to 2D/3D registration of X-ray images using Grangeat's relation. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101845)] Biomechanically constrained non-rigid MR-TRUS prostate registration using deep learning based 3D point cloud matching. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101917)] Fracture reduction planning and guidance in orthopaedic trauma surgery via multi-body image registration. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102139)] CNN-based lung CT registration with multiple anatomical constraints. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101878)] End-to-end multimodal image registration via reinforcement learning. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101817)] Difficulty-aware hierarchical convolutional neural networks for deformable registration of brain MR images. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102036)] CycleMorph: Cycle consistent unsupervised deformable image registration. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101930)] Rethinking medical image reconstruction via shape prior, going deeper and faster: Deep joint indirect registration and reconstruction. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102181)] Deformation analysis of surface and bronchial structures in intraoperative pneumothorax using deformable mesh registration. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101823)] Re-Identification and growth detection of pulmonary nodules without image registration using 3D siamese neural networks. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101939)] Image registration: Maximum likelihood, minimum entropy and deep learning. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101919)] ProsRegNet: A deep learning framework for registration of MRI and histopathology images of the prostate. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.101957)] 3D Registration of pre-surgical prostate MRI and histopathology images via super-resolution volume reconstruction. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101884)] A deep learning framework for pancreas segmentation with multi-atlas registration and 3D level-set. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2021.102041)] Anatomy-guided multimodal registration by learning segmentation without ground truth: Application to intraprocedural CBCT/MR liver segmentation and registration. [**`medi.`**]
 
 
 
@@ -189,6 +227,14 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_43)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration.
 
 [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2019.101564)] Hubless keypoint-based 3D deformable groupwise registration. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101698)] Multi-atlas image registration of clinical data with automated quality assessment using ventricle segmentation. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101711)] Groupwise registration with global-local graph shrinkage in atlas construction. [**`medi.`**]
+
+[[MIA](https://doi.org/10.1016/j.media.2020.101763)] SLIR: Synthesis, localization, inpainting, and registration for image-guided thermal ablation of liver tumors. [**`medi.`**]
 
 
 
