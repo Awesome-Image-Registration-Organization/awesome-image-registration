@@ -34,7 +34,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *Last updated: 2022/06/19*
 
-*2022/06/18* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2021) about image registration according to JunMa's [github](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2021) about image registration according to JunMa's [github](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 - [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 - [MICCAI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 
