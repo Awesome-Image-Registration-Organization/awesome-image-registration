@@ -32,13 +32,19 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ### Update log
 
-*Last updated: 2022/06/18*
+*Last updated: 2022/06/19*
+
+*2022/06/18* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2021) about image registration according to JunMa's [github](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
+- [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
+- [MICCAI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
+
 
 *2022/06/18* - update recent papers (2017-2021) about image registration according to dblp search engine.
 
 - [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AECCV%3A)
 - [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A) 
 - [MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
+
 
 *2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
