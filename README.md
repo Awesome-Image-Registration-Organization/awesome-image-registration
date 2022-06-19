@@ -31,8 +31,8 @@ It is used in computer vision, medical imaging, military automatic target recogn
 - [Books](#Books)
 - [Tutorials](#Tutorials)
 - [Blogs](#Blogs)
-- [Courses/Seminars/Videos](#Courses/Seminars/Videos)
-- [Conferences & Workshops](#Conferences-&-Workshops)
+- [Courses Seminars and Videos](#Courses-Seminars-and-Videos)
+- [Conferences and Workshops](#Conferences-and-Workshops)
 - [Journals](#Journals)
 
 
@@ -934,7 +934,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 ---
 
-## Courses/Seminars/Videos
+## Courses Seminars and Videos
 
 ### Courses
 
@@ -978,7 +978,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 ## Key Conferences/Workshops/Journals
 
-### Conferences & Workshops
+### Conferences and Workshops
 
 [**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
 
