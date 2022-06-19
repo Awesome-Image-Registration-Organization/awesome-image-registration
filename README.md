@@ -134,13 +134,31 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Discontinuity-Preserving Image Registration Network. [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Network for Joint Registration and Parcellation of Cortical Surfaces. [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/099-Paper0422.html)] Conditional Deformable Image Registration with Convolutional Neural Network. [[code](https://github.com/cwmok/Conditional_LapIRN)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/122-Paper0642.html)] Cross-modal Attention for MRI and Ultrasound Volume Registration. [[code](https://github.com/DIAL-RPI/Attention-Reg)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/178-Paper0585.html)] End-to-end Ultrasound Frame to Volume Registration. [[code](https://github.com/DIAL-RPI/FVR-Net)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/281-Paper0337.html)] Learning Unsupervised Parameter-specific Affine Transformation for Medical Images Registration. [[code](https://github.com/xuuuuuuchen/PASTA)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/337-Paper1007.html)] Multi-view analysis of unregistered medical images using cross-view transformers. [[code](https://github.com/gvtulder/cross-view-transformers)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/405-Paper2461.html)] Revisiting iterative highly efficient optimisation schemes in medical image registration. [[code](https://github.com/multimodallearning/iter_lbp)] [**`medi.`**]
+
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/512-Paper0947.html)] Unsupervised Diffeomorphic Surface Registration and Non-Linear Modelling. [[code](https://gitlab.kuleuven.be/u0132345/deepdiffeomorphicfaceregistration)] [**`medi.`**]
+
 [[TPAMI](https://doi.org/10.1109/TPAMI.2020.2983935)] Supervision by Registration and Triangulation for Landmark Detection.
 
-[TPAMI] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.3043769)] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.
 
-[TPAMI] 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2978477)] Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization. 
 
-[TPAMI] 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration. 
 
 [[MIA](https://doi.org/10.1016/j.media.2021.101983)] A hybrid, image-based and biomechanics-based registration approach to markerless intraoperative nodule localization during video-assisted thoracoscopic surgery. [**`medi.`**]
 
@@ -228,6 +246,9 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2019.2908635)] Aggregated Wasserstein Distance and State Registration for Hidden Markov Models.
+
+
 [[MIA](https://doi.org/10.1016/j.media.2019.101564)] Hubless keypoint-based 3D deformable groupwise registration. [**`medi.`**]
 
 [[MIA](https://doi.org/10.1016/j.media.2020.101698)] Multi-atlas image registration of clinical data with automated quality assessment using ventricle segmentation. [**`medi.`**]
@@ -290,6 +311,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ICRA](https://export.arxiv.org/abs/1810.01470)] CELLO-3D: Estimating the Covariance of ICP in the Real World. [**`pc.`**]
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2018.2831670)] Efficient Registration of High-Resolution Feature Enhanced Point Clouds.
 
 
 ## 2018
@@ -331,6 +353,14 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap. [**`pc.`**]
 
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2773482)] Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. [**`pc.`**]
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2730205)] Collocation for Diffeomorphic Deformations in Medical Image Registration. [**`medi.`**]
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2748125)] Hierarchical Sparse Representation for Robust Image Registration.
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2654245)] Multiresolution Search of the Rigid Motion Space for Intensity-Based Registration. 
+
 
 ## 2017
 
@@ -368,9 +398,11 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ICRA](https://ieeexplore.ieee.org/document/7989664)] Using 2 point+normal sets for fast registration of point clouds with small overlap. [**`pc.`**]
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2016.2630687)] Image Registration and Change Detection under Rolling Shutter Motion Blur. 
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2016.2567398)] Hyperbolic Harmonic Mapping for Surface Registration.
 
-  
+[[TPAMI](https://doi.org/10.1109/TPAMI.2016.2598344)] Randomly Perturbed B-Splines for Nonrigid Image Registration.
 
 
 
