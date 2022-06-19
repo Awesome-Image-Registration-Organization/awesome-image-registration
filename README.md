@@ -34,19 +34,18 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 *Last updated: 2022/06/19*
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2021) about image registration according to JunMa's [github](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
+
 - [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 - [MICCAI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 
-
-*2022/06/18* - update recent papers (2017-2021) about image registration according to dblp search engine.
+*2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
 - [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AECCV%3A)
 - [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A) 
 - [MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 
-
-*2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
+*2022/06/18* - update papers (2020-2022) about point cloud registration from [NUAAXQ](https://github.com/NUAAXQ)'s [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
@@ -140,6 +139,14 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[Robotics and Autonomous Systems](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000191?via%3Dihub)] A Benchmark for Point Clouds Registration Algorithms [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark?utm_source=catalyzex.com)] [**`pc.`**]
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2983935)] Supervision by Registration and Triangulation for Landmark Detection.
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.3043769)] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2978477)] Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization. 
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration. 
+
 [[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Discontinuity-Preserving Image Registration Network. [**`medi.`**]
 
 [[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Network for Joint Registration and Parcellation of Cortical Surfaces. [**`medi.`**]
@@ -157,14 +164,6 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/405-Paper2461.html)] Revisiting iterative highly efficient optimisation schemes in medical image registration. [[code](https://github.com/multimodallearning/iter_lbp)] [**`medi.`**]
 
 [[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/512-Paper0947.html)] Unsupervised Diffeomorphic Surface Registration and Non-Linear Modelling. [[code](https://gitlab.kuleuven.be/u0132345/deepdiffeomorphicfaceregistration)] [**`medi.`**]
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2983935)] Supervision by Registration and Triangulation for Landmark Detection.
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2020.3043769)] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2020.2978477)] Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization. 
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration. 
 
 [[MIA](https://doi.org/10.1016/j.media.2021.101983)] A hybrid, image-based and biomechanics-based registration approach to markerless intraoperative nodule localization during video-assisted thoracoscopic surgery. [**`medi.`**]
 
@@ -254,6 +253,14 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[TPAMI](https://doi.org/10.1109/TPAMI.2019.2908635)] Aggregated Wasserstein Distance and State Registration for Hidden Markov Models.
 
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_15)] MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation [[code](https://zmiclab.github.io/projects.html)] [**`medi.`**]
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_19)] Highly Accurate and Memory Efficient Unsupervised Learning-Based Discrete CT Registration Using 2.5D Displacement Search [[code](https://github.com/multimodallearning/pdd2.5/)] [**`medi.`**]
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_32)] Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration [[code](https://github.com/gaocong13/Projective-Spatial-Transformers)] [**`medi.`**]
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_70)] Non-Rigid Volume to Surface Registration Using a Data-Driven Biomechanical Model [[code](https://gitlab.com/nct_tso_public/Volume2SurfaceCNN)] [**`medi.`**]
+
 
 [[MIA](https://doi.org/10.1016/j.media.2019.101564)] Hubless keypoint-based 3D deformable groupwise registration. [**`medi.`**]
 
@@ -311,18 +318,20 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[NeurIPS](https://proceedings.neurips.cc/paper/2019/hash/ebad33b3c9fa1d10327bb55f9e79e2f3-Abstract.html)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration.
 
+[[TPAMI](https://doi.org/10.1109/TPAMI.2018.2831670)] Efficient Registration of High-Resolution Feature Enhanced Point Clouds.
+
+[[MICCAI](https://arxiv.org/abs/1907.10931)] Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [[code](https://github.com/multimodallearning/pdd_net)] [**`medi.`**]
+
 [[ICRA](https://arpg.colorado.edu/papers/hmrf_icp.pdf)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
 
 [[ICRA](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] Robust Generalized Point Set Registration Using Inhomogeneous Hybrid Mixture Models Via Expectation. [**`pc.`**]
 
 [[ICRA](https://export.arxiv.org/abs/1810.01470)] CELLO-3D: Estimating the Covariance of ICP in the Real World. [**`pc.`**]
 
-[[TPAMI](https://doi.org/10.1109/TPAMI.2018.2831670)] Efficient Registration of High-Resolution Feature Enhanced Point Clouds.
+
 
 
 ## 2018
-
-[[3DV](https://arxiv.org/abs/1808.00671)] PCN: Point Completion Network. [[tensorflow](https://github.com/TonythePlaneswalker/pcn)] [**`pc.`** ] 🔥
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf)] Density Adaptive Point Set Registration. [[code](https://github.com/felja633/DARE)] [**`pc.`**]
 
@@ -348,6 +357,17 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_4)] Robust Image Stitching with Multiple Registrations.
 
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2773482)] Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. [**`pc.`**]
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2730205)] Collocation for Diffeomorphic Deformations in Medical Image Registration. [**`medi.`**]
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2748125)] Hierarchical Sparse Representation for Robust Image Registration.
+
+[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2654245)] Multiresolution Search of the Rigid Motion Space for Intensity-Based Registration. 
+
+[[3DV](https://arxiv.org/abs/1808.00671)] PCN: Point Completion Network. [[tensorflow](https://github.com/TonythePlaneswalker/pcn)] [**`pc.`** ] 🔥
+
 [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460825)] Robust Generalized Point Cloud Registration Using Hybrid Mixture Model. [**`pc.`**]
 
 [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461049)] A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration. [**`pc.`**]
@@ -359,13 +379,6 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap. [**`pc.`**]
 
 
-[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2773482)] Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. [**`pc.`**]
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2730205)] Collocation for Diffeomorphic Deformations in Medical Image Registration. [**`medi.`**]
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2748125)] Hierarchical Sparse Representation for Robust Image Registration.
-
-[[TPAMI](https://doi.org/10.1109/TPAMI.2017.2654245)] Multiresolution Search of the Rigid Motion Space for Intensity-Based Registration. 
 
 
 ## 2017
@@ -1081,6 +1094,7 @@ Many thanks ❤️ to the other awesome list:
 - **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,
 - **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
 - **[hoya012](https://github.com/hoya012)**  [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)     
+- [**JunMa11**](https://github.com/JunMa11) [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers)
 - **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
 - [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)  
 - [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
