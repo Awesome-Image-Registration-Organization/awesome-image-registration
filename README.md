@@ -8,9 +8,34 @@ image registration related books, papers, videos, and toolboxes
 
 It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements. 
 
-
-
 [toc]
+
+
+
+
+
+[**Paper Lists**](#Paper-Lists) 
+
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
+
+**[Learning Resources](#Learning-Resources)**
+
+- [Datasets](#Datasets)
+- [Competitions](#Competitions)
+- [Toolbox](#Toolbox)
+- [Books](#Books)
+- [Tutorials](#Tutorials)
+- [Blogs](#Blogs)
+- [Courses/Seminars/Videos](#Courses/Seminars/Videos)
+- [Conferences & Workshops](#Conferences-&-Workshops)
+- [Journals](#Journals)
+
+
 
 ---
 
@@ -447,9 +472,11 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 ---
 
-## 1. Papers
 
-### 1.1. Overview & Survey Papers
+
+## Papers
+
+### Overview & Survey Papers
 
 #### Medical Image
 
@@ -463,15 +490,15 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 
 
-### 1.2. Key Algorithms
+### Key Algorithms
 
 
 
 ---
 
-## 2. Datasets & Competitions
+## Datasets & Competitions
 
-### 2.1. Datasets
+### Datasets
 
 #### Medical Image 
 
@@ -605,7 +632,7 @@ Other
 
 
 
-### 2.2. Competitions
+### Competitions
 
 
 #### [All Challenges](https://grand-challenge.org/challenges/)
@@ -638,7 +665,7 @@ Other
 
 ---
 
-## 3. Toolbox 
+## Toolbox
 
 ### Natural image
 
@@ -752,9 +779,9 @@ The software consists of a collection of algorithms that are commonly used to so
 ---
 
 
-## 4. Books & Tutorials    
+## Books & Tutorials    
 
-### 4.1. Books
+### Books
 
 #### Natural image
 
@@ -811,7 +838,10 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 [Remote Sensing and Image Interpretation](https://www.amazon.com/Remote-Sensing-Interpretation-Thomas-Lillesand/dp/111834328X/)
 
 [Remote Sensing: Models and Methods for Image Processing](https://www.amazon.com/Remote-Sensing-Models-Methods-Processing/dp/0123694078)
-### 4.2. Tutorials
+
+
+
+### Tutorials
 
 #### Natural image
 
@@ -872,7 +902,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 
 
-### 4.3. Blogs
+### Blogs
 
 #### [图像配准指北](https://zhuanlan.zhihu.com/Image-Registration)
 
@@ -904,7 +934,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 ---
 
-## 5. Courses/Seminars/Videos
+## Courses/Seminars/Videos
 
 ### Courses
 
@@ -946,9 +976,9 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 ---
 
 
-## 6. Key Conferences/Workshops/Journals
+## Key Conferences/Workshops/Journals
 
-### 6.1. Conferences & Workshops
+### Conferences & Workshops
 
 [**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
 
@@ -1000,7 +1030,9 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 点云配准主要应用于工业制造业的逆向工程、古文物修复、医学三维图像构建等领域。研究内容是属于计算机视觉领域的研究范畴。国际上的会议如计算机视觉三大顶会ICCV、CVPR、ECCV等都会有相关技术，除此之外，还有ACCV、BMVC、SSVM等认可度也比较高。
 
-### 6.2. Journals
+
+
+### Journals
 
 [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
 
@@ -1055,14 +1087,6 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 #### Point Cloud
 
 IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边有IJCV
-
-
-
-
-
-
-
-
 
 
 
