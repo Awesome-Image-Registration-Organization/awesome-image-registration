@@ -51,13 +51,13 @@ A paper list of image registration.
 
  **`oth.`**: other, including  correspondence, mapping, matching, alignment...
 
-Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
+Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 50
 
 
 
 ### Update log
 
-*Last updated: 2022/06/19*
+*Last updated: 2022/06/30*
 
 *2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 
@@ -82,7 +82,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
 
-[[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**]
+[[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**] :fire:
 
 [[MIA](https://doi.org/10.1016/j.media.2021.102265)] Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [**`medi.`**]
 
@@ -96,9 +96,9 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## 2021
 
-[[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)] [**`pc.`**]
+[[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[code-pytorch](https://github.com/ShengyuH/OverlapPredator)] [**`pc.`**] :fire:
 
-[[CVPR](https://github.com/QingyongHu/SpinNet)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[pytorch](https://github.com/QingyongHu/SpinNet)] [**`pc.`**]
+[[CVPR](https://github.com/QingyongHu/SpinNet)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [[code-pytorch](https://github.com/QingyongHu/SpinNet)] [**`pc.`**] :fire:
 
 [[CVPR](https://arxiv.org/abs/2103.04256)] Robust Point Cloud Registration Framework Based on Deep Graph Matching. [[code](https://github.com/fukexue/RGM)] [**`pc.`**]
 
@@ -106,7 +106,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[CVPR](https://arxiv.org/abs/2103.15231)] ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning.[**`pc.`**]
 
-[[CVPR](https://arxiv.org/abs/2104.03501)] DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [[code](https://github.com/lijx10/DeepI2P)] [**`pc.`**]
+[[CVPR](https://arxiv.org/abs/2104.03501)] DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [[code](https://github.com/lijx10/DeepI2P)] [**`pc.`**] :fire:
 
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)] UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. [**`pc.`**]
 
@@ -238,9 +238,9 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## 2020
 
-[[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [**`pc.`**]
+[[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration. [[code](https://github.com/zgojcic/3D_multiview_reg)] [**`pc.`**] :fire:
 
-[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. [[code](https://github.com/itailang/SampleNet)] [**`pc.`**]
+[[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] SampleNet: Differentiable Point Cloud Sampling. [[code](https://github.com/itailang/SampleNet)] [**`pc.`**] :fire:
 
 [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [[code](https://github.com/XiaoshuiHuang/fmr)]  [**`pc.`**]
 
@@ -274,7 +274,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_43)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration.
 
-[[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
+[[3DV](https://arxiv.org/abs/2011.02229)] Registration Loss Learning for Deep Probabilistic Point Set Registration. [[code-pytorch](https://github.com/felja633/RLLReg)] [**`pc.`**]
 
 [[TPAMI](https://doi.org/10.1109/TPAMI.2019.2908635)] Aggregated Wasserstein Distance and State Registration for Hidden Markov Models.
 
@@ -299,15 +299,15 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## 2019
 
-[[CVPR](https://arxiv.org/abs/1811.11397)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://ai4ce.github.io/DeepMapping/)] [**`pc.`**]
+[[CVPR](https://arxiv.org/abs/1811.11397)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://ai4ce.github.io/DeepMapping/)] [**`pc.`**] :fire:
 
-[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**]
+[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Point Cloud Registration using PointNet. [[code-pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**] :fire:
 
 [[CVPR](https://arxiv.org/abs/1904.03483)] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. [[matlab](https://github.com/intellhave/SDRSAC)] [**`pc.`**]
 
 [[CVPR](https://arxiv.org/abs/1811.10136)] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. [[code](https://bitbucket.org/gaowei19951004/poser/src/master/)] [**`pc.`**]
 
-[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**]
+[[CVPR](https://arxiv.org/abs/1903.05711)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[code-pytorch](https://github.com/hmgoforth/PointNetLK)] [**`pc.`**] :fire:
 
 [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration. [**`pc.`**]
 
@@ -323,7 +323,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Closest_Point_Learning_Representations_for_Point_Cloud_Registration_ICCV_2019_paper.pdf)] Deep Closest Point: Learning Representations for Point Cloud Registration. [**`pc.`**]
 
-[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Prokudin_Efficient_Learning_on_Point_Clouds_With_Basis_Point_Sets_ICCV_2019_paper.pdf)] Efficient Learning on Point Clouds with Basis Point Sets. [[code](https://github.com/sergeyprokudin/bps)] [ **`pc.`**]
+[[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Prokudin_Efficient_Learning_on_Point_Clouds_With_Basis_Point_Sets_ICCV_2019_paper.pdf)] Efficient Learning on Point Clouds with Basis Point Sets. [[code](https://github.com/sergeyprokudin/bps)] [ **`pc.`**] :fire:
 
 [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)] Robust Variational Bayesian Point Set Registration. [**`pc.`**]
 
@@ -374,7 +374,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)] Learning and Matching Multi-View Descriptors for Registration of Point Clouds. [**`pc.`**]
 
-[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [[tensorflow](https://github.com/yewzijian/3DFeatNet)] [**`pc.`**]
+[[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [[code-tensorflow](https://github.com/yewzijian/3DFeatNet)] [**`pc.`**] :fire:
 
 [[ECCV](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)] Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search. [**`pc.`**]
 
@@ -391,7 +391,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 [[TPAMI](https://doi.org/10.1109/TPAMI.2017.2654245)] Multiresolution Search of the Rigid Motion Space for Intensity-Based Registration. 
 
-[[3DV](https://arxiv.org/abs/1808.00671)] PCN: Point Completion Network. [[tensorflow](https://github.com/TonythePlaneswalker/pcn)] [**`pc.`** ] 🔥
+[[3DV](https://arxiv.org/abs/1808.00671)] PCN: Point Completion Network. [[code-tensorflow](https://github.com/TonythePlaneswalker/pcn)] [**`pc.`** ] :fire:
 
 [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460825)] Robust Generalized Point Cloud Registration Using Hybrid Mixture Model. [**`pc.`**]
 
@@ -408,7 +408,7 @@ Statistics: 🔥 code is available & stars >= 100  |  ⭐ citation >= 50
 
 ## 2017
 
-[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [**`pc.`** **`data.`** ] 🔥 ⭐
+[[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [**`pc.`** **`data.`** ] :fire: :star:  
 
 [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Vongkulbhisal_Discriminative_Optimization_Theory_CVPR_2017_paper.pdf)] Discriminative Optimization: Theory and Applications to Point Cloud Registration. [**`pc.`**]
 
@@ -701,13 +701,13 @@ The software consists of a collection of algorithms that are commonly used to so
 
 **Github repository for deep learning medical image registration**:
 
- [Keras] [**VoxelMorph**](https://github.com/voxelmorph/voxelmorph)
+ [Keras] [**VoxelMorph**](https://github.com/voxelmorph/voxelmorph) :fire:
 
- [Keras] [**FAIM**]( https://github.com/dykuang/Medical-image-registration )
+ [Keras] [**FAIM**]( https://github.com/dykuang/Medical-image-registration ) :fire:
 
- [Tensorflow] [**Weakly-supervised CNN**](https://github.com/YipengHu/label-reg)
+ [Tensorflow] [**Weakly-supervised CNN**](https://github.com/YipengHu/label-reg) :fire:
 
- [Tensorflow] [**RegNet3D** ](https://github.com/hsokooti/RegNet)
+ [Tensorflow] [**RegNet3D** ](https://github.com/hsokooti/RegNet) :fire:
 
  [Tensorflow] [**Recursive-Cascaded-Networks**](https://github.com/microsoft/Recursive-Cascaded-Networks) 
 
@@ -717,7 +717,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
  [Pytorch] [**Inverse-Consistent Deep Networks**](https://github.com/zhangjun001/ICNet) 
 
- [Pytorch] [**Non-parametric image registration**](https://github.com/uncbiag/registration) 
+ [Pytorch] [**Non-parametric image registration**](https://github.com/uncbiag/registration) :fire:
 
  [Pytorch] [**One Shot Deformable Medical Image Registration**](https://github.com/ToFec/OneShotImageRegistration)
 
@@ -753,7 +753,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [SPHP](https://www.cmlab.csie.ntu.edu.tw/~frank/SPH/cvpr14_SPHP_code.tar)
 
-[Parallax-tolerant image stitching](https://github.com/gain2217/Robust_Elastic_Warping)
+[Parallax-tolerant image stitching](https://github.com/gain2217/Robust_Elastic_Warping) :fire:
 
 
 
@@ -770,9 +770,9 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [Libicp](http://www.cvlibs.net/software/libicp/)
 
-[libpointmatcher](https://github.com/ethz-asl/libpointmatcher)
+[libpointmatcher ](https://github.com/ethz-asl/libpointmatcher) :fire:
 
-[g-icp](https://github.com/avsegal/gicp)
+[g-icp](https://github.com/avsegal/gicp) :fire:
 
 [n-icp](http://jacoposerafin.com/nicp/)
 
@@ -849,9 +849,9 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 #### Medical Image
 
-- [**Medical Image Registration**](https://github.com/natandrade/Tutorial-Medical-Image-Registration) 
+- [**Medical Image Registration**](https://github.com/natandrade/Tutorial-Medical-Image-Registration) :fire:
 
-- [MICCAI2019] [**learn2reg**](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides)
+- [MICCAI2019] [**learn2reg**](https://github.com/learn2reg/tutorials2019) [PDF](https://github.com/learn2reg/tutorials2019/blob/master/slides) :fire:
 
 > Big thanks to [Yipeng Hu]( https://github.com/YipengHu ) organizing the excellent tutorial.
 >
