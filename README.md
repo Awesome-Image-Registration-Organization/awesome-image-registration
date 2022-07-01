@@ -57,7 +57,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2022/06/30*
+*Last updated: 2022/07/01*
 
 *2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 
@@ -1111,9 +1111,17 @@ Enjoy reading!
 
 
 
+
+
 ## Acknowledgments
 
-Many thanks ❤️ to the other awesome list:
+Many thanks :heart: to all project contributors:
+
+[![](https://opencollective.com/awesome-image-registration/contributors.svg?width=890&button=false)](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration/graphs/contributors)
+
+
+
+Many thanks :heart: to the other awesome list:
 
 - **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,
 - **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
