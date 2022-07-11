@@ -57,7 +57,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2022/07/01*
+*Last updated: 2022/07/11*
 
 *2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 
@@ -634,8 +634,39 @@ Other
 
 ### Competitions
 
+#### CVPR
+
+##### 2022
+
+[Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
+
+##### 2021
+
+[Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current/)
+
+##### 2020
+
+[The Visual Localization Benchmark](https://www.visuallocalization.net/)
+
+
 
 #### [All Challenges](https://grand-challenge.org/challenges/)
+
+##### 2022
+
+[ACROBAT](https://acrobat.grand-challenge.org/)
+
+> MICCAI 2022
+
+> the AutomatiC Registration Of Breast cAncer Tissue (ACROBAT) challenge
+
+##### 2021
+
+[Learn2Reg](https://learn2reg.grand-challenge.org/)
+
+##### 2020
+
+[Learn2Reg](https://learn2reg.grand-challenge.org/Learn2Reg2020/)
 
 ##### 2019 
 
@@ -945,6 +976,10 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 
 ### Workshops
+
+[CVPR 2021 Image Matching: Local Features and Beyond](https://image-matching-workshop.github.io/)
+
+
 
 [WBIR - International Workshop on Biomedical Image Registration](https://dblp.org/db/conf/wbir/index.html)
 
