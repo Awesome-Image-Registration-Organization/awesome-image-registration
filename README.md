@@ -78,6 +78,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ## 2022
 
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20086/19845)] Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [[code](https://github.com/Algolzw/SPAC-Deformable-Registration)] [**`medi.`**]
+
 [[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [**`pc.`**]
 
 [[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
