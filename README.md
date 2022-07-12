@@ -57,12 +57,14 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2022/07/11*
+*Last updated: 2022/07/12*
+
+*2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
 *2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 
-- [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
-- [MICCAI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
+- [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A) 
+- [MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A) 
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
@@ -79,6 +81,16 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ## 2022
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20086/19845)] Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [[code](https://github.com/Algolzw/SPAC-Deformable-Registration)] [**`medi.`**]
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/19917)] DeTarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/19951)] Deep Confidence Guided Distance for 3D Partial Shape Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20117)] Reliable Inlier Evaluation for Unsupervised Point Cloud Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20189)] FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20250)] End-to-End Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration.
 
 [[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [**`pc.`**]
 
