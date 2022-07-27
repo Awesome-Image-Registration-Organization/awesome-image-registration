@@ -57,7 +57,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2022/07/14*
+*Last updated: 2022/07/27*
+
+*2022/07/27* - update recent papers on ECCV 2022
 
 *2022/07/14* - Add the corresponding open source code for the 2022 papers
 
@@ -81,6 +83,18 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 
 ## 2022
+
+[EECV] [Explaining Deepfake Detection by Analysing Image Matching ](https://arxiv.org/abs/2207.09679) [Code](https://github.com/megvii-research/fst-matching)
+
+[EECV] [Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://arxiv.org/abs/2207.07932) [Code](https://github.com/ruc-aimc-lab/superretina)
+
+[EECV] [DFNet: Enhance Absolute Pose Regression with Direct Feature Matching](https://arxiv.org/abs/2204.00559) [Code](https://github.com/activevisionlab/dfnet)
+
+[EECV] [Unitail: Detecting, Reading, and Matching in Retail Scene](https://arxiv.org/abs/2204.00298)
+
+[EECV] [Implicit field supervision for robust non-rigid shape matching](https://arxiv.org/abs/2203.07694) [Code](https://github.com/Sentient07/IFMatch)
+
+[EECV] [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361) [Code](https://github.com/mediabrain-sjtu/regad)
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20086/19845)] Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [[code](https://github.com/Algolzw/SPAC-Deformable-Registration)] [**`medi.`**]
 
