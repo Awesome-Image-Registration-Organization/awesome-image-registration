@@ -433,6 +433,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap. [**`pc.`**]
 
+[[IEEE Access](https://ieeexplore.ieee.org/document/8404075)] Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features [[code](https://github.com/yzhq97/cnn-registration)] :fire:  [**`rs.`**]
+
 
 
 
