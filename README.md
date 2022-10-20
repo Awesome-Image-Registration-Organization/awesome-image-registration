@@ -536,7 +536,7 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 |                           Dataset                            | Number | Modality  |     Region     |     Format      |
 | :----------------------------------------------------------: | :----: | :-------: | :------------: | :-------------: |
-|             [DIRLAB](https://www.dir-lab.com/ )              |   10   |  4D  CT   |      Lung      |      .img       |
+|             [DIRLAB]([https://www.dir-lab.com/](https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/downloads-and-reference-data/4dct.html) )              |   10   |  4D  CT   |      Lung      |      .img       |
 |                          [LPBA40]()                          |   40   |  3D  MRI  |    T1 Brain    | .img+.hdr  .nii |
 |        [IBSR18](https://www.nitrc.org/projects/ibsr/)        |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
 |             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
