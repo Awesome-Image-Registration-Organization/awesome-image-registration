@@ -557,6 +557,7 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 | [SLIVER](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   20   |    CT     |     Liver      |                 |
 | [LSPIG](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   17   |    CT     |     Liver      |                 |
 |         [OAI](http://oai.epi-ucsf.org/datarelease/)          | 20000+ |  3D MRI   | Osteoarthritis |                 |
+|         [CIMA](https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset)          | 108 |  2D   | lesions |     .png        |
 
 
 
