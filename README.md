@@ -22,6 +22,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 - [2019](#2019)
 - [2018](#2018)
 - [2017](#2017)
+- [Before 2016](#before_2016)
 
 **[Learning Resources](#Learning-Resources)**
 
@@ -57,11 +58,13 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2022/07/27*
+*Last updated: 2023/03/02*
+
+*2023/03/02 - add papers according to [zhulf0804](https://github.com/zhulf0804)‘s [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)*, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
-*2022/07/14* - Add the corresponding open source code for the 2022 papers
+*2022/07/14* - add the corresponding open source code for the 2022 papers
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
@@ -72,29 +75,63 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
-- [CVPR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AECCV%3A)
-- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3ANeurIPS%3A) 
+- [CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)
+- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A) 
 - [MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
 
 *2022/06/18* - update papers (2020-2022) about point cloud registration from [NUAAXQ](https://github.com/NUAAXQ)'s [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
+## 2023
+
+[AAAI] [Rethinking Rotation Invariance with Point Cloud Registration](https://arxiv.org/pdf/2301.00149v1.pdf)  [Code](https://github.com/Crane-YU/rethink_rotation)
+
+[TPAMI] [RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations](https://ieeexplore.ieee.org/abstract/document/10044259) [Code](https://github.com/HpWang-whu/RoReg)
+
 
 
 ## 2022
 
-[EECV] [Explaining Deepfake Detection by Analysing Image Matching ](https://arxiv.org/abs/2207.09679) [Code](https://github.com/megvii-research/fst-matching)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_26)] Bayesian Tracking of Video Graphs Using Joint Kalman Smoothing and Registration.
 
-[EECV] [Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://arxiv.org/abs/2207.07932) [Code](https://github.com/ruc-aimc-lab/superretina)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_2)] Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World.
 
-[EECV] [DFNet: Enhance Absolute Pose Regression with Direct Feature Matching](https://arxiv.org/abs/2204.00559) [Code](https://github.com/activevisionlab/dfnet)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_20)] DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. [Code](https://github.com/diffusemorph/diffusemorph)
 
-[EECV] [Unitail: Detecting, Reading, and Matching in Retail Scene](https://arxiv.org/abs/2204.00298)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_26)] PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry. [Code](https://github.com/Gardlin/PCR-CG)
 
-[EECV] [Implicit field supervision for robust non-rigid shape matching](https://arxiv.org/abs/2203.07694) [Code](https://github.com/Sentient07/IFMatch)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_4)] Unsupervised Deep Multi-shape Matching. [Code](https://github.com/dongliangcao/Unsupervised-Deep-Multi-Shape-Matching)
 
-[EECV] [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361) [Code](https://github.com/mediabrain-sjtu/regad)
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_2)] ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer. [Code](https://github.com/apple/ml-aspanformer)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_6)] CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds. [code](https://github.com/jasongzy/CMT)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_37)] A Comparative Study of Graph Matching Algorithms in Computer Vision.
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_22)] Self-supervised Learning of Visual Graph Matching.
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_8)] 3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching. [Code](https://github.com/Ryan-prime/3DG-STFM)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_24)] Is Geometry Enough for Matching in Visual Localization?
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_2)] Explaining Deepfake Detection by Analysing Image Matching  [Code](https://github.com/megvii-research/fst-matching)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_35)] Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching [Code](https://github.com/ruc-aimc-lab/superretina)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_1)] DFNet: Enhance Absolute Pose Regression with Direct Feature Matching [Code](https://github.com/activevisionlab/dfnet)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_41)] Unitail: Detecting, Reading, and Matching in Retail Scene
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_20)] Implicit field supervision for robust non-rigid shape matching [Code](https://github.com/Sentient07/IFMatch)
+
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_18)] Registration based Few-Shot Anomaly Detection [Code](https://github.com/mediabrain-sjtu/regad)
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_11)] Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation [Code](https://github.com/514DNA/LLT)
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_35)] PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration [Code](https://github.com/phdymz/PointCLM)
+
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_16)] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud [Code](https://github.com/zxrzju/SuperLine3D)
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20086/19845)] Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [[code](https://github.com/Algolzw/SPAC-Deformable-Registration)] [**`medi.`**]
 
@@ -108,11 +145,33 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20250)] End-to-End Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration.
 
+[[CVPR](https://ieeexplore.ieee.org/document/9878458/)] Deterministic Point Cloud Registration via Novel Transformation Decomposition. 
+
+[[CVPR](https://ieeexplore.ieee.org/document/9879348/)] Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [Code](https://github.com/uncbiag/Aladdin)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9879560/)] Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. [Code](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9879941)] A variational Bayesian method for similarity learning in non-rigid image registration. [Code](https://github.com/dgrzech/learnsim)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9879546/)] Affine Medical Image Registration with Coarse-to-Fine Vision Transformer. [Code](https://github.com/cwmok/C2FViT)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9880332/)] Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow. [Code](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)
+
+[[CVPR]()] Global-Aware Registration of Less-Overlap RGB-D Scans. [Code](https://github.com/2120171054/Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9880256/)] Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [Code](https://github.com/Gilgamesh666666/Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9879617)] NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration. [Code](https://github.com/yifannnwu/NODEO-DIR)
+
+[[CVPR](https://ieeexplore.ieee.org/document/9878923)] RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion. Code 
+
 [[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [**`pc.`**]
 
-[[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
+[[CVPR](https://ieeexplore.ieee.org/document/9878510/)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [**`pc.`**]
 
 [[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [**`pc.`**] :fire:
+
+[[CVPR](https://ieeexplore.ieee.org/document/9878922)] Lepard: Learning partial point cloud matching in rigid and deformable scenes [Code](https://github.com/rabbityl/lepard)
 
 [[MIA](https://doi.org/10.1016/j.media.2021.102265)] Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [**`medi.`**] [[code](https://github.com/acasamitjana/3dhirest)]
 
@@ -122,7 +181,23 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MIA](https://doi.org/10.1016/j.media.2022.102383)] Atlas-ISTN: Joint segmentation, registration and atlas construction with image-and-spatial transformer networks. [**`medi.`**]
 
+[NeurIPS] [Non-rigid Point Cloud Registration with Neural Deformation Pyramid](https://arxiv.org/pdf/2205.12796.pdf)  [Code](https://github.com/rabbityl/DeformationPyramid) 
 
+[ICLR] [Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration](https://arxiv.org/pdf/2203.02227.pdf) 
+
+[TIP] [GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing](https://arxiv.org/pdf/2302.01109.pdf) [Code](https://github.com/zikai1/GraphReg) 
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9878213)] Robust Point Cloud Registration Framework Based on Deep Graph Matching  [Code](https://github.com/fukexue/RGM)
+
+[TPAMI] [RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://arxiv.org/pdf/2209.13252.pdf) 
+
+[SIGGRAPH] [ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs](https://arxiv.org/pdf/2207.00826.pdf) 
+
+[ACM MM] [You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors](https://arxiv.org/pdf/2109.00182.pdf) [Code](https://github.com/HpWang-whu/YOHO) 
+
+[TVCG] [WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration](https://arxiv.org/pdf/2108.02740.pdf) [Code](https://github.com/craigleili/WSDesc) 
+
+[RAL] [GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration](https://arxiv.org/pdf/2212.12745.pdf) 
 
 ## 2021
 
@@ -154,7 +229,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Locally_Aware_Piecewise_Transformation_Fields_for_3D_Human_Mesh_Registration_CVPR_2021_paper.html)] Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration.
 
-[[ICCV](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. [[code](https://ispc-group.github.io/hregnet?utm_source=catalyzex.com)] [**`pc.`**]
+[[ICCV](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. [[code](https://ispc-group.github.io/hregnet)] [**`pc.`**]
 
 [[ICCV oral](https://arxiv.org/abs/2108.03257)] (Just) A Spoonful of Refinements Helps the Registration Error Go Down. [**`pc.`**]
 
@@ -482,7 +557,37 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 
 
+## before_2016
 
+### 2016
+
+[ECCV] [Fast Global Registration](https://www.researchgate.net/profile/Vladlen_Koltun/publication/305983982_Fast_Global_Registration/links/57a8086908aefe6167bc8366/Fast-Global-Registration.pdf) [Code](https://github.com/intel-isl/FastGlobalRegistration)
+
+
+
+### 2015
+
+[TPAMI] [Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration](https://arxiv.org/pdf/1605.03344.pdf) [Code](https://github.com/yangjiaolong/Go-ICP)
+
+
+
+### 2009
+
+[ICRA] [Fast point feature histograms (FPFH) for 3D registration](https://www.cvl.iis.u-tokyo.ac.jp/class2016/2016w/papers/6.3DdataProcessing/Rusu_FPFH_ICRA2009.pdf) 
+
+[RSS] [Generalized-ICP](http://www.robots.ox.ac.uk/~avsegal/resources/papers/Generalized_ICP.pdf) 
+
+
+
+### 1992
+
+[TPAMI] [A method for registration of 3-D shapes](https://www.researchgate.net/publication/3191994_A_method_for_registration_of_3-D_shapes_IEEE_Trans_Pattern_Anal_Mach_Intell) 
+
+
+
+### 1987
+
+[TPAMI] [Least-squares fitting of two 3-D point sets](https://www.researchgate.net/publication/224378053_Least-squares_fitting_of_two_3-D_point_sets_IEEE_T_Pattern_Anal) 
 
 ---
 
@@ -518,6 +623,13 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 3. G. Haskins,et.al. [“Deep Learning in Medical Image Registration: A Survey,” ]( https://arxiv.org/pdf/1903.02026.pdf )2019.
 
 4. N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
+
+
+
+#### Others
+
+- [Eurographics 2022] [A Survey of Non-Rigid 3D Registration](https://arxiv.org/pdf/2203.07858.pdf) 
+- [arXiv 2021] [A comprehensive survey on point cloud registration](https://arxiv.org/pdf/2103.02690.pdf) 
 
 
 
@@ -1196,7 +1308,8 @@ Many thanks :heart: to all project contributors:
 
 Many thanks :heart: to the other awesome list:
 
-- **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ,
+- **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) 
+- **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)
 - **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022)  
 - [**visionxiang**](https://github.com/visionxiang)   [awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography)
 - [**tzxiang**](https://github.com/tzxiang)  [awesome-image-alignment-and-stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching)  
