@@ -16,6 +16,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 [**Paper Lists**](#Paper-Lists) 
 
+- [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
@@ -89,9 +90,17 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[CVPR](https://arxiv.org/pdf/2304.01514.pdf)] Robust Outlier Rejection for 3D Registration with Variational Bayes [[Code](https://github.com/Jiang-HB/VBReg)] [**`pc.`**]
 
-[[AAAI](https://arxiv.org/pdf/2301.00149v1.pdf)] Rethinking Rotation Invariance with Point Cloud Registration  [[Code](https://github.com/Crane-YU/rethink_rotation)]
+[[CVPR](https://arxiv.org/pdf/2305.10854v1.pdf)] 3D Registration with Maximal Cliques [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)] [**`pc.`**]
 
-[[TPAMI](https://ieeexplore.ieee.org/abstract/document/10044259)] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations [[Code](https://github.com/HpWang-whu/RoReg)]
+[[CVPR](https://arxiv.org/pdf/2303.09950.pdf)] Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration [[Code](https://github.com/qinzheng93/GraphSCNet)] [**`pc.`**]
+
+[[CVPR](https://arxiv.org/pdf/2303.13290v1.pdf)] Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration [**`pc.`**]
+
+[[CVPR](https://arxiv.org/pdf/2304.00467v1.pdf)] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting [[Code](https://github.com/WHU-USI3DV/SGHR)] [**`pc.`**]
+
+[[AAAI](https://arxiv.org/pdf/2301.00149v1.pdf)] Rethinking Rotation Invariance with Point Cloud Registration  [[Code](https://github.com/Crane-YU/rethink_rotation)] [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/abstract/document/10044259)] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations [[Code](https://github.com/HpWang-whu/RoReg)] [**`pc.`**]
 
 
 ## 2022
