@@ -259,7 +259,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Feature Interactive Representation for Point Cloud Registration.[[code](https://github.com/Ghostish/BAT)] [**`pc.`**]
 
-[[ICCV](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022/blob/master/openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Provably Approximated Point Cloud Registration. [**`pc.`**]
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Provably Approximated Point Cloud Registration. [**`pc.`**]
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. [**`pc.`**]
 
@@ -464,7 +464,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MICCAI](https://arxiv.org/abs/1907.10931)] Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [[code](https://github.com/multimodallearning/pdd_net)] [**`medi.`**]
 
-[[ICRA](https://arpg.colorado.edu/papers/hmrf_icp.pdf)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
+[[ICRA](https://ieeexplore.ieee.org/abstract/document/8793857)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
 
 [[ICRA](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] Robust Generalized Point Set Registration Using Inhomogeneous Hybrid Mixture Models Via Expectation. [**`pc.`**]
 
@@ -555,9 +555,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[ICCV](https://ieeexplore.ieee.org/document/8237369)] Surface Registration via Foliation.
 
-[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14751)] An Artificial Agent for Robust Image Registration.
+[[AAAI](https://arxiv.org/pdf/1611.10336.pdf)] An Artificial Agent for Robust Image Registration.
 
-[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14188)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization.
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/11195)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization.
 
 [[ICRA](https://ieeexplore.ieee.org/document/7989664)] Using 2 point+normal sets for fast registration of point clouds with small overlap. [**`pc.`**]
 
