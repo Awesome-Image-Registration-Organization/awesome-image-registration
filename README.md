@@ -259,7 +259,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Feature Interactive Representation for Point Cloud Registration.[[code](https://github.com/Ghostish/BAT)] [**`pc.`**]
 
-[[ICCV](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022/blob/master/openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Provably Approximated Point Cloud Registration. [**`pc.`**]
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Provably Approximated Point Cloud Registration. [**`pc.`**]
 
 [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. [**`pc.`**]
 
@@ -464,7 +464,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MICCAI](https://arxiv.org/abs/1907.10931)] Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [[code](https://github.com/multimodallearning/pdd_net)] [**`medi.`**]
 
-[[ICRA](https://arpg.colorado.edu/papers/hmrf_icp.pdf)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
+[[ICRA](https://ieeexplore.ieee.org/abstract/document/8793857)] Robust low-overlap 3-D point cloud registration for outlier rejection. [[matlab](https://github.com/JStech/ICP)] [**`pc.`**]
 
 [[ICRA](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] Robust Generalized Point Set Registration Using Inhomogeneous Hybrid Mixture Models Via Expectation. [**`pc.`**]
 
@@ -555,9 +555,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[ICCV](https://ieeexplore.ieee.org/document/8237369)] Surface Registration via Foliation.
 
-[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14751)] An Artificial Agent for Robust Image Registration.
+[[AAAI](https://arxiv.org/pdf/1611.10336.pdf)] An Artificial Agent for Robust Image Registration.
 
-[[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14188)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization.
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/11195)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization.
 
 [[ICRA](https://ieeexplore.ieee.org/document/7989664)] Using 2 point+normal sets for fast registration of point clouds with small overlap. [**`pc.`**]
 
@@ -663,7 +663,7 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 |             [DIRLAB](https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/)              |   10   |  4D  CT   |      Lung      |      .img       |
 |                          [LPBA40]()                          |   40   |  3D  MRI  |    T1 Brain    | .img+.hdr  .nii |
 |        [IBSR18](https://www.nitrc.org/projects/ibsr/)        |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
-|             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
+|             [EMPIRE](https://empire10.grand-challenge.org/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
 |                          [LiTS]( )                           |  131   |   3D CT   |     Liver      |      .nii       |
 | [CT-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after) |        |           |                |                 |
 |            [Openi](https://openi.nlm.nih.gov/faq)            |        |   X-ray   |                |                 |
@@ -719,9 +719,9 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 [**LANDSAT**](https://github.com/olivierhagolle/LANDSAT-Download)
 
-[**NWPU-RESISC45**](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html)
+[**NWPU-RESISC45**](https://figshare.com/articles/dataset/NWPU-RESISC45_Dataset_with_12_classes/16674166)
 
-[**DOTA**](http://captain.whu.edu.cn/DOTAweb/index.html)
+[**DOTA**](https://captain-whu.github.io/DOTA/dataset.html)
 
 [**MUUFLGulfport**](https://github.com/GatorSense/MUUFLGulfport)
 
@@ -781,7 +781,7 @@ Other
 
 **[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets)**
 
-[[UWA Dataset](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)] . [**`pc.`**]
+[[UWA Dataset](https://drive.google.com/drive/folders/1_ZeEIBug_Wd5OyWHlxQZACYCOh1dbB12)]  [**`pc.`**] (Uploaded by @sukun1045 for their repository [shlizee/Predict-Cluster](https://github.com/shlizee/Predict-Cluster))
 
 [[ASL Datasets Repository(ETH)](https://projects.asl.ethz.ch/datasets/doku.php?id=home)] This site is dedicated to provide datasets for the Robotics community  with the aim to facilitate result evaluations and comparisons. [ **`pc.`** ]
 
@@ -847,7 +847,7 @@ Other
 
 ##### 2010 
 
-[EMPIRE10](http://empire10.isi.uu.nl/)
+[EMPIRE](https://empire10.grand-challenge.org/)
 
 
 
@@ -877,9 +877,9 @@ An open-source, cross-platform system  that provides developers  with an extensi
 
 Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc.). Image  segmentation with priors & nonparametric, multivariate models.   
 
-[c++] [**Elastix**](http://elastix.isi.uu.nl/):  open source software, based on the well-known [ITK](http://www.itk.org) . 
+[c++] [**Elastix**](https://elastix.lumc.nl/):  open source software, based on the well-known [ITK](http://www.itk.org) . 
 
-The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf) 
+The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](https://elastix.lumc.nl/download/elastix-5.1.0-manual.pdf)
 
 [C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [**SimpleElastix**](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
 
@@ -973,7 +973,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 #### Natural image
 
-[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [E-book](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [E-book](https://github.com/DeepRobot2020/books/blob/master/Multiple View Geometry in Computer Vision (Second Edition).pdf)
 
 [Computer Vision: A Modern Approach](http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928) by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and  graduate-level courses in computer vision found in departments of  Computer Science, Computer Engineering and Electrical Engineering.
 
@@ -1073,7 +1073,7 @@ A demo that implement image registration by matching SIFT descriptors and applin
 
 
 #### Remote Sensing
-- [Image Alignment and Stitching: A Tutorial](http://www.cs.toronto.edu/~kyros/courses/2530/papers/Lecture-14/Szeliski2006.pdf)
+- [Image Alignment and Stitching: A Tutorial](http://szeliski.org/papers/Szeliski_ImageAlignment_MSR-TR-2004-92.pdf)
 
 - [Image Registration for Remote Sensing](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120008278.pdf)
 
@@ -1111,17 +1111,17 @@ A demo that implement image registration by matching SIFT descriptors and applin
 >
 > **图像配准会议介绍@** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
 
-[Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+[Image Registration: From SIFT to Deep Learning](https://blog.csdn.net/leoking01/article/details/115540817)
 
 
 
 #### 点云配准
 
-[点云配准算法的说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/797556232)
+[点云配准算法的说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/79755623)
 
-[几种点云配准算法的方法的介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/881885323)
+[几种点云配准算法的方法的介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/88188532)
 
-[三维点云用机器学习的方法进行处理](https://blog.csdn.net/u014636245/article/details/827559664)
+[三维点云用机器学习的方法进行处理](https://blog.csdn.net/u014636245/article/details/82755966)
 
 [一个例子详细介绍了点云配准的过程](https://www.zhihu.com/question/34170804)
 
@@ -1197,7 +1197,7 @@ A demo that implement image registration by matching SIFT descriptors and applin
 
 [**IJCAI**](https://www.ijcnn.org/): International Joint Conferences on Artificial Intelligence 
 
-[**ICRA**](https://www.icra2020.org/): IEEE International Conference on Robotics and Automation
+[**ICRA**](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/): IEEE International Conference on Robotics and Automation
 
 [**International Conference on 3D Vision**](http://3dv19.gel.ulaval.ca/)
 
