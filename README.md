@@ -877,9 +877,9 @@ An open-source, cross-platform system  that provides developers  with an extensi
 
 Image registration with variable transformations (elastic,  diffeomorphic, diffeomorphisms, unbiased) and similarity metrics  (landmarks, cross-correlation, mutual information, etc.). Image  segmentation with priors & nonparametric, multivariate models.   
 
-[c++] [**Elastix**](http://elastix.isi.uu.nl/):  open source software, based on the well-known [ITK](http://www.itk.org) . 
+[c++] [**Elastix**](https://elastix.lumc.nl/):  open source software, based on the well-known [ITK](http://www.itk.org) . 
 
-The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf) 
+The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems.  [**[manual]**](https://elastix.lumc.nl/download/elastix-5.1.0-manual.pdf)
 
 [C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] [**SimpleElastix**](http://simpleelastix.github.io/): a medical image registration library that makes  state-of-the-art image registration really easy to do in languages like  Python, Java and R. 
 
