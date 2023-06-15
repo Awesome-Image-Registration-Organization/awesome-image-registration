@@ -973,7 +973,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 #### Natural image
 
-[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [E-book](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+[Multiple view geometry in computer vision](https://www.robots.ox.ac.uk/~vgg/hzbook/) by Richard Hartley and Andrew Zisserman, 2004: Mathematic and geometric basis for 2D-2D and 2D-3D registration. A **must-read** for people in the field of registration. [E-book](https://github.com/DeepRobot2020/books/blob/master/Multiple View Geometry in Computer Vision (Second Edition).pdf)
 
 [Computer Vision: A Modern Approach](http://www.informit.com/store/computer-vision-a-modern-approach-9780136085928) by David A. Forsyth, Jean Ponce:  for upper-division undergraduate- and  graduate-level courses in computer vision found in departments of  Computer Science, Computer Engineering and Electrical Engineering.
 
@@ -1073,7 +1073,7 @@ A demo that implement image registration by matching SIFT descriptors and applin
 
 
 #### Remote Sensing
-- [Image Alignment and Stitching: A Tutorial](http://www.cs.toronto.edu/~kyros/courses/2530/papers/Lecture-14/Szeliski2006.pdf)
+- [Image Alignment and Stitching: A Tutorial](http://szeliski.org/papers/Szeliski_ImageAlignment_MSR-TR-2004-92.pdf)
 
 - [Image Registration for Remote Sensing](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120008278.pdf)
 
@@ -1111,17 +1111,17 @@ A demo that implement image registration by matching SIFT descriptors and applin
 >
 > **图像配准会议介绍@** [MICCAI2019](https://zhuanlan.zhihu.com/p/87781312) / [CVPR2019](https://zhuanlan.zhihu.com/p/78798607) / [ICCV2019](https://zhuanlan.zhihu.com/p/80529725) / [NeurIPS2019](https://zhuanlan.zhihu.com/p/81658522)
 
-[Image Registration: From SIFT to Deep Learning]( https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+[Image Registration: From SIFT to Deep Learning](https://blog.csdn.net/leoking01/article/details/115540817)
 
 
 
 #### 点云配准
 
-[点云配准算法的说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/797556232)
+[点云配准算法的说明与流程介绍](https://blog.csdn.net/Ha_ku/article/details/79755623)
 
-[几种点云配准算法的方法的介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/881885323)
+[几种点云配准算法的方法的介绍与比较](https://blog.csdn.net/weixin_43236944/article/details/88188532)
 
-[三维点云用机器学习的方法进行处理](https://blog.csdn.net/u014636245/article/details/827559664)
+[三维点云用机器学习的方法进行处理](https://blog.csdn.net/u014636245/article/details/82755966)
 
 [一个例子详细介绍了点云配准的过程](https://www.zhihu.com/question/34170804)
 
