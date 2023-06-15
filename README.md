@@ -663,7 +663,7 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 |             [DIRLAB](https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/)              |   10   |  4D  CT   |      Lung      |      .img       |
 |                          [LPBA40]()                          |   40   |  3D  MRI  |    T1 Brain    | .img+.hdr  .nii |
 |        [IBSR18](https://www.nitrc.org/projects/ibsr/)        |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
-|             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
+|             [EMPIRE](https://empire10.grand-challenge.org/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
 |                          [LiTS]( )                           |  131   |   3D CT   |     Liver      |      .nii       |
 | [CT-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after) |        |           |                |                 |
 |            [Openi](https://openi.nlm.nih.gov/faq)            |        |   X-ray   |                |                 |
@@ -719,9 +719,9 @@ Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-reso
 
 [**LANDSAT**](https://github.com/olivierhagolle/LANDSAT-Download)
 
-[**NWPU-RESISC45**](http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html)
+[**NWPU-RESISC45**](https://figshare.com/articles/dataset/NWPU-RESISC45_Dataset_with_12_classes/16674166)
 
-[**DOTA**](http://captain.whu.edu.cn/DOTAweb/index.html)
+[**DOTA**](https://captain-whu.github.io/DOTA/dataset.html)
 
 [**MUUFLGulfport**](https://github.com/GatorSense/MUUFLGulfport)
 
@@ -781,7 +781,7 @@ Other
 
 **[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets)**
 
-[[UWA Dataset](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)] . [**`pc.`**]
+[[UWA Dataset](https://drive.google.com/drive/folders/1_ZeEIBug_Wd5OyWHlxQZACYCOh1dbB12)]  [**`pc.`**] (Uploaded by @sukun1045 for their repository [shlizee/Predict-Cluster](https://github.com/shlizee/Predict-Cluster))
 
 [[ASL Datasets Repository(ETH)](https://projects.asl.ethz.ch/datasets/doku.php?id=home)] This site is dedicated to provide datasets for the Robotics community  with the aim to facilitate result evaluations and comparisons. [ **`pc.`** ]
 
@@ -847,7 +847,7 @@ Other
 
 ##### 2010 
 
-[EMPIRE10](http://empire10.isi.uu.nl/)
+[EMPIRE](https://empire10.grand-challenge.org/)
 
 
 
