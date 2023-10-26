@@ -1293,7 +1293,7 @@ IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边
 
 ## **How to contact us**
 
-We have QQ Group [【配准萌新交流群】](https://jq.qq.com/?_wv=1027&k=5r40AsF) （群号 869211738）
+We have QQ Group  【配准萌新交流群】（**已满3000人**）869211738  欢迎加入【配准萌新交流（二群)】 929134506
 
 and Wechat Group 【配准交流群】（**已满员**） for comunications.
 
