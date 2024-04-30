@@ -1032,6 +1032,14 @@ Other
 
 #### CVPR
 
+##### 2024
+
+[Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview)
+
+##### 2023
+
+[Image Matching Challenge 2023](https://www.kaggle.com/competitions/image-matching-challenge-2023/overview)
+
 ##### 2022
 
 [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
@@ -1048,6 +1056,14 @@ Other
 
 #### [All Challenges](https://grand-challenge.org/challenges/)
 
+##### 2024
+
+[Learn2Reg](https://learn2reg.grand-challenge.org/)
+
+##### 2023
+
+[Learn2reg](https://learn2reg.grand-challenge.org/learn2reg-2023/)
+
 ##### 2022
 
 [ACROBAT](https://acrobat.grand-challenge.org/)
@@ -1058,7 +1074,7 @@ Other
 
 ##### 2021
 
-[Learn2Reg](https://learn2reg.grand-challenge.org/)
+[Learn2Reg](https://learn2reg.grand-challenge.org/Learn2Reg2021/)
 
 ##### 2020
 
@@ -1384,6 +1400,8 @@ A demo that implement image registration by matching SIFT descriptors and applin
 
 [WBIR - International Workshop on Biomedical Image Registration](https://dblp.org/db/conf/wbir/index.html)
 
+> [WBIR 2022](https://www.mevis.fraunhofer.de/en/fairs-and-conferences/2022/wbir-2022.html): Munich, Germany
+>
 > [WBIR 2020](https://wbir2020.org/): Portorož, Slovenia
 >
 > [WBIR 2018](https://wbir2018.nl/index.html): Leiden, Netherlands
@@ -1532,9 +1550,7 @@ IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边
 
 ## **How to contact us**
 
-We have QQ Group  【配准萌新交流群】（**已满3000人**）869211738  欢迎加入【配准萌新交流（二群)】 929134506
-
-and Wechat Group 【配准交流群】（**已满员**） for comunications.
+We have QQ Group  【配准萌新交流群】（**已满3000人**）869211738  欢迎加入【配准萌新交流（二群)】 929134506 and Wechat Group 【配准交流群】（**已满员**） for comunications.
 
 
 
