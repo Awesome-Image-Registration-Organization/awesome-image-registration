@@ -62,7 +62,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *Last updated: 2024/04/30*
 
-*2024/04/30 - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A) /[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)*
+*2024/04/30 - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)*
 
 *2023/03/02 - add papers according to [zhulf0804](https://github.com/zhulf0804)‘s [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)*, update recent papers on CVPR/ECCV 2022
 
@@ -207,49 +207,49 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[TPAMI](https://ieeexplore.ieee.org/document/10049724)] Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization.
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_63)] A Denoised Mean Teacher for Domain Adaptive Point Cloud Registration.  [**`pc.`**]
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_63)] A Denoised Mean Teacher for Domain Adaptive Point Cloud Registration. [code](https://github.com/uncbiag/robot)  [**`pc.`**]
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_64)] Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. 
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_64)] Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training.  [code](https://github.com/multimodallearning/reg-cyclical-self-train)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_61)] Implicit Neural Representations for Joint Decomposition and Registration of Gene Expression Images in the Marmoset Brain.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_61)] Implicit Neural Representations for Joint Decomposition and Registration of Gene Expression Images in the Marmoset Brain. [code](https://gene-atlas.brainminds.jp/)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_68)] An Unsupervised Multispectral Image Registration Network for Skin Diseases
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_68)] An Unsupervised Multispectral Image Registration Network for Skin Diseases [code](https://github.com/SH-Diao123/MSIR)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_58)] GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_58)] GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration. [code](https://github.com/wulalago/GSMorph)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65)] Inverse Consistency by Construction for Multistep Deep Registration.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65)] Inverse Consistency by Construction for Multistep Deep Registration. [code](https://github.com/uncbiag/ByConstructionICON)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_22)] Learning Expected Appearances for Intraoperative Registration During Neurosurgery.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_22)] Learning Expected Appearances for Intraoperative Registration During Neurosurgery. [code](https://github.com/rouge1616/ExApp/)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_73)] StructuRegNet: Structure-Guided Multimodal 2D-3D Registration.
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_53)] SAMConvex: Fast Discrete Optimization for CT Registration Using Self-supervised Anatomical Embedding and Correlation Pyramid
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_51)] Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_51)] Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration. [code](https://github.com/brain-intelligence-lab/GIRNet)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_57)] PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_57)] PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer. [code](https://github.com/Torbjorn1997/PIViT)
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_69)] CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_69)] CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph [code](https://github.com/SCAN-NRAD/CortexMorph)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_71)] Non-iterative Coarse-to-Fine Transformer Networks for Joint Affine and Deformable Image Registration.
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_62)] FSDiffReg: Feature-Wise and Score-Wise Diffusion-Guided Unsupervised Deformable Image Registration for Cardiac Images. 
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_62)] FSDiffReg: Feature-Wise and Score-Wise Diffusion-Guided Unsupervised Deformable Image Registration for Cardiac Images.  [code](https://github.com/xmed-lab/FSDiffReg.git)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_75)] WarpEM: Dynamic Time Warping for Accurate Catheter Registration in EM-Guided Procedures.
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_33)] Regularized Kelvinlet Functions to Model Linear Elasticity for Image-to-Physical Registration of the Breast. 
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_72)] DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration.
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_72)] DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration.  [code](https://github.com/ImFusionGmbH/DISA-universal-multimodal-registration)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_66)] FocalErrorNet: Uncertainty-Aware Focal Modulation Network for Inter-modal Registration Error Estimation in Ultrasound-Guided Neurosurgery.
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_74)] X-Ray to CT Rigid Registration Using Scene Coordinate Regression
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_74)] X-Ray to CT Rigid Registration Using Scene Coordinate Regression. [code](https://github.com/Pragyanstha/SCR-Registration)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_60)] Nonuniformly Spaced Control Points Based on Variational Cardiac Image Registration.
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_59)] Progressively Coupling Network for Brain MRI Registration in Few-Shot Situation. 
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)] ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)] ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer. [code](https://github.com/ZAX130/SmileCode)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_55)] Importance Weighted Variational Cardiac MRI Registration Using Transformer and Implicit Prior
 
@@ -257,7 +257,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_12)] A Novel Video-CTU Registration Method with Structural Point Similarity for FURS Navigation.
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_49)] A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_49)] A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration [code](https://github.com/BaochangZhang/PSSS_registration)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_74)] SPR-Net: Structural Points Based Registration for Coronary Arteries Across Systolic and Diastolic Phases
 
@@ -394,7 +394,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_26)] Global Multi-modal 2D/3D Registration via Local Descriptors Learning.
 
-[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9)] Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9)] Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning. [code](https://github.com/MungoMeng/Registration-NICE-Trans)
 
 [[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8)] An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery. 
 
@@ -530,9 +530,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration. 
 
-[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Discontinuity-Preserving Image Registration Network. [**`medi.`**]
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Discontinuity-Preserving Image Registration Network. [Code](https://github.com/cistib/DDIR) [**`medi.`**]
 
-[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Network for Joint Registration and Parcellation of Cortical Surfaces. [**`medi.`**]
+[[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/013-Paper0479.html)] A Deep Network for Joint Registration and Parcellation of Cortical Surfaces.  [Code](https://github.com/zhaofenqiang/JointRegAndParc) [**`medi.`**]
 
 [[MICCAI](https://miccai2021.org/openaccess/paperlinks/2021/09/01/099-Paper0422.html)] Conditional Deformable Image Registration with Convolutional Neural Network. [[code](https://github.com/cwmok/Conditional_LapIRN)] [**`medi.`**]
 
