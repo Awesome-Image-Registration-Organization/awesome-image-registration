@@ -16,6 +16,7 @@ It is used in computer vision, medical imaging, military automatic target recogn
 
 [**Paper Lists**](#Paper-Lists) 
 
+- [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
@@ -59,7 +60,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2023/03/02*
+*Last updated: 2024/04/30*
+
+*2024/04/30 - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A) /[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)*
 
 *2023/03/02 - add papers according to [zhulf0804](https://github.com/zhulf0804)‘s [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)*, update recent papers on CVPR/ECCV 2022
 
@@ -84,7 +87,73 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
+## 2024
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28601)] Test-Time Adaptation via Style and Structure Guidance for Histological Image Registration. 
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27775)] PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations. [**`pc.`**]
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/27782)] SuperJunction: Learning-Based Junction Detection for Retinal Image Registration.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28446)] SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10380454)] RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration. [**`pc.`**]
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523003262)] Placental vessel segmentation and registration in fetoscopy: Literature review and MICCAI FetReg2021 challenge findings.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002876)] Automatic registration with continuous pose updates for marker-less surgical navigation in spine surgery. 
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002980)] Residual Aligner-based Network (RAN): Motion-separable structure for coarse-to-fine discontinuous deformable registration.
+
 ## 2023
+
+[[NeurIPS](http://papers.nips.cc/paper_files/paper/2023/hash/abf37695a4562ac4c05194d717d47eec-Abstract-Datasets_and_Benchmarks.html)] Lung250M-4B: A Combined 3D Dataset for CT- and Point Cloud-Based Intra-Patient Lung Registration.  [**`data.` ** **`pc.`**]
+
+[[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2023/hash/43069caa6776eac8bca4bfd74d4a476d-Abstract-Conference.html)] SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation. [**`pc.`**]
+
+[[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2023/hash/b654d6150630a5ba5df7a55621390daf-Abstract-Conference.html)] Non-Rigid Shape Registration via Deep Functional Maps Prior.
+
+[[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2023/hash/3a2d1bf9bc0a9794cf82c1341a7a75e6-Abstract-Conference.html)] E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning. [**`pc.`**]
+
+[[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2023/hash/a0a53fefef4c2ad72d5ab79703ba70cb-Abstract-Conference.html)] Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377293)] DReg-NeRF: Deep Registration for Neural Radiance Fields.
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377094)] Rethinking Point Cloud Registration as Masking and Reconstruction. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377707)] SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378635)] AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377041)] Preserving Tumor Volumes for Unsupervised Medical Image Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377676)] Towards Saner Deep Image Registration.
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378313)] Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378523/)] Chasing clouds: Differentiable volumetric rasterisation of point clouds as a  highly efficient and accurate loss for large-scale deformable 3D registration. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378523/)] Center-Based Decoupled Point Cloud Registration for 6D Object Pose Estimation. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378633)] 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10376887)] RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration.  [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10377308)] Density-invariant Features for Distant Point Cloud Registration. [**`pc.`**]
+
+[[ICCV](https://ieeexplore.ieee.org/document/10376539)] Batch-based Model Registration for Fast 3D Sherd Reconstruction.
+
+[[ICCV](https://ieeexplore.ieee.org/document/10378216)] PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration. [**`pc.`**]
+
+[[ICCV workshop](https://ieeexplore.ieee.org/document/10350601)] Occluded Gait Recognition via Silhouette Registration Guided by Automated Occlusion Degree Estimation.
+
+[[CVPR](https://ieeexplore.ieee.org/document/10205493/)] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [**`pc.`**]
+
+[[CVPR](https://ieeexplore.ieee.org/document/10203801)] Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields.
+
+[[CVPR](https://ieeexplore.ieee.org/document/10203222)] ObjectMatch: Robust Registration using Canonical Object Correspondences.
+
+[[CVPR](https://ieeexplore.ieee.org/document/10203464)] PEAL: Prior-embedded Explicit Attention Learning for Low-overlap Point Cloud Registration. [**`pc.`**]
 
 [[CVPR](https://arxiv.org/pdf/2303.00369.pdf)] Indescribable Multi-modal Spatial Evaluator [[Code](https://github.com/Kid-Liet/IMSE)] [**`medi.`**]
 
@@ -100,14 +169,132 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[AAAI](https://arxiv.org/pdf/2301.00149v1.pdf)] Rethinking Rotation Invariance with Point Cloud Registration  [[Code](https://github.com/Crane-YU/rethink_rotation)] [**`pc.`**]
 
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25182)] Fourier-Net: Fast Image Registration with Band-Limited Deformation.
+
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25220)] Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration.
+
 [[TPAMI](https://ieeexplore.ieee.org/abstract/document/10044259)] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations [[Code](https://github.com/HpWang-whu/RoReg)] [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10256027)] DPCN++: Differentiable Phase Correlation Network for Versatile Pose Registration.
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10115040)] SC${2}$2-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9878213)] Robust Point Cloud Registration Framework Based on Deep Graph Matching.  [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9749887)] Multiway Non-Rigid Point Cloud Registration via Learned Functional Map Synchronization. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10091912)] QGORE: Quadratic-Time Guaranteed Outlier Removal for Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10097640)] Sparse-to-Dense Matching Network for Large-Scale LiDAR Point Cloud Registration [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10148795)] HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9965747)] $\mathcal {X}$-Metric: An N-Dimensional Information-Theoretic Framework for Groupwise Registration and Deep Combined Computing.
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9775606)] Learning General and Distinctive 3D Local Deep Descriptors for Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10076895)] GeoTransformer: Fast and Robust Point Cloud Registration With Geometric Transformer. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9931659)] Cycle Registration in Persistent Homology With Applications in Topological Bootstrap.
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9705149)] STORM: Structure-Based Overlap Matching for Partial Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10145843)] MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion.
+
+[[TPAMI](https://ieeexplore.ieee.org/document/9969937)] A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10246849)] Hunter: Exploring High-Order Consistency for Point Cloud Registration With Severe Outliers. [**`pc.`**]
+
+[[TPAMI](https://ieeexplore.ieee.org/document/10049724)] Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_63)] A Denoised Mean Teacher for Domain Adaptive Point Cloud Registration.  [**`pc.`**]
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_64)] Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_61)] Implicit Neural Representations for Joint Decomposition and Registration of Gene Expression Images in the Marmoset Brain.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_68)] An Unsupervised Multispectral Image Registration Network for Skin Diseases
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_58)] GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65)] Inverse Consistency by Construction for Multistep Deep Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_22)] Learning Expected Appearances for Intraoperative Registration During Neurosurgery.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_73)] StructuRegNet: Structure-Guided Multimodal 2D-3D Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_53)] SAMConvex: Fast Discrete Optimization for CT Registration Using Self-supervised Anatomical Embedding and Correlation Pyramid
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_51)] Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_57)] PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_69)] CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_71)] Non-iterative Coarse-to-Fine Transformer Networks for Joint Affine and Deformable Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_62)] FSDiffReg: Feature-Wise and Score-Wise Diffusion-Guided Unsupervised Deformable Image Registration for Cardiac Images. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_75)] WarpEM: Dynamic Time Warping for Accurate Catheter Registration in EM-Guided Procedures.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_33)] Regularized Kelvinlet Functions to Model Linear Elasticity for Image-to-Physical Registration of the Breast. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_72)] DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_66)] FocalErrorNet: Uncertainty-Aware Focal Modulation Network for Inter-modal Registration Error Estimation in Ultrasound-Guided Neurosurgery.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_74)] X-Ray to CT Rigid Registration Using Scene Coordinate Regression
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_60)] Nonuniformly Spaced Control Points Based on Variational Cardiac Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_59)] Progressively Coupling Network for Brain MRI Registration in Few-Shot Situation. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_70)] ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_55)] Importance Weighted Variational Cardiac MRI Registration Using Transformer and Implicit Prior
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_40)] TractCloud: Registration-Free Tractography Parcellation with a Novel Local-Global Streamline Point Cloud Representation
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_12)] A Novel Video-CTU Registration Method with Structural Point Similarity for FURS Navigation.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_49)] A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_74)] SPR-Net: Structural Points Based Registration for Coronary Arteries Across Systolic and Diastolic Phases
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523000658)] Strain estimation in aortic roots from 4D echocardiographic images using medial modeling and deformable registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002165)] Colonoscopy 3D video dataset with paired depth from 2D-3D registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523000014)] AMNet: Adaptive multi-level network for deformable registration of 3D brain MR images.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001007)] DuSFE: Dual-Channel Squeeze-Fusion-Excitation co-attention for cross-modality registration of cardiac SPECT and CT.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523000907)] Semantic similarity metrics for image registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001779)] R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523000725)] Anatomically constrained and attention-guided deep feature fusion for joint segmentation and deformable medical image registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001950)] Prototypical few-shot segmentation for cross-institution male pelvic structures with spatial registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001858)] WarpPINN: Cine-MR image registration with physics-informed neural networks.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002220)] A robust and interpretable deep learning framework for multi-modal registration via keypoints.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002384)] PC-Reg: A pyramidal prediction-correction approach for large deformation image registration.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841522003061)] DragNet: Learning-based deformable registration for realistic cardiac MR sequence generation from a single frame.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523000476)] SpineRegNet: Spine Registration Network for volumetric MR and CT image by the joint estimation of an affine-elastic deformation field.
+
+[[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841522003206)] QACL: Quartet attention aware closed-loop learning for abdominal MR-to-CT synthesis via simultaneous registration.
 
 
 ## 2022
 
 [[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_26)] Bayesian Tracking of Video Graphs Using Joint Kalman Smoothing and Registration.
 
-[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_2)] Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World.
+[[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_2)] Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [**`pc.`**]
 
 [[EECV](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_20)] DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. [[Code](https://github.com/diffusemorph/diffusemorph)]
 
@@ -139,25 +326,25 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[EECV](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_18)] Registration based Few-Shot Anomaly Detection [[Code](https://github.com/mediabrain-sjtu/regad)]
 
-[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_11)] Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation [[Code](https://github.com/514DNA/LLT)]
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19824-3_11)] Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation [[Code](https://github.com/514DNA/LLT)] [**`pc.`**]
 
-[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_35)] PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration [[Code](https://github.com/phdymz/PointCLM)]
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_35)] PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration [[Code](https://github.com/phdymz/PointCLM)] [**`pc.`**]
 
-[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_16)] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud [[Code](https://github.com/zxrzju/SuperLine3D)]
+[[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_16)] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud [[Code](https://github.com/zxrzju/SuperLine3D)] [**`pc.`**]
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20086/19845)] Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [[code](https://github.com/Algolzw/SPAC-Deformable-Registration)] [**`medi.`**]
 
-[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/19917)] DeTarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. [[code](https://github.com/ZhiChen902/DetarNet)]
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/19917)] DeTarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. [[code](https://github.com/ZhiChen902/DetarNet)] [**`pc.`**]
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/19951)] Deep Confidence Guided Distance for 3D Partial Shape Registration.
 
-[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20117)] Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. [[code](https://github.com/supersyq/rienet)]
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20117)] Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. [[code](https://github.com/supersyq/rienet)] [**`pc.`**]
 
-[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20189)] FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. [[code](https://github.com/MegEngine/FINet)]
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20189)] FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. [[code](https://github.com/MegEngine/FINet)] [**`pc.`**]
 
-[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20250)] End-to-End Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration.
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20250)] End-to-End Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration. [**`pc.`**]
 
-[[CVPR](https://ieeexplore.ieee.org/document/9878458/)] Deterministic Point Cloud Registration via Novel Transformation Decomposition. 
+[[CVPR](https://ieeexplore.ieee.org/document/9878458/)] Deterministic Point Cloud Registration via Novel Transformation Decomposition.  [**`pc.`**]
 
 [[CVPR](https://ieeexplore.ieee.org/document/9879348/)] Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [[Code](https://github.com/uncbiag/Aladdin)]
 
@@ -171,7 +358,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[CVPR](https://ieeexplore.ieee.org/document/9878484/)] Global-Aware Registration of Less-Overlap RGB-D Scans. [[Code](https://github.com/2120171054/Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans)]
 
-[[CVPR](https://ieeexplore.ieee.org/document/9880256/)] Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [[Code](https://github.com/Gilgamesh666666/Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering)]
+[[CVPR](https://ieeexplore.ieee.org/document/9880256/)] Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [[Code](https://github.com/Gilgamesh666666/Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering)] [**`pc.`**]
 
 [[CVPR](https://ieeexplore.ieee.org/document/9879617)] NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration. [[Code](https://github.com/yifannnwu/NODEO-DIR)]
 
@@ -185,6 +372,58 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[CVPR](https://ieeexplore.ieee.org/document/9878922)] Lepard: Learning partial point cloud matching in rigid and deformable scenes [[Code](https://github.com/rabbityl/lepard)]
 
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_27)] Adapting the Mean Teacher for Keypoint-Based Lung Registration Under Geometric Domain Shifts.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_58)] Vol2Flow: Segment 3D Volumes Using a Sequence of Registration Flows.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_14)] Deformer: Towards Displacement Field Learning for Unsupervised Medical Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_5)] Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_7)] ContraReg: Contrastive Learning of Multi-modality Unsupervised Deformable Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_29)] Learning Iterative Optimisation for Deformable Image Registration of Lung CT with Recurrent Convolutional Networks. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_22)] Weakly-Supervised Biomechanically-Constrained CT/MRI Registration of the Spine.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_15)] End-to-End Multi-Slice-to-Volume Concurrent Registration and Multimodal Generation
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_4)] On the Dataset Quality Control for Image Registration Evaluation.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_10)] DSR: Direct Simultaneous Registration for Multiple 3D Images
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_26)] Global Multi-modal 2D/3D Registration via Local Descriptors Learning.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9)] Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8)] An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_3)] Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_6)] Embedding Gradient-Based Optimization in Image Registration Networks.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_23)] Collaborative Quantization Embeddings for Intra-subject Prostate MR Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21)] XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_11)] Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_12)] A Deep-Discrete Learning Framework for Spherical Surface Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_13)] Privacy Preserving Image Registration.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_20)] LiftReg: Limited Angle 2D/3D Deformable Registration. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_30)] Electron Microscope Image Registration Using Laplacian Sharpening Transformer U-Net.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_2)] Double-Uncertainty Guided Spatial and Temporal Consistency Regularization Weighting for Learning-Based Abdominal Registration. 
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_1)] SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_17)] Learning-Based US-MR Liver Image Registration with Spatial Priors
+
+[[MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_8)] Swin-VoxelMorph: A Symmetric Unsupervised Learning Model for Deformable Medical Image Registration Using Swin Transformer.
+
 [[MIA](https://doi.org/10.1016/j.media.2021.102265)] Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [**`medi.`**] [[code](https://github.com/acasamitjana/3dhirest)]
 
 [[MIA](https://doi.org/10.1016/j.media.2021.102292)] Deformable MR-CT image registration using an unsupervised, dual-channel network for neurosurgical guidance. [**`medi.`**]
@@ -194,6 +433,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 [[MIA](https://doi.org/10.1016/j.media.2022.102383)] Atlas-ISTN: Joint segmentation, registration and atlas construction with image-and-spatial transformer networks. [**`medi.`**]
 
 [[NeurIPS](https://arxiv.org/pdf/2205.12796.pdf)] Non-rigid Point Cloud Registration with Neural Deformation Pyramid  [[Code](https://github.com/rabbityl/DeformationPyramid)]
+
+[[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2022/hash/2e163450c1ae3167832971e6da29f38d-Abstract-Conference.html)] One-Inlier is First: Towards Efficient Position Encoding for Point Cloud Registration.
 
 [[ICLR](https://arxiv.org/pdf/2203.02227.pdf)] Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration]
 
@@ -348,8 +589,6 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 [[MIA](https://doi.org/10.1016/j.media.2020.101884)] A deep learning framework for pancreas segmentation with multi-atlas registration and 3D level-set. [**`medi.`**]
 
 [[MIA](https://doi.org/10.1016/j.media.2021.102041)] Anatomy-guided multimodal registration by learning segmentation without ground truth: Application to intraprocedural CBCT/MR liver segmentation and registration. [**`medi.`**]
-
-
 
 
 
