@@ -62,9 +62,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *Last updated: 2024/04/30*
 
-*2024/04/30 - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)*
+*2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)
 
-*2023/03/02 - add papers according to [zhulf0804](https://github.com/zhulf0804)‘s [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud)*, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud), update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -72,20 +72,15 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers (2019-2021) about image registration according to [JunMa11](https://github.com/JunMa11)'s [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
-
-- [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A) 
-- [MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A) 
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers).
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
-- [CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A) / [ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A) / [ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)
-- [AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A) / [NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A) 
-- [MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A) 
-
-*2022/06/18* - update papers (2020-2022) about point cloud registration from [NUAAXQ](https://github.com/NUAAXQ)'s [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022).
+*2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023).
 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
+
+
 
 ## 2024
 
@@ -104,6 +99,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 [[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002876)] Automatic registration with continuous pose updates for marker-less surgical navigation in spine surgery. 
 
 [[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002980)] Residual Aligner-based Network (RAN): Motion-separable structure for coarse-to-fine discontinuous deformable registration.
+
+
 
 ## 2023
 
@@ -814,13 +811,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [ECCV] [Fast Global Registration](https://www.researchgate.net/profile/Vladlen_Koltun/publication/305983982_Fast_Global_Registration/links/57a8086908aefe6167bc8366/Fast-Global-Registration.pdf) [Code](https://github.com/intel-isl/FastGlobalRegistration)
 
-
-
 ### 2015
 
 [TPAMI] [Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration](https://arxiv.org/pdf/1605.03344.pdf) [Code](https://github.com/yangjiaolong/Go-ICP)
-
-
 
 ### 2009
 
@@ -828,25 +821,21 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [RSS] [Generalized-ICP](http://www.robots.ox.ac.uk/~avsegal/resources/papers/Generalized_ICP.pdf) 
 
-
-
 ### 1992
 
 [TPAMI] [A method for registration of 3-D shapes](https://www.researchgate.net/publication/3191994_A_method_for_registration_of_3-D_shapes_IEEE_Trans_Pattern_Anal_Mach_Intell) 
 
-
-
 ### 1987
 
 [TPAMI] [Least-squares fitting of two 3-D point sets](https://www.researchgate.net/publication/224378053_Least-squares_fitting_of_two_3-D_point_sets_IEEE_T_Pattern_Anal) 
+
+
 
 ---
 
 # Learning Resources
 
 Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources). I followed his style to collect resources 
-
-
 
 **This resources collect:**
 
@@ -1322,8 +1311,6 @@ A demo that implement image registration by matching SIFT descriptors and applin
 > There are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.
 
 - [MIT] [**HST.582J**](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/)  Biomedical Signal and Image Processing [PDF](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/lecture-notes/l16_reg1.pdf) 
-
-
 
 
 
