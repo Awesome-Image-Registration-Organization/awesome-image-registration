@@ -57,7 +57,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2024/12/03*
+*Last updated: 2025/04/25*
+
+*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration)
 
 *2024/12/03* - update recent papers
 
@@ -84,6 +86,16 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 [[MIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002810)] PViT-AIR: Puzzling vision transformer-based affine image registration for multi histopathology and faxitron images of breast tissue.
 
 [[MIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002767)] MUsculo-Skeleton-Aware (MUSA) deep learning for anatomically guided head-and-neck CT deformable registration
+
+[[ICLR](https://arxiv.org/abs/2411.02372)] Learning General-purpose Biomedical Volume Representations using Randomized Synthesis [code](https://github.com/neel-dey/anatomix)
+
+[[CVPR](https://arxiv.org/pdf/2503.19592)] SACB-Net: Spatial-awareness Convolutions for Medical Image Registration [code](https://github.com/x-xc/SACB_Net)
+
+[[CVPR](https://arxiv.org/pdf/2405.16738)] CARL: A Framework for Equivariant Image Registration
+
+[[CVPR](https://arxiv.org/pdf/2504.00247)] MultiMorph: On-demand Atlas Construction [code](https://github.com/mabulnaga/multimorph)
+
+[[TPAMI](https://www.arxiv.org/abs/2502.05282)] Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning [code](https://github.com/YutingHe-list/GEMINI)
 
 ## 2024
 
@@ -1709,3 +1721,4 @@ Many thanks :heart: to the other awesome list:
 - **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
 - [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)  
 - [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+- [**Zi LI**](https://github.com/Alison-brie) [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration)
