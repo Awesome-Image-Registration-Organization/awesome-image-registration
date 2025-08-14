@@ -57,13 +57,15 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2025/04/25*
+*Last updated: 2025/08/14*
+
+*2025/08/14* - update recent papers
 
 *2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration)
 
 *2024/12/03* - update recent papers
 
-*2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)
+*2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
 *2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud), update recent papers on CVPR/ECCV 2022
 
@@ -83,19 +85,77 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ## 2025
 
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32251)] Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment.
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i3.32284)] HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions.
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i4.32395)] PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration. 
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i2.32164)] GRICP: Granular-Ball Iterative Closest Point with Multikernel Correntropy for Point Cloud Fine Registration. 
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i9.33055)] Where Precision Meets Efficiency: Transformation Diffusion Model for Point Cloud Registration. 
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i10.33121)] Partial Point Cloud Registration with Multi-view 2D Image Learning.
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i1.32103)] A Gaussian Filter-Based 3D Registration Method for Series Section Electron Microscopy. 
+
+[[AAAI](https://doi.org/10.1609/aaai.v39i10.33129)] Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework.
+
+[[ICLR](https://arxiv.org/abs/2411.02372)] Learning General-purpose Biomedical Volume Representations using Randomized Synthesis [code](https://github.com/neel-dey/anatomix)
+
+[[ICLR](https://openreview.net/forum?id=cjJqU40nYS)] Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy.
+
+[[ICLR](https://openreview.net/forum?id=w8LMtFY97b)] Hierarchical Uncertainty Estimation for Learning-based Registration in Neuroimaging.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.html)] SACB-Net: Spatial-awareness Convolutions for Medical Image Registration [code](https://github.com/x-xc/SACB_Net)
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Greer_CARL_A_Framework_for_Equivariant_Image_Registration_CVPR_2025_paper.html)] CARL: A Framework for Equivariant Image Registration
+
+[[CVPR](https://arxiv.org/pdf/2504.00247)] MultiMorph: On-demand Atlas Construction [code](https://github.com/mabulnaga/multimorph)
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Bie_GraphI2P_Image-to-Point_Cloud_Registration_with_Exploring_Pattern_of_Correspondence_via_CVPR_2025_paper.html)] GraphI2P: Image-to-Point Cloud Registration with Exploring Pattern of Correspondence via Graph Learning
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Edstedt_ColabSfM_Collaborative_Structure-from-Motion_by_Point_Cloud_Registration_CVPR_2025_paper.html)] ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Dual_Focus-Attention_Transformer_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html)] Dual Focus-Attention Transformer for Robust Point Cloud Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Zero-shot_RGB-D_Point_Cloud_Registration_with_Pre-trained_Large_Vision_Model_CVPR_2025_paper.html)] Zero-shot RGB-D Point Cloud Registration with Pre-trained Large Vision Model. 
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.html)] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Implicit_Correspondence_Learning_for_Image-to-Point_Cloud_Registration_CVPR_2025_paper.html)] Implicit Correspondence Learning for Image-to-Point Cloud Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AutoURDF_Unsupervised_Robot_Modeling_from_Point_Cloud_Frames_Using_Cluster_CVPR_2025_paper.html)] AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stable-SCore_A_Stable_Registration-based_Framework_for_3D_Shape_Correspondence_CVPR_2025_paper.html)] Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence. 
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Cross-Rejective_Open-Set_SAR_Image_Registration_CVPR_2025_paper.html)] Cross-Rejective Open-Set SAR Image Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HeMoRa_Unsupervised_Heuristic_Consensus_Sampling_for_Robust_Point_Cloud_Registration_CVPR_2025_paper.html)] HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Unlocking_Generalization_Power_in_LiDAR_Point_Cloud_Registration_CVPR_2025_paper.html)] Unlocking Generalization Power in LiDAR Point Cloud Registration.
+
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Progressive_Correspondence_Regenerator_for_Robust_3D_Registration_CVPR_2025_paper.html)] Progressive Correspondence Regenerator for Robust 3D Registration
+
+[[TPAMI](https://www.arxiv.org/abs/2502.05282)] Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning [code](https://github.com/YutingHe-list/GEMINI)
+
 [[MIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002810)] PViT-AIR: Puzzling vision transformer-based affine image registration for multi histopathology and faxitron images of breast tissue.
 
 [[MIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002767)] MUsculo-Skeleton-Aware (MUSA) deep learning for anatomically guided head-and-neck CT deformable registration
 
-[[ICLR](https://arxiv.org/abs/2411.02372)] Learning General-purpose Biomedical Volume Representations using Randomized Synthesis [code](https://github.com/neel-dey/anatomix)
+[[MIA](https://doi.org/10.1016/j.media.2025.103662)] USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI.
 
-[[CVPR](https://arxiv.org/pdf/2503.19592)] SACB-Net: Spatial-awareness Convolutions for Medical Image Registration [code](https://github.com/x-xc/SACB_Net)
+[[MIA](https://doi.org/10.1016/j.media.2025.103624)] Nested hierarchical group-wise registration with a graph-based subgrouping strategy for efficient template construction.
 
-[[CVPR](https://arxiv.org/pdf/2405.16738)] CARL: A Framework for Equivariant Image Registration
+[[MIA](https://doi.org/10.1016/j.media.2024.103385)] A survey on deep learning in medical image registration: New technologies, uncertainty, evaluation metrics, and beyond.
 
-[[CVPR](https://arxiv.org/pdf/2504.00247)] MultiMorph: On-demand Atlas Construction [code](https://github.com/mabulnaga/multimorph)
+[[MIA](https://doi.org/10.1016/j.media.2025.103577)] Deep implicit optimization enables robust learnable features for deformable image registration.
 
-[[TPAMI](https://www.arxiv.org/abs/2502.05282)] Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning [code](https://github.com/YutingHe-list/GEMINI)
+[[MIA](https://doi.org/10.1016/j.media.2025.103688)] Domain agnostic 2D-3D deformable registration Application to fluoroscopic guidance without contrast agent
+
+[[MIA](https://doi.org/10.1016/j.media.2025.103698)] FPM-R2Net: Fused Photoacoustic and operating Microscopic imaging with cross-modality Representation and Registration Network.
+
+[[MIA](https://doi.org/10.1016/j.media.2025.103620)] SynMSE: A multimodal similarity evaluator for complex distribution discrepancy  in unsupervised deformable multimodal medical image registration.
 
 ## 2024
 
@@ -249,7 +309,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[MIA](https://linkinghub.elsevier.com/retrieve/pii/S1361841523002980)] Residual Aligner-based Network (RAN): Motion-separable structure for coarse-to-fine discontinuous deformable registration. [[Code](https://github.com/jianqingzheng/res_aligner_net)] [**`medi.`**]
 
+[[ICLR](https://openreview.net/forum?id=BPb5AhT2Vf)] FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators.
 
+[[ICLR](https://openreview.net/forum?id=DGez4B2a6Y)] A Plug-and-Play Image Registration Network.
 
 ## 2023
 
@@ -582,7 +644,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 [[NeurIPS](https://proceedings.neurips.cc//paper_files/paper/2022/hash/2e163450c1ae3167832971e6da29f38d-Abstract-Conference.html)] One-Inlier is First: Towards Efficient Position Encoding for Point Cloud Registration.
 
-[[ICLR](https://arxiv.org/pdf/2203.02227.pdf)] Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration]
+[[ICLR](https://arxiv.org/pdf/2203.02227.pdf)] Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration
 
 [[TIP](https://arxiv.org/pdf/2302.01109.pdf)] GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing [[Code](https://github.com/zikai1/GraphReg)]
 
