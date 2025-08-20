@@ -57,7 +57,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2025/08/14*
+*Last updated: 2025/08/20*
 
 *2025/08/20* - update recent papers
 
