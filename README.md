@@ -57,9 +57,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2025/08/14*
+*Last updated: 2025/08/20*
 
-*2025/08/14* - update recent papers
+*2025/08/20* - update recent papers
 
 *2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration)
 
@@ -84,6 +84,52 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
 ## 2025
+
+[[MICCAI](https://arxiv.org/pdf/2506.02419)] Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models [code](https://github.com/uncbiag/dgir)
+
+[[MICCAI](https://arxiv.org/pdf/2503.04499)] Spatial regularisation for improved accuracy and interpretability in keypoint-based registration [code](https://github.com/BenBillot/spatial_regularisation)
+
+[[MICCAI](https://arxiv.org/abs/2506.15596)] Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration [code](https://github.com/MICV-yonsei/M2M-Reg)
+
+[[MICCAI](https://arxiv.org/pdf/2506.19975)] VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration [code](https://github.com/tinymilky/VoxelOpt)
+
+[[MICCAI](https://arxiv.org/pdf/2503.05335)] New Multimodal Similarity Measure for Image Registration via Modeling Local Functional Dependence with Linear Combination of Learned Basis Functions
+
+[[MICCAI](https://arxiv.org/pdf/2503.02481)] A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection
+
+[[MICCAI](https://www.arxiv.org/pdf/2506.02150)] Implicit Deformable Medical Image Registration with Learnable Kernels
+
+[[MICCAI](https://arxiv.org/pdf/2507.00582)] Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models
+
+[[MICCAI](https://arxiv.org/pdf/2503.08802)] Deformable Registration Framework for Augmented Reality-based Surgical Guidance in Head and Neck Tumor Resection
+
+[[MICCAI]()] Vascular Photoacoustic Volume Registration via 2D Feature Matching with Reverse Mapping Based on Maximum Intensity Projection 
+
+[[MICCAI]()] PromptReg: Universal Medical Image Registration via Task Prompt Learning and Domain Knowledge Transfer
+
+[[MICCAI]()] EUReg: End-to-end Framework for Efficient 2D-3D Ultrasound Registration
+
+[[MICCAI]()] EG-Net: An Edge-Guided Network for Rigid Registration of Laparoscopic Low-Overlap Point Clouds
+
+[[MICCAI]()] DGMIR: Dual-Guided Multimodal Medical Image Registration based on Multi-view Augmentation and On-site Modality Removal
+
+[[MICCAI]()] Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation
+
+[[MICCAI]()] RDMR: Recursive Inference and Representation Disentanglement for Multimodal Large Deformation Registration
+
+[[MICCAI]()] LDDMEm: Large Deformation Diffeomorphic Metric Embedding Decoupling Shape Analysis from Image Registration
+
+[[MICCAI]()] RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
+
+[[MICCAI]()] Towards Patient-Specific Deformable Registration in Laparoscopic Surgery
+
+[[MICCAI]()] Structure-Preserve Expansion for Medical Image Registration with Minimal Overlap
+
+[[MICCAI]()] Gaussian Primitive Optimized Deformable Retinal Image Registration
+
+[[MICCAI]()] Unsupervised OCT image interpolation using deformable registration and generative models
+
+[[MICCAI]()] Probabilistic Inverse Consistent Image Registration Using Sparse Bayesian Network
 
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32251)] Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment.
 
