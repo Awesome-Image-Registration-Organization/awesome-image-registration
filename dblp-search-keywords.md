@@ -96,12 +96,15 @@ ICP 是点云配准最经典算法，大量 ICP 变体论文标题**只提 ICP**
 |--------|-----------|
 | ICP | `ICP` |
 
-**检索式：**
+**检索式（建议拆分为两次独立查询）：**
 ```text
-ICP|iterative closest
+ICP
+iterative closest
 ```
 
 > 覆盖示例：*Generalized-ICP*, *Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration*
+>
+> ⚠️ **注意**：`ICP|iterative closest` 在部分 venue 下会返回 0 结果（如 `ICP|iterative closest venue:CVPR:` 返回 0，但 `ICP venue:CVPR:` 单独有 7 篇）。建议拆分为两个独立查询分别调用。
 
 ---
 
@@ -131,10 +134,14 @@ correspond|align
 | 运动校正 | `motion correction` |
 | 变形场 | `deformation field` |
 
-**组合检索式：**
+**检索式（建议拆分为三次独立查询）：**
 ```text
-atlas construction|motion correction|deformation field
+atlas construction
+motion correction
+deformation field
 ```
+
+> ⚠️ **注意**：`atlas construction|motion correction` 全局理论并集应为 800+ 篇，但 DBLP 实际仅返回 2 篇；加 venue 过滤后甚至返回 0。低频双字词组的 `|` 组合存在严重结果丢失，建议完全拆分为独立查询。
 
 ---
 
@@ -149,7 +156,7 @@ atlas construction|motion correction|deformation field
 
 第二种写法会引入大量只含 "image" 或 "feature" 但不含 "match" 的无关论文，因此**不可省略重复词**。
 
-> 这一规则适用于本文档中所有包含 `\|` 的检索式，如 `optical flow\|scene flow`、`atlas construction\|motion correction` 等。
+> 这一规则适用于本文档中所有包含 `\|` 的检索式，如 `optical flow\|scene flow` 等。对于低频双字词组（如 `atlas construction\|motion correction`），即使只有两个分支，也可能严重丢失结果，建议拆分为独立查询。
 
 ---
 
@@ -164,9 +171,9 @@ atlas construction|motion correction|deformation field
 | 🎯 图像匹配 | `image match\|feature match\|keypoint match\|graph match\|stereo match` |
 | 🌊 光流/场景流 | `optical flow\|scene flow` |
 | 🧩 图像拼接 | `stitch\|panorama\|mosaic` |
-| ☁️ 点云 ICP | `ICP\|iterative closest` |
+| ☁️ 点云 ICP | `ICP` / `iterative closest`（两次独立查询） |
 | 🔗 对应关系/对齐 | `correspond\|align` |
-| 🏥 医学图像 | `atlas construction\|motion correction\|deformation field` |
+| 🏥 医学图像 | `atlas construction` / `motion correction` / `deformation field`（三次独立查询） |
 
 ---
 
@@ -180,19 +187,21 @@ atlas construction|motion correction|deformation field
 - **组间互补**：各组之间无重叠覆盖，合起来覆盖全部互斥方向。
 - **长度可控**：每组长度适中，避免 API 拒绝或超时。
 
-### 推荐分组（共 6 个方向，7 次查询）
+### 推荐分组（共 8 个方向，10 次查询）
 
 | 组号 | 技术方向 | DBLP 查询字符串 | 说明 |
 |------|---------|----------------|------|
 | **G1** | 图像匹配 | `image match\|feature match\|keypoint match\|graph match\|stereo match` | 覆盖图像/特征/关键点/图/立体匹配 |
 | **G2** | 光流与场景流 | `optical flow\|scene flow` | 稠密可变形配准的等价社区 |
 | **G3** | 图像拼接与镶嵌 | `stitch\|panorama\|mosaic` | 多图配准相关 |
-| **G4** | 点云 ICP | `ICP\|iterative closest` | 点云配准经典算法 |
+| **G4a** | 点云 ICP | `ICP` | 点云配准经典算法（ICP 缩写） |
+| **G4b** | 点云 ICP（扩展） | `iterative closest` | 点云配准经典算法（全称） |
 | **G5** | 对应关系与对齐 | `correspond\|align` | 对应估计与对齐 |
-| **G6a** | 医学图像（图谱/校正） | `atlas construction\|motion correction` | 图谱构建与运动校正 |
-| **G6b** | 医学图像（变形场） | `deformation field` | 变形场估计 |
+| **G6a** | 医学图像（图谱） | `atlas construction` | 图谱构建 |
+| **G6b** | 医学图像（校正） | `motion correction` | 运动校正 |
+| **G6c** | 医学图像（变形场） | `deformation field` | 变形场估计 |
 
-> **为什么 G6 拆分为两组？** 实测发现 `atlas construction\|motion correction\|deformation field`（三个双字词组用 `\|` 连接）在 DBLP 中返回 **0 结果**，但拆分为两个查询后均正常返回。详见下文"DBLP 已知限制"。
+> **为什么 G6 拆分为三组？** 实测发现 `atlas construction\|motion correction\|deformation field`（三个双字词组用 `\|` 连接）在 DBLP 中返回 **0 结果**；进一步测试发现即使只有两个低频双字词组（`atlas construction\|motion correction`），全局理论并集 800+ 篇也被压缩为仅 2 篇。因此三个词全部拆分为独立查询。详见下文"DBLP 已知限制"。
 
 ### 与 venue 过滤结合的分组示例
 
@@ -200,45 +209,52 @@ atlas construction|motion correction|deformation field
 
 | 目标 | G1 (图像匹配) + CVPR | G4 (点云 ICP) + CVPR |
 |------|----------------------|----------------------|
-| 查询 | `image match\|feature match\|keypoint match venue:CVPR:` | `ICP\|iterative closest venue:CVPR:` |
+| 查询 | `image match\|feature match\|keypoint match venue:CVPR:` | `ICP venue:CVPR:` / `iterative closest venue:CVPR:` |
 
 ### 综合检索式（仅作参考，不推荐用于 API）
 
 如果你坚持单次查询，可使用以下完整表达式（长度较长，可能受 API 限制）：
 
 ```text
-image match|feature match|keypoint match|graph match|stereo match|optical flow|scene flow|stitch|panorama|mosaic|ICP|iterative closest|correspond|align|atlas construction|motion correction
+image match|feature match|keypoint match|graph match|stereo match|optical flow|scene flow|stitch|panorama|mosaic|ICP|iterative closest|correspond|align|atlas construction|motion correction|deformation field
 ```
 
-> ⚠️ 综合式噪声较高且可能触发长度限制，**强烈建议使用上方 G1-G6 分组方案**。
+> ⚠️ 综合式噪声较高且可能触发长度限制，**强烈建议使用上方 G1-G6 分组方案**。特别注意：`ICP|iterative closest` 和 `atlas construction|motion correction` 等低频组合在综合式中问题更严重。
 
 ---
 
 ## DBLP 已知限制（实测发现）
 
-### 限制 1：三个及以上双字词组的 `\|` 组合可能返回 0 结果
+### 限制 1：低频双字词组的 `\|` 组合严重丢失结果
 
-**现象**：当使用 `\|` 连接**三个或更多分支**，且**每个分支内部都包含空格（AND）**时，如果所有分支均为低频词组合，DBLP 会返回 **0 结果**。
+**现象**：当使用 `\|` 连接多个分支，且分支为**低频双字词组**（每个分支内部包含空格 AND）时，DBLP 会**严重丢失结果**，甚至返回 **0 结果**。
 
 **实测验证**：
 
 | 查询 | 解析结果 | 返回结果数 | 状态 |
 |------|---------|-----------|------|
 | `atlas construction\|motion correction\|deformation field` | `atlas* construction* \| motion* correction* \| deformation* field*` | **0** | ❌ |
-| `atlas construction\|motion correction` | `atlas* construction* \| motion* correction*` | 2 | ✅ |
+| `atlas construction\|motion correction` | `atlas* construction* \| motion* correction*` | **2**（理论并集 800+） | ❌ |
+| `atlas construction` | `atlas* construction*` | 159 | ✅ |
+| `motion correction` | `motion* correction*` | 714 | ✅ |
 | `deformation field` | `deformation* field*` | 329 | ✅ |
+| `ICP\|iterative closest venue:CVPR:` | — | **0** | ❌ |
+| `ICP venue:CVPR:` | — | 7 | ✅ |
+| `iterative closest venue:CVPR:` | — | 0 | ✅（确实无结果） |
 | `atlas construction\|motion correction\|deformation` | `atlas* construction* \| motion* correction* \| deformation*` | 5 | ✅ |
 
 **规律**：
 - ❌ `A B\|C D\|E F`（三个双字词组）→ 可能返回 0
-- ✅ `A B\|C D`（两个双字词组）→ 正常
+- ❌ `A B\|C D`（**两个低频双字词组**）→ **严重丢失结果**（如 800+ → 2）
+- ❌ `A B\|C D`（两个双字词组 + venue 过滤）→ 可能返回 0
+- ✅ `A B\|C D`（两个**高频**双字词组，如 `image match\|feature match`）→ 正常
 - ✅ `A B\|C D\|E`（两个双字 + 一个单字）→ 正常
 - ✅ `A\|B\|C`（三个单字词）→ 正常
 - ✅ `A B\|C D\|E F\|G`（含单字词穿插）→ 正常
 
 **结论**：
-- 若多个 `(word1 word2)` 形式的分支需要 OR 连接，**建议最多两个双字词组连用**，或确保至少有一个分支是单字词。
-- 超过两个双字词组时，**拆分为多次 API 调用**（如 G6a/G6b 的做法）。
+- 若多个 `(word1 word2)` 形式的分支需要 OR 连接，**建议最多两个双字词组连用**，且确保它们是**高频词组**。
+- 对于**低频词组**（如 `atlas construction`、`motion correction`、`iterative closest`），**无论几个分支，均建议拆分为多次独立 API 调用**，避免结果丢失。
 
 ---
 
@@ -250,8 +266,9 @@ image match|feature match|keypoint match|graph match|stereo match|optical flow|s
 |------|---------------------|
 | CVPR 图像匹配 | `image match|feature match venue:CVPR:` |
 | ICCV 光流 | `optical flow venue:ICCV:` |
-| MICCAI 医学图像 | `atlas construction|motion correction venue:MICCAI:` |
-| TPAMI 期刊论文 | `ICP|iterative closest type:Journal_Articles: venue:IEEE_Trans._Pattern_Anal._Mach._Intell.:` |
+| MICCAI 医学图像（图谱） | `atlas construction venue:MICCAI:` |
+| MICCAI 医学图像（校正） | `motion correction venue:MICCAI:` |
+| TPAMI 期刊论文 | `ICP type:Journal_Articles: venue:IEEE_Trans._Pattern_Anal._Mach._Intell.:` |
 
 > venue 和 type 过滤器的写法可参考 README 中已有的 DBLP 链接格式。
 
