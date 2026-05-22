@@ -12,6 +12,17 @@ We use another project to automatically track updates to IR papers, click on [IR
 
 Please note that if this page does not display the full content, please visit the [official homepage](https://awesome-image-registration-organization.github.io/awesome-image-registration/) for full information.
 
+## **How to contact us**
+
+We have QQ Group  【配准萌新交流群】（**已满3000人**）869211738  欢迎加入【配准萌新交流（二群)】 929134506 and Wechat Group 【配准交流群】（**已满员**） for comunications.
+
+
+**More items will be added to the repository**.
+Please feel free to suggest other key resources by opening an issue report,
+submitting a pull request, or dropping me an email @ (im.young@foxmail.com).
+Enjoy reading!
+
+
 [**Paper Lists**](#Paper-Lists)
 
 - 2020s: [2026](#2026) [2025](#2025) [2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020)
@@ -5286,28 +5297,6 @@ A demo that implement image registration by matching SIFT descriptors and applin
 #### Point Cloud
 
 IEEE旗下的TPAMI，TIP等，还有SIAM Journal Image Sciences，Springer那边有IJCV
-
-
-
-
-
----
-
-## **How to contact us**
-
-We have QQ Group  【配准萌新交流群】（**已满3000人**）869211738  欢迎加入【配准萌新交流（二群)】 929134506 and Wechat Group 【配准交流群】（**已满员**） for comunications.
-
-
-
-**More items will be added to the repository**.
-Please feel free to suggest other key resources by opening an issue report,
-submitting a pull request, or dropping me an email @ (im.young@foxmail.com).
-Enjoy reading!
-
-
-
-
-
 
 
 ## Acknowledgments
